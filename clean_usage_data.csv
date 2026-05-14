@@ -1,0 +1,3487 @@
+Date,Product,Usage,DayName,Month,Year
+2025-01-01,Chicken,466.0,Wednesday,1,2025
+2025-01-02,Chicken,492.0,Thursday,1,2025
+2025-01-03,Chicken,472.0,Friday,1,2025
+2025-01-04,Chicken,363.0,Saturday,1,2025
+2025-01-05,Chicken,482.0,Sunday,1,2025
+2025-01-06,Chicken,424.0,Monday,1,2025
+2025-01-07,Chicken,4060.0,Tuesday,1,2025
+2025-01-08,Chicken,466.0,Wednesday,1,2025
+2025-01-09,Chicken,492.0,Thursday,1,2025
+2025-01-10,Chicken,472.0,Friday,1,2025
+2025-01-11,Chicken,363.0,Saturday,1,2025
+2025-01-12,Chicken,482.0,Sunday,1,2025
+2025-01-13,Chicken,424.0,Monday,1,2025
+2025-01-14,Chicken,4060.0,Tuesday,1,2025
+2025-01-15,Chicken,466.0,Wednesday,1,2025
+2025-01-16,Chicken,492.0,Thursday,1,2025
+2025-01-17,Chicken,472.0,Friday,1,2025
+2025-01-18,Chicken,363.0,Saturday,1,2025
+2025-01-19,Chicken,482.0,Sunday,1,2025
+2025-01-20,Chicken,424.0,Monday,1,2025
+2025-01-21,Chicken,4060.0,Tuesday,1,2025
+2025-01-22,Chicken,466.0,Wednesday,1,2025
+2025-01-23,Chicken,492.0,Thursday,1,2025
+2025-01-24,Chicken,472.0,Friday,1,2025
+2025-01-25,Chicken,363.0,Saturday,1,2025
+2025-01-26,Chicken,482.0,Sunday,1,2025
+2025-01-27,Chicken,424.0,Monday,1,2025
+2025-01-28,Chicken,4060.0,Tuesday,1,2025
+2025-01-29,Chicken,466.0,Wednesday,1,2025
+2025-01-30,Chicken,492.0,Thursday,1,2025
+2025-01-31,Chicken,472.0,Friday,1,2025
+2025-02-01,Chicken,363.0,Saturday,2,2025
+2025-02-02,Chicken,482.0,Sunday,2,2025
+2025-02-03,Chicken,424.0,Monday,2,2025
+2025-02-04,Chicken,4060.0,Tuesday,2,2025
+2025-02-05,Chicken,466.0,Wednesday,2,2025
+2025-02-06,Chicken,492.0,Thursday,2,2025
+2025-02-07,Chicken,472.0,Friday,2,2025
+2025-02-08,Chicken,363.0,Saturday,2,2025
+2025-02-09,Chicken,482.0,Sunday,2,2025
+2025-02-10,Chicken,424.0,Monday,2,2025
+2025-02-11,Chicken,4060.0,Tuesday,2,2025
+2025-02-12,Chicken,466.0,Wednesday,2,2025
+2025-02-13,Chicken,492.0,Thursday,2,2025
+2025-02-14,Chicken,472.0,Friday,2,2025
+2025-02-15,Chicken,363.0,Saturday,2,2025
+2025-02-16,Chicken,482.0,Sunday,2,2025
+2025-02-17,Chicken,424.0,Monday,2,2025
+2025-02-18,Chicken,4060.0,Tuesday,2,2025
+2025-02-19,Chicken,466.0,Wednesday,2,2025
+2025-02-20,Chicken,492.0,Thursday,2,2025
+2025-02-21,Chicken,472.0,Friday,2,2025
+2025-02-22,Chicken,363.0,Saturday,2,2025
+2025-02-23,Chicken,482.0,Sunday,2,2025
+2025-02-24,Chicken,424.0,Monday,2,2025
+2025-02-25,Chicken,4060.0,Tuesday,2,2025
+2025-02-26,Chicken,466.0,Wednesday,2,2025
+2025-02-27,Chicken,492.0,Thursday,2,2025
+2025-02-28,Chicken,472.0,Friday,2,2025
+2025-03-01,Chicken,363.0,Saturday,3,2025
+2025-03-02,Chicken,482.0,Sunday,3,2025
+2025-03-03,Chicken,424.0,Monday,3,2025
+2025-03-04,Chicken,4060.0,Tuesday,3,2025
+2025-03-05,Chicken,466.0,Wednesday,3,2025
+2025-03-06,Chicken,492.0,Thursday,3,2025
+2025-03-07,Chicken,472.0,Friday,3,2025
+2025-03-08,Chicken,363.0,Saturday,3,2025
+2025-03-09,Chicken,482.0,Sunday,3,2025
+2025-03-10,Chicken,424.0,Monday,3,2025
+2025-03-11,Chicken,4060.0,Tuesday,3,2025
+2025-03-12,Chicken,466.0,Wednesday,3,2025
+2025-03-13,Chicken,492.0,Thursday,3,2025
+2025-03-14,Chicken,472.0,Friday,3,2025
+2025-03-15,Chicken,363.0,Saturday,3,2025
+2025-03-16,Chicken,482.0,Sunday,3,2025
+2025-03-17,Chicken,424.0,Monday,3,2025
+2025-03-18,Chicken,4060.0,Tuesday,3,2025
+2025-03-19,Chicken,466.0,Wednesday,3,2025
+2025-03-20,Chicken,492.0,Thursday,3,2025
+2025-03-21,Chicken,472.0,Friday,3,2025
+2025-03-22,Chicken,363.0,Saturday,3,2025
+2025-03-23,Chicken,482.0,Sunday,3,2025
+2025-03-24,Chicken,424.0,Monday,3,2025
+2025-03-25,Chicken,4060.0,Tuesday,3,2025
+2025-03-26,Chicken,466.0,Wednesday,3,2025
+2025-03-27,Chicken,492.0,Thursday,3,2025
+2025-03-28,Chicken,472.0,Friday,3,2025
+2025-03-29,Chicken,363.0,Saturday,3,2025
+2025-03-30,Chicken,482.0,Sunday,3,2025
+2025-03-31,Chicken,424.0,Monday,3,2025
+2025-04-01,Chicken,4060.0,Tuesday,4,2025
+2025-04-02,Chicken,466.0,Wednesday,4,2025
+2025-04-03,Chicken,492.0,Thursday,4,2025
+2025-04-04,Chicken,472.0,Friday,4,2025
+2025-04-05,Chicken,363.0,Saturday,4,2025
+2025-04-06,Chicken,482.0,Sunday,4,2025
+2025-04-07,Chicken,424.0,Monday,4,2025
+2025-04-08,Chicken,4060.0,Tuesday,4,2025
+2025-04-09,Chicken,466.0,Wednesday,4,2025
+2025-04-10,Chicken,492.0,Thursday,4,2025
+2025-04-11,Chicken,472.0,Friday,4,2025
+2025-04-12,Chicken,363.0,Saturday,4,2025
+2025-04-13,Chicken,482.0,Sunday,4,2025
+2025-04-14,Chicken,213.0,Monday,4,2025
+2025-04-15,Chicken,1968.0,Tuesday,4,2025
+2025-04-16,Chicken,333.0,Wednesday,4,2025
+2025-04-17,Chicken,439.0,Thursday,4,2025
+2025-04-18,Chicken,228.0,Friday,4,2025
+2025-04-19,Chicken,541.0,Saturday,4,2025
+2025-04-20,Chicken,491.0,Sunday,4,2025
+2025-04-21,Chicken,376.0,Monday,4,2025
+2025-04-22,Chicken,2661.0,Tuesday,4,2025
+2025-04-23,Chicken,479.0,Wednesday,4,2025
+2025-04-24,Chicken,444.0,Thursday,4,2025
+2025-04-25,Chicken,290.0,Friday,4,2025
+2025-04-26,Chicken,601.0,Saturday,4,2025
+2025-04-27,Chicken,248.0,Sunday,4,2025
+2025-04-28,Chicken,417.0,Monday,4,2025
+2025-04-29,Chicken,3009.0,Tuesday,4,2025
+2025-04-30,Chicken,349.0,Wednesday,4,2025
+2025-05-01,Chicken,323.0,Thursday,5,2025
+2025-05-02,Chicken,228.0,Friday,5,2025
+2025-05-03,Chicken,630.0,Saturday,5,2025
+2025-05-04,Chicken,249.0,Sunday,5,2025
+2025-05-05,Chicken,468.0,Monday,5,2025
+2025-05-06,Chicken,2562.0,Tuesday,5,2025
+2025-05-07,Chicken,499.0,Wednesday,5,2025
+2025-05-08,Chicken,643.0,Thursday,5,2025
+2025-05-09,Chicken,643.0,Friday,5,2025
+2025-05-10,Chicken,183.0,Saturday,5,2025
+2025-05-11,Chicken,738.0,Sunday,5,2025
+2025-05-12,Chicken,338.0,Monday,5,2025
+2025-05-13,Chicken,2679.0,Tuesday,5,2025
+2025-05-14,Chicken,727.0,Wednesday,5,2025
+2025-05-15,Chicken,532.0,Thursday,5,2025
+2025-05-16,Chicken,314.0,Friday,5,2025
+2025-05-17,Chicken,930.0,Saturday,5,2025
+2025-05-18,Chicken,360.0,Sunday,5,2025
+2025-05-19,Chicken,521.0,Monday,5,2025
+2025-05-20,Chicken,3002.0,Tuesday,5,2025
+2025-05-21,Chicken,472.0,Wednesday,5,2025
+2025-05-22,Chicken,692.0,Thursday,5,2025
+2025-05-23,Chicken,326.0,Friday,5,2025
+2025-05-24,Chicken,956.0,Saturday,5,2025
+2025-05-25,Chicken,546.0,Sunday,5,2025
+2025-05-26,Chicken,465.0,Monday,5,2025
+2025-05-27,Chicken,3198.0,Tuesday,5,2025
+2025-05-28,Chicken,643.0,Wednesday,5,2025
+2025-05-29,Chicken,802.0,Thursday,5,2025
+2025-05-30,Chicken,513.0,Friday,5,2025
+2025-05-31,Chicken,723.0,Saturday,5,2025
+2025-06-01,Chicken,425.0,Sunday,6,2025
+2025-06-02,Chicken,611.0,Monday,6,2025
+2025-06-03,Chicken,2963.0,Tuesday,6,2025
+2025-06-04,Chicken,715.0,Wednesday,6,2025
+2025-06-05,Chicken,233.0,Thursday,6,2025
+2025-06-06,Chicken,233.0,Friday,6,2025
+2025-06-07,Chicken,200.0,Saturday,6,2025
+2025-06-08,Chicken,248.0,Sunday,6,2025
+2025-06-09,Chicken,190.0,Monday,6,2025
+2025-06-10,Chicken,1276.0,Tuesday,6,2025
+2025-06-11,Chicken,228.0,Wednesday,6,2025
+2025-06-12,Chicken,272.0,Thursday,6,2025
+2025-06-13,Chicken,222.0,Friday,6,2025
+2025-06-14,Chicken,667.0,Saturday,6,2025
+2025-06-15,Chicken,463.0,Sunday,6,2025
+2025-06-16,Chicken,578.0,Monday,6,2025
+2025-06-17,Chicken,2652.0,Tuesday,6,2025
+2025-06-18,Chicken,625.0,Wednesday,6,2025
+2025-06-19,Chicken,1014.0,Thursday,6,2025
+2025-06-20,Chicken,354.0,Friday,6,2025
+2025-06-21,Chicken,693.0,Saturday,6,2025
+2025-06-22,Chicken,547.0,Sunday,6,2025
+2025-06-23,Chicken,630.0,Monday,6,2025
+2025-06-24,Chicken,3071.0,Tuesday,6,2025
+2025-06-25,Chicken,512.0,Wednesday,6,2025
+2025-06-26,Chicken,587.0,Thursday,6,2025
+2025-06-27,Chicken,318.0,Friday,6,2025
+2025-06-28,Chicken,784.0,Saturday,6,2025
+2025-06-29,Chicken,465.0,Sunday,6,2025
+2025-06-30,Chicken,574.0,Monday,6,2025
+2025-07-01,Chicken,3138.0,Tuesday,7,2025
+2025-07-02,Chicken,411.0,Wednesday,7,2025
+2025-07-03,Chicken,850.0,Thursday,7,2025
+2025-07-04,Chicken,418.0,Friday,7,2025
+2025-07-05,Chicken,977.0,Saturday,7,2025
+2025-07-06,Chicken,378.0,Sunday,7,2025
+2025-07-07,Chicken,480.0,Monday,7,2025
+2025-07-08,Chicken,3169.0,Tuesday,7,2025
+2025-07-09,Chicken,615.0,Wednesday,7,2025
+2025-07-10,Chicken,693.0,Thursday,7,2025
+2025-07-11,Chicken,377.0,Friday,7,2025
+2025-07-12,Chicken,821.0,Saturday,7,2025
+2025-07-13,Chicken,523.0,Sunday,7,2025
+2025-07-14,Chicken,391.0,Monday,7,2025
+2025-07-15,Chicken,3223.0,Tuesday,7,2025
+2025-07-16,Chicken,552.0,Wednesday,7,2025
+2025-07-17,Chicken,657.0,Thursday,7,2025
+2025-07-18,Chicken,338.0,Friday,7,2025
+2025-07-19,Chicken,592.0,Saturday,7,2025
+2025-07-20,Chicken,785.0,Sunday,7,2025
+2025-07-21,Chicken,387.0,Monday,7,2025
+2025-07-22,Chicken,3355.0,Tuesday,7,2025
+2025-07-23,Chicken,846.0,Wednesday,7,2025
+2025-07-24,Chicken,979.0,Thursday,7,2025
+2025-07-25,Chicken,561.0,Friday,7,2025
+2025-07-26,Chicken,785.0,Saturday,7,2025
+2025-07-27,Chicken,508.0,Sunday,7,2025
+2025-07-28,Chicken,517.0,Monday,7,2025
+2025-07-29,Chicken,3750.0,Tuesday,7,2025
+2025-07-30,Chicken,665.0,Wednesday,7,2025
+2025-07-31,Chicken,582.0,Thursday,7,2025
+2025-08-01,Chicken,378.0,Friday,8,2025
+2025-08-02,Chicken,1088.0,Saturday,8,2025
+2025-08-03,Chicken,503.0,Sunday,8,2025
+2025-08-04,Chicken,290.0,Monday,8,2025
+2025-08-05,Chicken,2086.0,Tuesday,8,2025
+2025-08-06,Chicken,506.0,Wednesday,8,2025
+2025-08-07,Chicken,741.0,Thursday,8,2025
+2025-08-08,Chicken,373.0,Friday,8,2025
+2025-08-09,Chicken,1000.0,Saturday,8,2025
+2025-08-10,Chicken,646.0,Sunday,8,2025
+2025-08-11,Chicken,556.0,Monday,8,2025
+2025-08-12,Chicken,3747.0,Tuesday,8,2025
+2025-08-13,Chicken,755.0,Wednesday,8,2025
+2025-08-14,Chicken,554.0,Thursday,8,2025
+2025-08-15,Chicken,386.0,Friday,8,2025
+2025-08-16,Chicken,909.0,Saturday,8,2025
+2025-08-17,Chicken,805.0,Sunday,8,2025
+2025-08-18,Chicken,581.0,Monday,8,2025
+2025-08-19,Chicken,4224.0,Tuesday,8,2025
+2025-08-20,Chicken,725.0,Wednesday,8,2025
+2025-08-21,Chicken,544.0,Thursday,8,2025
+2025-08-22,Chicken,422.0,Friday,8,2025
+2025-08-23,Chicken,951.0,Saturday,8,2025
+2025-08-24,Chicken,791.0,Sunday,8,2025
+2025-08-25,Chicken,460.0,Monday,8,2025
+2025-08-26,Chicken,4336.0,Tuesday,8,2025
+2025-08-27,Chicken,654.0,Wednesday,8,2025
+2025-08-28,Chicken,601.0,Thursday,8,2025
+2025-08-29,Chicken,377.0,Friday,8,2025
+2025-08-30,Chicken,928.0,Saturday,8,2025
+2025-08-31,Chicken,751.0,Sunday,8,2025
+2025-09-01,Chicken,431.0,Monday,9,2025
+2025-09-02,Chicken,4189.0,Tuesday,9,2025
+2025-09-03,Chicken,585.0,Wednesday,9,2025
+2025-09-04,Chicken,588.0,Thursday,9,2025
+2025-09-05,Chicken,394.0,Friday,9,2025
+2025-09-06,Chicken,751.0,Saturday,9,2025
+2025-09-07,Chicken,482.0,Sunday,9,2025
+2025-09-08,Chicken,424.0,Monday,9,2025
+2025-09-09,Chicken,4088.0,Tuesday,9,2025
+2025-09-10,Chicken,441.0,Wednesday,9,2025
+2025-09-11,Chicken,681.0,Thursday,9,2025
+2025-09-12,Chicken,280.0,Friday,9,2025
+2025-09-13,Chicken,881.0,Saturday,9,2025
+2025-09-14,Chicken,527.0,Sunday,9,2025
+2025-09-15,Chicken,640.0,Monday,9,2025
+2025-09-16,Chicken,4185.0,Tuesday,9,2025
+2025-09-17,Chicken,603.0,Wednesday,9,2025
+2025-09-18,Chicken,648.0,Thursday,9,2025
+2025-09-19,Chicken,458.0,Friday,9,2025
+2025-09-20,Chicken,951.0,Saturday,9,2025
+2025-09-21,Chicken,601.0,Sunday,9,2025
+2025-09-22,Chicken,492.0,Monday,9,2025
+2025-09-23,Chicken,4090.0,Tuesday,9,2025
+2025-09-24,Chicken,565.0,Wednesday,9,2025
+2025-09-25,Chicken,833.0,Thursday,9,2025
+2025-09-26,Chicken,328.0,Friday,9,2025
+2025-09-27,Chicken,926.0,Saturday,9,2025
+2025-09-28,Chicken,621.0,Sunday,9,2025
+2025-09-29,Chicken,599.0,Monday,9,2025
+2025-09-30,Chicken,3711.0,Tuesday,9,2025
+2025-10-01,Chicken,299.0,Wednesday,10,2025
+2025-10-02,Chicken,328.0,Thursday,10,2025
+2025-10-03,Chicken,240.0,Friday,10,2025
+2025-10-04,Chicken,778.0,Saturday,10,2025
+2025-10-05,Chicken,542.0,Sunday,10,2025
+2025-10-06,Chicken,400.0,Monday,10,2025
+2025-10-07,Chicken,4014.0,Tuesday,10,2025
+2025-10-08,Chicken,548.0,Wednesday,10,2025
+2025-10-09,Chicken,786.0,Thursday,10,2025
+2025-10-10,Chicken,253.0,Friday,10,2025
+2025-10-11,Chicken,1127.0,Saturday,10,2025
+2025-10-12,Chicken,530.0,Sunday,10,2025
+2025-10-13,Chicken,507.0,Monday,10,2025
+2025-10-14,Chicken,3863.0,Tuesday,10,2025
+2025-10-15,Chicken,663.0,Wednesday,10,2025
+2025-10-16,Chicken,513.0,Thursday,10,2025
+2025-10-17,Chicken,299.0,Friday,10,2025
+2025-10-18,Chicken,912.0,Saturday,10,2025
+2025-10-19,Chicken,482.0,Sunday,10,2025
+2025-10-20,Chicken,770.0,Monday,10,2025
+2025-10-21,Chicken,3596.0,Tuesday,10,2025
+2025-10-22,Chicken,540.0,Wednesday,10,2025
+2025-10-23,Chicken,627.0,Thursday,10,2025
+2025-10-24,Chicken,331.0,Friday,10,2025
+2025-10-25,Chicken,983.0,Saturday,10,2025
+2025-10-26,Chicken,787.0,Sunday,10,2025
+2025-10-27,Chicken,526.0,Monday,10,2025
+2025-10-28,Chicken,4042.0,Tuesday,10,2025
+2025-10-29,Chicken,490.0,Wednesday,10,2025
+2025-10-30,Chicken,643.0,Thursday,10,2025
+2025-10-31,Chicken,306.0,Friday,10,2025
+2025-11-01,Chicken,976.0,Saturday,11,2025
+2025-11-02,Chicken,424.0,Sunday,11,2025
+2025-11-03,Chicken,525.0,Monday,11,2025
+2025-11-04,Chicken,4104.0,Tuesday,11,2025
+2025-11-05,Chicken,575.0,Wednesday,11,2025
+2025-11-06,Chicken,850.0,Thursday,11,2025
+2025-11-07,Chicken,401.0,Friday,11,2025
+2025-11-08,Chicken,984.0,Saturday,11,2025
+2025-11-09,Chicken,446.0,Sunday,11,2025
+2025-11-10,Chicken,509.0,Monday,11,2025
+2025-11-11,Chicken,3678.0,Tuesday,11,2025
+2025-11-12,Chicken,613.0,Wednesday,11,2025
+2025-11-13,Chicken,599.0,Thursday,11,2025
+2025-11-14,Chicken,377.0,Friday,11,2025
+2025-11-15,Chicken,1000.0,Saturday,11,2025
+2025-11-16,Chicken,386.0,Sunday,11,2025
+2025-11-17,Chicken,488.0,Monday,11,2025
+2025-11-18,Chicken,4012.0,Tuesday,11,2025
+2025-11-19,Chicken,531.0,Wednesday,11,2025
+2025-11-20,Chicken,820.0,Thursday,11,2025
+2025-11-21,Chicken,332.0,Friday,11,2025
+2025-11-22,Chicken,850.0,Saturday,11,2025
+2025-11-23,Chicken,551.0,Sunday,11,2025
+2025-11-24,Chicken,600.0,Monday,11,2025
+2025-11-25,Chicken,3820.0,Tuesday,11,2025
+2025-11-26,Chicken,466.0,Wednesday,11,2025
+2025-11-27,Chicken,492.0,Thursday,11,2025
+2025-11-28,Chicken,472.0,Friday,11,2025
+2025-11-29,Chicken,363.0,Saturday,11,2025
+2025-11-30,Chicken,412.0,Sunday,11,2025
+2025-12-01,Chicken,541.0,Monday,12,2025
+2025-12-02,Chicken,4135.0,Tuesday,12,2025
+2025-12-03,Chicken,672.0,Wednesday,12,2025
+2025-12-04,Chicken,838.0,Thursday,12,2025
+2025-12-05,Chicken,306.0,Friday,12,2025
+2025-12-06,Chicken,1011.0,Saturday,12,2025
+2025-12-07,Chicken,594.0,Sunday,12,2025
+2025-12-08,Chicken,719.0,Monday,12,2025
+2025-12-09,Chicken,3464.0,Tuesday,12,2025
+2025-12-10,Chicken,1098.0,Wednesday,12,2025
+2025-12-11,Chicken,592.0,Thursday,12,2025
+2025-12-12,Chicken,438.0,Friday,12,2025
+2025-12-13,Chicken,878.0,Saturday,12,2025
+2025-12-14,Chicken,503.0,Sunday,12,2025
+2025-12-15,Chicken,577.0,Monday,12,2025
+2025-12-16,Chicken,1857.0,Tuesday,12,2025
+2025-12-17,Chicken,466.0,Wednesday,12,2025
+2025-12-18,Chicken,492.0,Thursday,12,2025
+2025-12-19,Chicken,472.0,Friday,12,2025
+2025-12-20,Chicken,363.0,Saturday,12,2025
+2025-12-21,Chicken,482.0,Sunday,12,2025
+2025-12-22,Chicken,751.0,Monday,12,2025
+2025-12-23,Chicken,3612.0,Tuesday,12,2025
+2025-12-24,Chicken,705.0,Wednesday,12,2025
+2025-12-25,Chicken,305.0,Thursday,12,2025
+2025-12-26,Chicken,319.0,Friday,12,2025
+2025-12-27,Chicken,835.0,Saturday,12,2025
+2025-12-28,Chicken,597.0,Sunday,12,2025
+2025-12-29,Chicken,785.0,Monday,12,2025
+2025-12-30,Chicken,3969.0,Tuesday,12,2025
+2025-12-31,Chicken,793.0,Wednesday,12,2025
+2026-01-01,Chicken,755.0,Thursday,1,2026
+2026-01-02,Chicken,309.0,Friday,1,2026
+2026-01-03,Chicken,926.0,Saturday,1,2026
+2026-01-04,Chicken,586.0,Sunday,1,2026
+2026-01-05,Chicken,399.0,Monday,1,2026
+2026-01-06,Chicken,3378.0,Tuesday,1,2026
+2026-01-07,Chicken,802.0,Wednesday,1,2026
+2026-01-08,Chicken,525.0,Thursday,1,2026
+2026-01-09,Chicken,343.0,Friday,1,2026
+2026-01-10,Chicken,516.0,Saturday,1,2026
+2026-01-11,Chicken,455.0,Sunday,1,2026
+2026-01-12,Chicken,413.0,Monday,1,2026
+2026-01-13,Chicken,3534.0,Tuesday,1,2026
+2026-01-14,Chicken,632.0,Wednesday,1,2026
+2026-01-15,Chicken,456.0,Thursday,1,2026
+2026-01-16,Chicken,342.0,Friday,1,2026
+2026-01-17,Chicken,640.0,Saturday,1,2026
+2026-01-18,Chicken,462.0,Sunday,1,2026
+2026-01-19,Chicken,538.0,Monday,1,2026
+2026-01-20,Chicken,3374.0,Tuesday,1,2026
+2026-01-21,Chicken,580.0,Wednesday,1,2026
+2026-01-22,Chicken,690.0,Thursday,1,2026
+2026-01-23,Chicken,350.0,Friday,1,2026
+2026-01-24,Chicken,823.0,Saturday,1,2026
+2026-01-25,Chicken,664.0,Sunday,1,2026
+2026-01-26,Chicken,445.0,Monday,1,2026
+2026-01-27,Chicken,3463.0,Tuesday,1,2026
+2026-01-28,Chicken,431.0,Wednesday,1,2026
+2026-01-29,Chicken,755.0,Thursday,1,2026
+2026-01-30,Chicken,331.0,Friday,1,2026
+2026-01-31,Chicken,711.0,Saturday,1,2026
+2026-02-01,Chicken,394.0,Sunday,2,2026
+2026-02-02,Chicken,487.0,Monday,2,2026
+2026-02-03,Chicken,2519.0,Tuesday,2,2026
+2026-02-04,Chicken,367.0,Wednesday,2,2026
+2026-02-05,Chicken,554.0,Thursday,2,2026
+2026-02-06,Chicken,342.0,Friday,2,2026
+2026-02-07,Chicken,762.0,Saturday,2,2026
+2026-02-08,Chicken,568.0,Sunday,2,2026
+2026-02-09,Chicken,397.0,Monday,2,2026
+2026-02-10,Chicken,3004.0,Tuesday,2,2026
+2026-02-11,Chicken,215.0,Wednesday,2,2026
+2026-02-12,Chicken,155.0,Thursday,2,2026
+2026-02-13,Chicken,198.0,Friday,2,2026
+2026-02-14,Chicken,932.0,Saturday,2,2026
+2026-02-15,Chicken,567.0,Sunday,2,2026
+2026-02-16,Chicken,496.0,Monday,2,2026
+2026-02-17,Chicken,3431.0,Tuesday,2,2026
+2026-02-18,Chicken,600.0,Wednesday,2,2026
+2026-02-19,Chicken,264.0,Thursday,2,2026
+2026-02-20,Chicken,137.0,Friday,2,2026
+2026-02-21,Chicken,360.0,Saturday,2,2026
+2026-02-22,Chicken,164.0,Sunday,2,2026
+2026-02-23,Chicken,216.0,Monday,2,2026
+2026-02-24,Chicken,1650.0,Tuesday,2,2026
+2026-02-25,Chicken,976.0,Wednesday,2,2026
+2026-02-26,Chicken,494.0,Thursday,2,2026
+2026-02-27,Chicken,209.0,Friday,2,2026
+2026-02-28,Chicken,659.0,Saturday,2,2026
+2026-03-01,Chicken,288.0,Sunday,3,2026
+2026-03-02,Chicken,312.0,Monday,3,2026
+2026-03-03,Chicken,2361.0,Tuesday,3,2026
+2026-03-04,Chicken,623.0,Wednesday,3,2026
+2026-03-05,Chicken,639.0,Thursday,3,2026
+2026-03-06,Chicken,271.0,Friday,3,2026
+2026-03-07,Chicken,536.0,Saturday,3,2026
+2026-03-08,Chicken,587.0,Sunday,3,2026
+2026-03-09,Chicken,302.0,Monday,3,2026
+2026-03-10,Chicken,2315.0,Tuesday,3,2026
+2026-03-11,Chicken,1295.0,Wednesday,3,2026
+2026-03-12,Chicken,445.0,Thursday,3,2026
+2026-03-13,Chicken,357.0,Friday,3,2026
+2026-03-14,Chicken,806.0,Saturday,3,2026
+2026-03-15,Chicken,407.0,Sunday,3,2026
+2026-03-16,Chicken,589.0,Monday,3,2026
+2026-03-17,Chicken,1718.0,Tuesday,3,2026
+2026-03-18,Chicken,752.0,Wednesday,3,2026
+2026-03-19,Chicken,321.0,Thursday,3,2026
+2026-03-20,Chicken,302.0,Friday,3,2026
+2026-03-21,Chicken,401.0,Saturday,3,2026
+2026-03-22,Chicken,293.0,Sunday,3,2026
+2026-03-23,Chicken,301.0,Monday,3,2026
+2026-03-24,Chicken,2668.0,Tuesday,3,2026
+2026-03-25,Chicken,1011.0,Wednesday,3,2026
+2026-03-26,Chicken,1771.0,Thursday,3,2026
+2026-03-27,Chicken,895.0,Friday,3,2026
+2026-03-28,Chicken,1101.0,Saturday,3,2026
+2026-03-29,Chicken,634.0,Sunday,3,2026
+2026-03-30,Chicken,584.0,Monday,3,2026
+2026-03-31,Chicken,4068.0,Tuesday,3,2026
+2026-04-01,Chicken,2127.0,Wednesday,4,2026
+2026-04-02,Chicken,638.0,Thursday,4,2026
+2026-04-03,Chicken,428.0,Friday,4,2026
+2026-04-04,Chicken,784.0,Saturday,4,2026
+2026-04-05,Chicken,372.0,Sunday,4,2026
+2026-04-06,Chicken,624.0,Monday,4,2026
+2026-04-07,Chicken,3246.0,Tuesday,4,2026
+2026-04-08,Chicken,1225.0,Wednesday,4,2026
+2026-04-09,Chicken,693.0,Thursday,4,2026
+2026-04-10,Chicken,417.0,Friday,4,2026
+2026-04-11,Chicken,1048.0,Saturday,4,2026
+2026-04-12,Chicken,491.0,Sunday,4,2026
+2026-04-13,Chicken,537.0,Monday,4,2026
+2026-04-14,Chicken,2526.0,Tuesday,4,2026
+2026-04-15,Chicken,1093.0,Wednesday,4,2026
+2026-04-16,Chicken,742.0,Thursday,4,2026
+2026-04-17,Chicken,460.0,Friday,4,2026
+2026-04-18,Chicken,1095.0,Saturday,4,2026
+2026-04-19,Chicken,522.0,Sunday,4,2026
+2026-04-20,Chicken,442.0,Monday,4,2026
+2026-04-21,Chicken,3414.0,Tuesday,4,2026
+2026-04-22,Chicken,1314.0,Wednesday,4,2026
+2026-04-23,Chicken,729.0,Thursday,4,2026
+2026-04-24,Chicken,519.0,Friday,4,2026
+2026-04-25,Chicken,872.0,Saturday,4,2026
+2026-04-26,Chicken,471.0,Sunday,4,2026
+2026-04-27,Chicken,573.0,Monday,4,2026
+2026-04-28,Chicken,3395.0,Tuesday,4,2026
+2026-04-29,Chicken,1746.0,Wednesday,4,2026
+2026-04-30,Chicken,920.0,Thursday,4,2026
+2026-05-01,Chicken,617.0,Friday,5,2026
+2026-05-02,Chicken,1084.0,Saturday,5,2026
+2026-05-03,Chicken,514.0,Sunday,5,2026
+2026-05-04,Chicken,534.0,Monday,5,2026
+2026-05-05,Chicken,3713.0,Tuesday,5,2026
+2026-05-06,Chicken,1492.0,Wednesday,5,2026
+2026-05-07,Chicken,666.0,Thursday,5,2026
+2026-05-08,Chicken,494.0,Friday,5,2026
+2026-05-09,Chicken,1025.0,Saturday,5,2026
+2026-05-10,Chicken,626.0,Sunday,5,2026
+2026-05-11,Chicken,657.0,Monday,5,2026
+2026-05-12,Chicken,3616.0,Tuesday,5,2026
+2026-05-13,Chicken,1435.0,Wednesday,5,2026
+2025-01-01,Chicken Breast Strips,362.0,Wednesday,1,2025
+2025-01-02,Chicken Breast Strips,301.0,Thursday,1,2025
+2025-01-03,Chicken Breast Strips,183.0,Friday,1,2025
+2025-01-04,Chicken Breast Strips,148.0,Saturday,1,2025
+2025-01-05,Chicken Breast Strips,335.0,Sunday,1,2025
+2025-01-06,Chicken Breast Strips,258.0,Monday,1,2025
+2025-01-07,Chicken Breast Strips,3050.0,Tuesday,1,2025
+2025-01-08,Chicken Breast Strips,362.0,Wednesday,1,2025
+2025-01-09,Chicken Breast Strips,301.0,Thursday,1,2025
+2025-01-10,Chicken Breast Strips,183.0,Friday,1,2025
+2025-01-11,Chicken Breast Strips,148.0,Saturday,1,2025
+2025-01-12,Chicken Breast Strips,335.0,Sunday,1,2025
+2025-01-13,Chicken Breast Strips,258.0,Monday,1,2025
+2025-01-14,Chicken Breast Strips,3050.0,Tuesday,1,2025
+2025-01-15,Chicken Breast Strips,362.0,Wednesday,1,2025
+2025-01-16,Chicken Breast Strips,301.0,Thursday,1,2025
+2025-01-17,Chicken Breast Strips,183.0,Friday,1,2025
+2025-01-18,Chicken Breast Strips,148.0,Saturday,1,2025
+2025-01-19,Chicken Breast Strips,335.0,Sunday,1,2025
+2025-01-20,Chicken Breast Strips,258.0,Monday,1,2025
+2025-01-21,Chicken Breast Strips,3050.0,Tuesday,1,2025
+2025-01-22,Chicken Breast Strips,362.0,Wednesday,1,2025
+2025-01-23,Chicken Breast Strips,301.0,Thursday,1,2025
+2025-01-24,Chicken Breast Strips,183.0,Friday,1,2025
+2025-01-25,Chicken Breast Strips,148.0,Saturday,1,2025
+2025-01-26,Chicken Breast Strips,335.0,Sunday,1,2025
+2025-01-27,Chicken Breast Strips,258.0,Monday,1,2025
+2025-01-28,Chicken Breast Strips,3050.0,Tuesday,1,2025
+2025-01-29,Chicken Breast Strips,362.0,Wednesday,1,2025
+2025-01-30,Chicken Breast Strips,301.0,Thursday,1,2025
+2025-01-31,Chicken Breast Strips,183.0,Friday,1,2025
+2025-02-01,Chicken Breast Strips,148.0,Saturday,2,2025
+2025-02-02,Chicken Breast Strips,335.0,Sunday,2,2025
+2025-02-03,Chicken Breast Strips,258.0,Monday,2,2025
+2025-02-04,Chicken Breast Strips,3050.0,Tuesday,2,2025
+2025-02-05,Chicken Breast Strips,362.0,Wednesday,2,2025
+2025-02-06,Chicken Breast Strips,301.0,Thursday,2,2025
+2025-02-07,Chicken Breast Strips,183.0,Friday,2,2025
+2025-02-08,Chicken Breast Strips,148.0,Saturday,2,2025
+2025-02-09,Chicken Breast Strips,335.0,Sunday,2,2025
+2025-02-10,Chicken Breast Strips,258.0,Monday,2,2025
+2025-02-11,Chicken Breast Strips,3050.0,Tuesday,2,2025
+2025-02-12,Chicken Breast Strips,362.0,Wednesday,2,2025
+2025-02-13,Chicken Breast Strips,301.0,Thursday,2,2025
+2025-02-14,Chicken Breast Strips,183.0,Friday,2,2025
+2025-02-15,Chicken Breast Strips,148.0,Saturday,2,2025
+2025-02-16,Chicken Breast Strips,335.0,Sunday,2,2025
+2025-02-17,Chicken Breast Strips,258.0,Monday,2,2025
+2025-02-18,Chicken Breast Strips,3050.0,Tuesday,2,2025
+2025-02-19,Chicken Breast Strips,362.0,Wednesday,2,2025
+2025-02-20,Chicken Breast Strips,301.0,Thursday,2,2025
+2025-02-21,Chicken Breast Strips,183.0,Friday,2,2025
+2025-02-22,Chicken Breast Strips,148.0,Saturday,2,2025
+2025-02-23,Chicken Breast Strips,335.0,Sunday,2,2025
+2025-02-24,Chicken Breast Strips,258.0,Monday,2,2025
+2025-02-25,Chicken Breast Strips,3050.0,Tuesday,2,2025
+2025-02-26,Chicken Breast Strips,362.0,Wednesday,2,2025
+2025-02-27,Chicken Breast Strips,301.0,Thursday,2,2025
+2025-02-28,Chicken Breast Strips,183.0,Friday,2,2025
+2025-03-01,Chicken Breast Strips,148.0,Saturday,3,2025
+2025-03-02,Chicken Breast Strips,335.0,Sunday,3,2025
+2025-03-03,Chicken Breast Strips,258.0,Monday,3,2025
+2025-03-04,Chicken Breast Strips,3050.0,Tuesday,3,2025
+2025-03-05,Chicken Breast Strips,362.0,Wednesday,3,2025
+2025-03-06,Chicken Breast Strips,301.0,Thursday,3,2025
+2025-03-07,Chicken Breast Strips,183.0,Friday,3,2025
+2025-03-08,Chicken Breast Strips,148.0,Saturday,3,2025
+2025-03-09,Chicken Breast Strips,335.0,Sunday,3,2025
+2025-03-10,Chicken Breast Strips,258.0,Monday,3,2025
+2025-03-11,Chicken Breast Strips,3050.0,Tuesday,3,2025
+2025-03-12,Chicken Breast Strips,362.0,Wednesday,3,2025
+2025-03-13,Chicken Breast Strips,301.0,Thursday,3,2025
+2025-03-14,Chicken Breast Strips,183.0,Friday,3,2025
+2025-03-15,Chicken Breast Strips,148.0,Saturday,3,2025
+2025-03-16,Chicken Breast Strips,335.0,Sunday,3,2025
+2025-03-17,Chicken Breast Strips,258.0,Monday,3,2025
+2025-03-18,Chicken Breast Strips,3050.0,Tuesday,3,2025
+2025-03-19,Chicken Breast Strips,362.0,Wednesday,3,2025
+2025-03-20,Chicken Breast Strips,301.0,Thursday,3,2025
+2025-03-21,Chicken Breast Strips,183.0,Friday,3,2025
+2025-03-22,Chicken Breast Strips,148.0,Saturday,3,2025
+2025-03-23,Chicken Breast Strips,335.0,Sunday,3,2025
+2025-03-24,Chicken Breast Strips,258.0,Monday,3,2025
+2025-03-25,Chicken Breast Strips,3050.0,Tuesday,3,2025
+2025-03-26,Chicken Breast Strips,362.0,Wednesday,3,2025
+2025-03-27,Chicken Breast Strips,301.0,Thursday,3,2025
+2025-03-28,Chicken Breast Strips,183.0,Friday,3,2025
+2025-03-29,Chicken Breast Strips,148.0,Saturday,3,2025
+2025-03-30,Chicken Breast Strips,335.0,Sunday,3,2025
+2025-03-31,Chicken Breast Strips,258.0,Monday,3,2025
+2025-04-01,Chicken Breast Strips,3050.0,Tuesday,4,2025
+2025-04-02,Chicken Breast Strips,362.0,Wednesday,4,2025
+2025-04-03,Chicken Breast Strips,301.0,Thursday,4,2025
+2025-04-04,Chicken Breast Strips,183.0,Friday,4,2025
+2025-04-05,Chicken Breast Strips,148.0,Saturday,4,2025
+2025-04-06,Chicken Breast Strips,335.0,Sunday,4,2025
+2025-04-07,Chicken Breast Strips,258.0,Monday,4,2025
+2025-04-08,Chicken Breast Strips,3050.0,Tuesday,4,2025
+2025-04-09,Chicken Breast Strips,362.0,Wednesday,4,2025
+2025-04-10,Chicken Breast Strips,301.0,Thursday,4,2025
+2025-04-11,Chicken Breast Strips,183.0,Friday,4,2025
+2025-04-12,Chicken Breast Strips,148.0,Saturday,4,2025
+2025-04-13,Chicken Breast Strips,335.0,Sunday,4,2025
+2025-04-14,Chicken Breast Strips,118.0,Monday,4,2025
+2025-04-15,Chicken Breast Strips,1402.0,Tuesday,4,2025
+2025-04-16,Chicken Breast Strips,288.0,Wednesday,4,2025
+2025-04-17,Chicken Breast Strips,337.0,Thursday,4,2025
+2025-04-18,Chicken Breast Strips,97.0,Friday,4,2025
+2025-04-19,Chicken Breast Strips,361.0,Saturday,4,2025
+2025-04-20,Chicken Breast Strips,706.0,Sunday,4,2025
+2025-04-21,Chicken Breast Strips,249.0,Monday,4,2025
+2025-04-22,Chicken Breast Strips,2045.0,Tuesday,4,2025
+2025-04-23,Chicken Breast Strips,280.0,Wednesday,4,2025
+2025-04-24,Chicken Breast Strips,244.0,Thursday,4,2025
+2025-04-25,Chicken Breast Strips,165.0,Friday,4,2025
+2025-04-26,Chicken Breast Strips,372.0,Saturday,4,2025
+2025-04-27,Chicken Breast Strips,248.0,Sunday,4,2025
+2025-04-28,Chicken Breast Strips,210.0,Monday,4,2025
+2025-04-29,Chicken Breast Strips,2332.0,Tuesday,4,2025
+2025-04-30,Chicken Breast Strips,339.0,Wednesday,4,2025
+2025-05-01,Chicken Breast Strips,183.0,Thursday,5,2025
+2025-05-02,Chicken Breast Strips,122.0,Friday,5,2025
+2025-05-03,Chicken Breast Strips,408.0,Saturday,5,2025
+2025-05-04,Chicken Breast Strips,232.0,Sunday,5,2025
+2025-05-05,Chicken Breast Strips,185.0,Monday,5,2025
+2025-05-06,Chicken Breast Strips,2004.0,Tuesday,5,2025
+2025-05-07,Chicken Breast Strips,330.0,Wednesday,5,2025
+2025-05-08,Chicken Breast Strips,354.0,Thursday,5,2025
+2025-05-09,Chicken Breast Strips,3584.0,Friday,5,2025
+2025-05-10,Chicken Breast Strips,112.0,Saturday,5,2025
+2025-05-11,Chicken Breast Strips,576.0,Sunday,5,2025
+2025-05-12,Chicken Breast Strips,205.0,Monday,5,2025
+2025-05-13,Chicken Breast Strips,2067.0,Tuesday,5,2025
+2025-05-14,Chicken Breast Strips,483.0,Wednesday,5,2025
+2025-05-15,Chicken Breast Strips,266.0,Thursday,5,2025
+2025-05-16,Chicken Breast Strips,110.0,Friday,5,2025
+2025-05-17,Chicken Breast Strips,665.0,Saturday,5,2025
+2025-05-18,Chicken Breast Strips,219.0,Sunday,5,2025
+2025-05-19,Chicken Breast Strips,323.0,Monday,5,2025
+2025-05-20,Chicken Breast Strips,2290.0,Tuesday,5,2025
+2025-05-21,Chicken Breast Strips,281.0,Wednesday,5,2025
+2025-05-22,Chicken Breast Strips,402.0,Thursday,5,2025
+2025-05-23,Chicken Breast Strips,106.0,Friday,5,2025
+2025-05-24,Chicken Breast Strips,644.0,Saturday,5,2025
+2025-05-25,Chicken Breast Strips,527.0,Sunday,5,2025
+2025-05-26,Chicken Breast Strips,318.0,Monday,5,2025
+2025-05-27,Chicken Breast Strips,2399.0,Tuesday,5,2025
+2025-05-28,Chicken Breast Strips,381.0,Wednesday,5,2025
+2025-05-29,Chicken Breast Strips,457.0,Thursday,5,2025
+2025-05-30,Chicken Breast Strips,313.0,Friday,5,2025
+2025-05-31,Chicken Breast Strips,440.0,Saturday,5,2025
+2025-06-01,Chicken Breast Strips,271.0,Sunday,6,2025
+2025-06-02,Chicken Breast Strips,252.0,Monday,6,2025
+2025-06-03,Chicken Breast Strips,2248.0,Tuesday,6,2025
+2025-06-04,Chicken Breast Strips,471.0,Wednesday,6,2025
+2025-06-05,Chicken Breast Strips,143.0,Thursday,6,2025
+2025-06-06,Chicken Breast Strips,143.0,Friday,6,2025
+2025-06-07,Chicken Breast Strips,130.0,Saturday,6,2025
+2025-06-08,Chicken Breast Strips,101.0,Sunday,6,2025
+2025-06-09,Chicken Breast Strips,83.0,Monday,6,2025
+2025-06-10,Chicken Breast Strips,938.0,Tuesday,6,2025
+2025-06-11,Chicken Breast Strips,152.0,Wednesday,6,2025
+2025-06-12,Chicken Breast Strips,130.0,Thursday,6,2025
+2025-06-13,Chicken Breast Strips,87.0,Friday,6,2025
+2025-06-14,Chicken Breast Strips,495.0,Saturday,6,2025
+2025-06-15,Chicken Breast Strips,254.0,Sunday,6,2025
+2025-06-16,Chicken Breast Strips,307.0,Monday,6,2025
+2025-06-17,Chicken Breast Strips,2195.0,Tuesday,6,2025
+2025-06-18,Chicken Breast Strips,451.0,Wednesday,6,2025
+2025-06-19,Chicken Breast Strips,662.0,Thursday,6,2025
+2025-06-20,Chicken Breast Strips,166.0,Friday,6,2025
+2025-06-21,Chicken Breast Strips,411.0,Saturday,6,2025
+2025-06-22,Chicken Breast Strips,368.0,Sunday,6,2025
+2025-06-23,Chicken Breast Strips,606.0,Monday,6,2025
+2025-06-24,Chicken Breast Strips,2288.0,Tuesday,6,2025
+2025-06-25,Chicken Breast Strips,504.0,Wednesday,6,2025
+2025-06-26,Chicken Breast Strips,466.0,Thursday,6,2025
+2025-06-27,Chicken Breast Strips,136.0,Friday,6,2025
+2025-06-28,Chicken Breast Strips,500.0,Saturday,6,2025
+2025-06-29,Chicken Breast Strips,372.0,Sunday,6,2025
+2025-06-30,Chicken Breast Strips,405.0,Monday,6,2025
+2025-07-01,Chicken Breast Strips,2372.0,Tuesday,7,2025
+2025-07-02,Chicken Breast Strips,343.0,Wednesday,7,2025
+2025-07-03,Chicken Breast Strips,582.0,Thursday,7,2025
+2025-07-04,Chicken Breast Strips,22.0,Friday,7,2025
+2025-07-05,Chicken Breast Strips,600.0,Saturday,7,2025
+2025-07-06,Chicken Breast Strips,185.0,Sunday,7,2025
+2025-07-07,Chicken Breast Strips,366.0,Monday,7,2025
+2025-07-08,Chicken Breast Strips,2433.0,Tuesday,7,2025
+2025-07-09,Chicken Breast Strips,421.0,Wednesday,7,2025
+2025-07-10,Chicken Breast Strips,460.0,Thursday,7,2025
+2025-07-11,Chicken Breast Strips,204.0,Friday,7,2025
+2025-07-12,Chicken Breast Strips,594.0,Saturday,7,2025
+2025-07-13,Chicken Breast Strips,471.0,Sunday,7,2025
+2025-07-14,Chicken Breast Strips,305.0,Monday,7,2025
+2025-07-15,Chicken Breast Strips,2517.0,Tuesday,7,2025
+2025-07-16,Chicken Breast Strips,420.0,Wednesday,7,2025
+2025-07-17,Chicken Breast Strips,515.0,Thursday,7,2025
+2025-07-18,Chicken Breast Strips,163.0,Friday,7,2025
+2025-07-19,Chicken Breast Strips,440.0,Saturday,7,2025
+2025-07-20,Chicken Breast Strips,371.0,Sunday,7,2025
+2025-07-21,Chicken Breast Strips,280.0,Monday,7,2025
+2025-07-22,Chicken Breast Strips,2485.0,Tuesday,7,2025
+2025-07-23,Chicken Breast Strips,556.0,Wednesday,7,2025
+2025-07-24,Chicken Breast Strips,658.0,Thursday,7,2025
+2025-07-25,Chicken Breast Strips,230.0,Friday,7,2025
+2025-07-26,Chicken Breast Strips,371.0,Saturday,7,2025
+2025-07-27,Chicken Breast Strips,210.0,Sunday,7,2025
+2025-07-28,Chicken Breast Strips,551.0,Monday,7,2025
+2025-07-29,Chicken Breast Strips,3509.0,Tuesday,7,2025
+2025-07-30,Chicken Breast Strips,559.0,Wednesday,7,2025
+2025-07-31,Chicken Breast Strips,372.0,Thursday,7,2025
+2025-08-01,Chicken Breast Strips,254.0,Friday,8,2025
+2025-08-02,Chicken Breast Strips,695.0,Saturday,8,2025
+2025-08-03,Chicken Breast Strips,354.0,Sunday,8,2025
+2025-08-04,Chicken Breast Strips,282.0,Monday,8,2025
+2025-08-05,Chicken Breast Strips,1508.0,Tuesday,8,2025
+2025-08-06,Chicken Breast Strips,265.0,Wednesday,8,2025
+2025-08-07,Chicken Breast Strips,651.0,Thursday,8,2025
+2025-08-08,Chicken Breast Strips,156.0,Friday,8,2025
+2025-08-09,Chicken Breast Strips,667.0,Saturday,8,2025
+2025-08-10,Chicken Breast Strips,419.0,Sunday,8,2025
+2025-08-11,Chicken Breast Strips,341.0,Monday,8,2025
+2025-08-12,Chicken Breast Strips,2707.0,Tuesday,8,2025
+2025-08-13,Chicken Breast Strips,506.0,Wednesday,8,2025
+2025-08-14,Chicken Breast Strips,406.0,Thursday,8,2025
+2025-08-15,Chicken Breast Strips,198.0,Friday,8,2025
+2025-08-16,Chicken Breast Strips,558.0,Saturday,8,2025
+2025-08-17,Chicken Breast Strips,297.0,Sunday,8,2025
+2025-08-18,Chicken Breast Strips,397.0,Monday,8,2025
+2025-08-19,Chicken Breast Strips,3194.0,Tuesday,8,2025
+2025-08-20,Chicken Breast Strips,400.0,Wednesday,8,2025
+2025-08-21,Chicken Breast Strips,364.0,Thursday,8,2025
+2025-08-22,Chicken Breast Strips,136.0,Friday,8,2025
+2025-08-23,Chicken Breast Strips,638.0,Saturday,8,2025
+2025-08-24,Chicken Breast Strips,377.0,Sunday,8,2025
+2025-08-25,Chicken Breast Strips,441.0,Monday,8,2025
+2025-08-26,Chicken Breast Strips,3262.0,Tuesday,8,2025
+2025-08-27,Chicken Breast Strips,358.0,Wednesday,8,2025
+2025-08-28,Chicken Breast Strips,468.0,Thursday,8,2025
+2025-08-29,Chicken Breast Strips,172.0,Friday,8,2025
+2025-08-30,Chicken Breast Strips,615.0,Saturday,8,2025
+2025-08-31,Chicken Breast Strips,437.0,Sunday,8,2025
+2025-09-01,Chicken Breast Strips,306.0,Monday,9,2025
+2025-09-02,Chicken Breast Strips,3236.0,Tuesday,9,2025
+2025-09-03,Chicken Breast Strips,228.0,Wednesday,9,2025
+2025-09-04,Chicken Breast Strips,496.0,Thursday,9,2025
+2025-09-05,Chicken Breast Strips,162.0,Friday,9,2025
+2025-09-06,Chicken Breast Strips,531.0,Saturday,9,2025
+2025-09-07,Chicken Breast Strips,335.0,Sunday,9,2025
+2025-09-08,Chicken Breast Strips,258.0,Monday,9,2025
+2025-09-09,Chicken Breast Strips,3089.0,Tuesday,9,2025
+2025-09-10,Chicken Breast Strips,442.0,Wednesday,9,2025
+2025-09-11,Chicken Breast Strips,585.0,Thursday,9,2025
+2025-09-12,Chicken Breast Strips,212.0,Friday,9,2025
+2025-09-13,Chicken Breast Strips,590.0,Saturday,9,2025
+2025-09-14,Chicken Breast Strips,261.0,Sunday,9,2025
+2025-09-15,Chicken Breast Strips,396.0,Monday,9,2025
+2025-09-16,Chicken Breast Strips,3259.0,Tuesday,9,2025
+2025-09-17,Chicken Breast Strips,512.0,Wednesday,9,2025
+2025-09-18,Chicken Breast Strips,428.0,Thursday,9,2025
+2025-09-19,Chicken Breast Strips,191.0,Friday,9,2025
+2025-09-20,Chicken Breast Strips,608.0,Saturday,9,2025
+2025-09-21,Chicken Breast Strips,343.0,Sunday,9,2025
+2025-09-22,Chicken Breast Strips,377.0,Monday,9,2025
+2025-09-23,Chicken Breast Strips,3119.0,Tuesday,9,2025
+2025-09-24,Chicken Breast Strips,560.0,Wednesday,9,2025
+2025-09-25,Chicken Breast Strips,407.0,Thursday,9,2025
+2025-09-26,Chicken Breast Strips,155.0,Friday,9,2025
+2025-09-27,Chicken Breast Strips,583.0,Saturday,9,2025
+2025-09-28,Chicken Breast Strips,517.0,Sunday,9,2025
+2025-09-29,Chicken Breast Strips,400.0,Monday,9,2025
+2025-09-30,Chicken Breast Strips,1709.0,Tuesday,9,2025
+2025-10-01,Chicken Breast Strips,127.0,Wednesday,10,2025
+2025-10-02,Chicken Breast Strips,159.0,Thursday,10,2025
+2025-10-03,Chicken Breast Strips,119.0,Friday,10,2025
+2025-10-04,Chicken Breast Strips,521.0,Saturday,10,2025
+2025-10-05,Chicken Breast Strips,399.0,Sunday,10,2025
+2025-10-06,Chicken Breast Strips,385.0,Monday,10,2025
+2025-10-07,Chicken Breast Strips,3051.0,Tuesday,10,2025
+2025-10-08,Chicken Breast Strips,322.0,Wednesday,10,2025
+2025-10-09,Chicken Breast Strips,444.0,Thursday,10,2025
+2025-10-10,Chicken Breast Strips,139.0,Friday,10,2025
+2025-10-11,Chicken Breast Strips,706.0,Saturday,10,2025
+2025-10-12,Chicken Breast Strips,400.0,Sunday,10,2025
+2025-10-13,Chicken Breast Strips,356.0,Monday,10,2025
+2025-10-14,Chicken Breast Strips,2890.0,Tuesday,10,2025
+2025-10-15,Chicken Breast Strips,531.0,Wednesday,10,2025
+2025-10-16,Chicken Breast Strips,343.0,Thursday,10,2025
+2025-10-17,Chicken Breast Strips,145.0,Friday,10,2025
+2025-10-18,Chicken Breast Strips,605.0,Saturday,10,2025
+2025-10-19,Chicken Breast Strips,512.0,Sunday,10,2025
+2025-10-20,Chicken Breast Strips,709.0,Monday,10,2025
+2025-10-21,Chicken Breast Strips,2730.0,Tuesday,10,2025
+2025-10-22,Chicken Breast Strips,324.0,Wednesday,10,2025
+2025-10-23,Chicken Breast Strips,430.0,Thursday,10,2025
+2025-10-24,Chicken Breast Strips,173.0,Friday,10,2025
+2025-10-25,Chicken Breast Strips,639.0,Saturday,10,2025
+2025-10-26,Chicken Breast Strips,383.0,Sunday,10,2025
+2025-10-27,Chicken Breast Strips,396.0,Monday,10,2025
+2025-10-28,Chicken Breast Strips,3206.0,Tuesday,10,2025
+2025-10-29,Chicken Breast Strips,418.0,Wednesday,10,2025
+2025-10-30,Chicken Breast Strips,298.0,Thursday,10,2025
+2025-10-31,Chicken Breast Strips,134.0,Friday,10,2025
+2025-11-01,Chicken Breast Strips,653.0,Saturday,11,2025
+2025-11-02,Chicken Breast Strips,303.0,Sunday,11,2025
+2025-11-03,Chicken Breast Strips,302.0,Monday,11,2025
+2025-11-04,Chicken Breast Strips,3139.0,Tuesday,11,2025
+2025-11-05,Chicken Breast Strips,440.0,Wednesday,11,2025
+2025-11-06,Chicken Breast Strips,749.0,Thursday,11,2025
+2025-11-07,Chicken Breast Strips,186.0,Friday,11,2025
+2025-11-08,Chicken Breast Strips,662.0,Saturday,11,2025
+2025-11-09,Chicken Breast Strips,309.0,Sunday,11,2025
+2025-11-10,Chicken Breast Strips,329.0,Monday,11,2025
+2025-11-11,Chicken Breast Strips,2540.0,Tuesday,11,2025
+2025-11-12,Chicken Breast Strips,308.0,Wednesday,11,2025
+2025-11-13,Chicken Breast Strips,360.0,Thursday,11,2025
+2025-11-14,Chicken Breast Strips,140.0,Friday,11,2025
+2025-11-15,Chicken Breast Strips,649.0,Saturday,11,2025
+2025-11-16,Chicken Breast Strips,229.0,Sunday,11,2025
+2025-11-17,Chicken Breast Strips,299.0,Monday,11,2025
+2025-11-18,Chicken Breast Strips,2974.0,Tuesday,11,2025
+2025-11-19,Chicken Breast Strips,407.0,Wednesday,11,2025
+2025-11-20,Chicken Breast Strips,376.0,Thursday,11,2025
+2025-11-21,Chicken Breast Strips,109.0,Friday,11,2025
+2025-11-22,Chicken Breast Strips,537.0,Saturday,11,2025
+2025-11-23,Chicken Breast Strips,359.0,Sunday,11,2025
+2025-11-24,Chicken Breast Strips,350.0,Monday,11,2025
+2025-11-25,Chicken Breast Strips,2774.0,Tuesday,11,2025
+2025-11-26,Chicken Breast Strips,362.0,Wednesday,11,2025
+2025-11-27,Chicken Breast Strips,301.0,Thursday,11,2025
+2025-11-28,Chicken Breast Strips,183.0,Friday,11,2025
+2025-11-29,Chicken Breast Strips,148.0,Saturday,11,2025
+2025-11-30,Chicken Breast Strips,154.0,Sunday,11,2025
+2025-12-01,Chicken Breast Strips,337.0,Monday,12,2025
+2025-12-02,Chicken Breast Strips,3143.0,Tuesday,12,2025
+2025-12-03,Chicken Breast Strips,297.0,Wednesday,12,2025
+2025-12-04,Chicken Breast Strips,482.0,Thursday,12,2025
+2025-12-05,Chicken Breast Strips,143.0,Friday,12,2025
+2025-12-06,Chicken Breast Strips,668.0,Saturday,12,2025
+2025-12-07,Chicken Breast Strips,350.0,Sunday,12,2025
+2025-12-08,Chicken Breast Strips,332.0,Monday,12,2025
+2025-12-09,Chicken Breast Strips,2358.0,Tuesday,12,2025
+2025-12-10,Chicken Breast Strips,630.0,Wednesday,12,2025
+2025-12-11,Chicken Breast Strips,312.0,Thursday,12,2025
+2025-12-12,Chicken Breast Strips,192.0,Friday,12,2025
+2025-12-13,Chicken Breast Strips,592.0,Saturday,12,2025
+2025-12-14,Chicken Breast Strips,313.0,Sunday,12,2025
+2025-12-15,Chicken Breast Strips,290.0,Monday,12,2025
+2025-12-16,Chicken Breast Strips,3304.0,Tuesday,12,2025
+2025-12-17,Chicken Breast Strips,362.0,Wednesday,12,2025
+2025-12-18,Chicken Breast Strips,301.0,Thursday,12,2025
+2025-12-19,Chicken Breast Strips,183.0,Friday,12,2025
+2025-12-20,Chicken Breast Strips,148.0,Saturday,12,2025
+2025-12-21,Chicken Breast Strips,335.0,Sunday,12,2025
+2025-12-22,Chicken Breast Strips,344.0,Monday,12,2025
+2025-12-23,Chicken Breast Strips,2610.0,Tuesday,12,2025
+2025-12-24,Chicken Breast Strips,426.0,Wednesday,12,2025
+2025-12-25,Chicken Breast Strips,140.0,Thursday,12,2025
+2025-12-26,Chicken Breast Strips,141.0,Friday,12,2025
+2025-12-27,Chicken Breast Strips,544.0,Saturday,12,2025
+2025-12-28,Chicken Breast Strips,396.0,Sunday,12,2025
+2025-12-29,Chicken Breast Strips,309.0,Monday,12,2025
+2025-12-30,Chicken Breast Strips,2814.0,Tuesday,12,2025
+2025-12-31,Chicken Breast Strips,151.0,Wednesday,12,2025
+2026-01-01,Chicken Breast Strips,419.0,Thursday,1,2026
+2026-01-02,Chicken Breast Strips,137.0,Friday,1,2026
+2026-01-03,Chicken Breast Strips,509.0,Saturday,1,2026
+2026-01-04,Chicken Breast Strips,866.0,Sunday,1,2026
+2026-01-05,Chicken Breast Strips,277.0,Monday,1,2026
+2026-01-06,Chicken Breast Strips,2585.0,Tuesday,1,2026
+2026-01-07,Chicken Breast Strips,565.0,Wednesday,1,2026
+2026-01-08,Chicken Breast Strips,245.0,Thursday,1,2026
+2026-01-09,Chicken Breast Strips,167.0,Friday,1,2026
+2026-01-10,Chicken Breast Strips,411.0,Saturday,1,2026
+2026-01-11,Chicken Breast Strips,433.0,Sunday,1,2026
+2026-01-12,Chicken Breast Strips,357.0,Monday,1,2026
+2026-01-13,Chicken Breast Strips,2628.0,Tuesday,1,2026
+2026-01-14,Chicken Breast Strips,284.0,Wednesday,1,2026
+2026-01-15,Chicken Breast Strips,367.0,Thursday,1,2026
+2026-01-16,Chicken Breast Strips,167.0,Friday,1,2026
+2026-01-17,Chicken Breast Strips,442.0,Saturday,1,2026
+2026-01-18,Chicken Breast Strips,468.0,Sunday,1,2026
+2026-01-19,Chicken Breast Strips,271.0,Monday,1,2026
+2026-01-20,Chicken Breast Strips,2465.0,Tuesday,1,2026
+2026-01-21,Chicken Breast Strips,358.0,Wednesday,1,2026
+2026-01-22,Chicken Breast Strips,272.0,Thursday,1,2026
+2026-01-23,Chicken Breast Strips,143.0,Friday,1,2026
+2026-01-24,Chicken Breast Strips,577.0,Saturday,1,2026
+2026-01-25,Chicken Breast Strips,458.0,Sunday,1,2026
+2026-01-26,Chicken Breast Strips,340.0,Monday,1,2026
+2026-01-27,Chicken Breast Strips,2498.0,Tuesday,1,2026
+2026-01-28,Chicken Breast Strips,261.0,Wednesday,1,2026
+2026-01-29,Chicken Breast Strips,312.0,Thursday,1,2026
+2026-01-30,Chicken Breast Strips,127.0,Friday,1,2026
+2026-01-31,Chicken Breast Strips,485.0,Saturday,1,2026
+2026-02-01,Chicken Breast Strips,235.0,Sunday,2,2026
+2026-02-02,Chicken Breast Strips,170.0,Monday,2,2026
+2026-02-03,Chicken Breast Strips,2041.0,Tuesday,2,2026
+2026-02-04,Chicken Breast Strips,147.0,Wednesday,2,2026
+2026-02-05,Chicken Breast Strips,378.0,Thursday,2,2026
+2026-02-06,Chicken Breast Strips,127.0,Friday,2,2026
+2026-02-07,Chicken Breast Strips,547.0,Saturday,2,2026
+2026-02-08,Chicken Breast Strips,378.0,Sunday,2,2026
+2026-02-09,Chicken Breast Strips,398.0,Monday,2,2026
+2026-02-10,Chicken Breast Strips,2193.0,Tuesday,2,2026
+2026-02-11,Chicken Breast Strips,108.0,Wednesday,2,2026
+2026-02-12,Chicken Breast Strips,64.0,Thursday,2,2026
+2026-02-13,Chicken Breast Strips,88.0,Friday,2,2026
+2026-02-14,Chicken Breast Strips,702.0,Saturday,2,2026
+2026-02-15,Chicken Breast Strips,189.0,Sunday,2,2026
+2026-02-16,Chicken Breast Strips,231.0,Monday,2,2026
+2026-02-17,Chicken Breast Strips,2443.0,Tuesday,2,2026
+2026-02-18,Chicken Breast Strips,262.0,Wednesday,2,2026
+2026-02-19,Chicken Breast Strips,108.0,Thursday,2,2026
+2026-02-20,Chicken Breast Strips,59.0,Friday,2,2026
+2026-02-21,Chicken Breast Strips,220.0,Saturday,2,2026
+2026-02-22,Chicken Breast Strips,72.0,Sunday,2,2026
+2026-02-23,Chicken Breast Strips,92.0,Monday,2,2026
+2026-02-24,Chicken Breast Strips,1226.0,Tuesday,2,2026
+2026-02-25,Chicken Breast Strips,256.0,Wednesday,2,2026
+2026-02-26,Chicken Breast Strips,262.0,Thursday,2,2026
+2026-02-27,Chicken Breast Strips,116.0,Friday,2,2026
+2026-02-28,Chicken Breast Strips,418.0,Saturday,2,2026
+2026-03-01,Chicken Breast Strips,150.0,Sunday,3,2026
+2026-03-02,Chicken Breast Strips,128.0,Monday,3,2026
+2026-03-03,Chicken Breast Strips,1900.0,Tuesday,3,2026
+2026-03-04,Chicken Breast Strips,132.0,Wednesday,3,2026
+2026-03-05,Chicken Breast Strips,402.0,Thursday,3,2026
+2026-03-06,Chicken Breast Strips,95.0,Friday,3,2026
+2026-03-07,Chicken Breast Strips,371.0,Saturday,3,2026
+2026-03-08,Chicken Breast Strips,234.0,Sunday,3,2026
+2026-03-09,Chicken Breast Strips,162.0,Monday,3,2026
+2026-03-10,Chicken Breast Strips,1716.0,Tuesday,3,2026
+2026-03-11,Chicken Breast Strips,134.0,Wednesday,3,2026
+2026-03-12,Chicken Breast Strips,176.0,Thursday,3,2026
+2026-03-13,Chicken Breast Strips,142.0,Friday,3,2026
+2026-03-14,Chicken Breast Strips,537.0,Saturday,3,2026
+2026-03-15,Chicken Breast Strips,160.0,Sunday,3,2026
+2026-03-16,Chicken Breast Strips,357.0,Monday,3,2026
+2026-03-17,Chicken Breast Strips,1296.0,Tuesday,3,2026
+2026-03-18,Chicken Breast Strips,138.0,Wednesday,3,2026
+2026-03-19,Chicken Breast Strips,110.0,Thursday,3,2026
+2026-03-20,Chicken Breast Strips,117.0,Friday,3,2026
+2026-03-21,Chicken Breast Strips,300.0,Saturday,3,2026
+2026-03-22,Chicken Breast Strips,202.0,Sunday,3,2026
+2026-03-23,Chicken Breast Strips,183.0,Monday,3,2026
+2026-03-24,Chicken Breast Strips,1994.0,Tuesday,3,2026
+2026-03-25,Chicken Breast Strips,231.0,Wednesday,3,2026
+2026-03-26,Chicken Breast Strips,3243.0,Thursday,3,2026
+2026-03-27,Chicken Breast Strips,125.0,Friday,3,2026
+2026-03-28,Chicken Breast Strips,665.0,Saturday,3,2026
+2026-03-29,Chicken Breast Strips,632.0,Sunday,3,2026
+2026-03-30,Chicken Breast Strips,298.0,Monday,3,2026
+2026-03-31,Chicken Breast Strips,3074.0,Tuesday,3,2026
+2026-04-01,Chicken Breast Strips,397.0,Wednesday,4,2026
+2026-04-02,Chicken Breast Strips,349.0,Thursday,4,2026
+2026-04-03,Chicken Breast Strips,197.0,Friday,4,2026
+2026-04-04,Chicken Breast Strips,597.0,Saturday,4,2026
+2026-04-05,Chicken Breast Strips,219.0,Sunday,4,2026
+2026-04-06,Chicken Breast Strips,394.0,Monday,4,2026
+2026-04-07,Chicken Breast Strips,2326.0,Tuesday,4,2026
+2026-04-08,Chicken Breast Strips,299.0,Wednesday,4,2026
+2026-04-09,Chicken Breast Strips,353.0,Thursday,4,2026
+2026-04-10,Chicken Breast Strips,190.0,Friday,4,2026
+2026-04-11,Chicken Breast Strips,743.0,Saturday,4,2026
+2026-04-12,Chicken Breast Strips,430.0,Sunday,4,2026
+2026-04-13,Chicken Breast Strips,270.0,Monday,4,2026
+2026-04-14,Chicken Breast Strips,1749.0,Tuesday,4,2026
+2026-04-15,Chicken Breast Strips,297.0,Wednesday,4,2026
+2026-04-16,Chicken Breast Strips,360.0,Thursday,4,2026
+2026-04-17,Chicken Breast Strips,194.0,Friday,4,2026
+2026-04-18,Chicken Breast Strips,816.0,Saturday,4,2026
+2026-04-19,Chicken Breast Strips,374.0,Sunday,4,2026
+2026-04-20,Chicken Breast Strips,342.0,Monday,4,2026
+2026-04-21,Chicken Breast Strips,2387.0,Tuesday,4,2026
+2026-04-22,Chicken Breast Strips,455.0,Wednesday,4,2026
+2026-04-23,Chicken Breast Strips,351.0,Thursday,4,2026
+2026-04-24,Chicken Breast Strips,147.0,Friday,4,2026
+2026-04-25,Chicken Breast Strips,557.0,Saturday,4,2026
+2026-04-26,Chicken Breast Strips,262.0,Sunday,4,2026
+2026-04-27,Chicken Breast Strips,420.0,Monday,4,2026
+2026-04-28,Chicken Breast Strips,2458.0,Tuesday,4,2026
+2026-04-29,Chicken Breast Strips,287.0,Wednesday,4,2026
+2026-04-30,Chicken Breast Strips,373.0,Thursday,4,2026
+2026-05-01,Chicken Breast Strips,236.0,Friday,5,2026
+2026-05-02,Chicken Breast Strips,746.0,Saturday,5,2026
+2026-05-03,Chicken Breast Strips,273.0,Sunday,5,2026
+2026-05-04,Chicken Breast Strips,375.0,Monday,5,2026
+2026-05-05,Chicken Breast Strips,2772.0,Tuesday,5,2026
+2026-05-06,Chicken Breast Strips,310.0,Wednesday,5,2026
+2026-05-07,Chicken Breast Strips,505.0,Thursday,5,2026
+2026-05-08,Chicken Breast Strips,193.0,Friday,5,2026
+2026-05-09,Chicken Breast Strips,709.0,Saturday,5,2026
+2026-05-10,Chicken Breast Strips,460.0,Sunday,5,2026
+2026-05-11,Chicken Breast Strips,565.0,Monday,5,2026
+2026-05-12,Chicken Breast Strips,2546.0,Tuesday,5,2026
+2026-05-13,Chicken Breast Strips,229.0,Wednesday,5,2026
+2025-01-01,Drum Stick,80.0,Wednesday,1,2025
+2025-01-02,Drum Stick,24.0,Thursday,1,2025
+2025-01-03,Drum Stick,24.0,Friday,1,2025
+2025-01-04,Drum Stick,10.0,Saturday,1,2025
+2025-01-05,Drum Stick,74.0,Sunday,1,2025
+2025-01-06,Drum Stick,61.0,Monday,1,2025
+2025-01-07,Drum Stick,52.0,Tuesday,1,2025
+2025-01-08,Drum Stick,80.0,Wednesday,1,2025
+2025-01-09,Drum Stick,24.0,Thursday,1,2025
+2025-01-10,Drum Stick,24.0,Friday,1,2025
+2025-01-11,Drum Stick,10.0,Saturday,1,2025
+2025-01-12,Drum Stick,74.0,Sunday,1,2025
+2025-01-13,Drum Stick,61.0,Monday,1,2025
+2025-01-14,Drum Stick,52.0,Tuesday,1,2025
+2025-01-15,Drum Stick,80.0,Wednesday,1,2025
+2025-01-16,Drum Stick,24.0,Thursday,1,2025
+2025-01-17,Drum Stick,24.0,Friday,1,2025
+2025-01-18,Drum Stick,10.0,Saturday,1,2025
+2025-01-19,Drum Stick,74.0,Sunday,1,2025
+2025-01-20,Drum Stick,61.0,Monday,1,2025
+2025-01-21,Drum Stick,52.0,Tuesday,1,2025
+2025-01-22,Drum Stick,80.0,Wednesday,1,2025
+2025-01-23,Drum Stick,24.0,Thursday,1,2025
+2025-01-24,Drum Stick,24.0,Friday,1,2025
+2025-01-25,Drum Stick,10.0,Saturday,1,2025
+2025-01-26,Drum Stick,74.0,Sunday,1,2025
+2025-01-27,Drum Stick,61.0,Monday,1,2025
+2025-01-28,Drum Stick,52.0,Tuesday,1,2025
+2025-01-29,Drum Stick,80.0,Wednesday,1,2025
+2025-01-30,Drum Stick,24.0,Thursday,1,2025
+2025-01-31,Drum Stick,24.0,Friday,1,2025
+2025-02-01,Drum Stick,10.0,Saturday,2,2025
+2025-02-02,Drum Stick,74.0,Sunday,2,2025
+2025-02-03,Drum Stick,61.0,Monday,2,2025
+2025-02-04,Drum Stick,52.0,Tuesday,2,2025
+2025-02-05,Drum Stick,80.0,Wednesday,2,2025
+2025-02-06,Drum Stick,24.0,Thursday,2,2025
+2025-02-07,Drum Stick,24.0,Friday,2,2025
+2025-02-08,Drum Stick,10.0,Saturday,2,2025
+2025-02-09,Drum Stick,74.0,Sunday,2,2025
+2025-02-10,Drum Stick,61.0,Monday,2,2025
+2025-02-11,Drum Stick,52.0,Tuesday,2,2025
+2025-02-12,Drum Stick,80.0,Wednesday,2,2025
+2025-02-13,Drum Stick,24.0,Thursday,2,2025
+2025-02-14,Drum Stick,24.0,Friday,2,2025
+2025-02-15,Drum Stick,10.0,Saturday,2,2025
+2025-02-16,Drum Stick,74.0,Sunday,2,2025
+2025-02-17,Drum Stick,61.0,Monday,2,2025
+2025-02-18,Drum Stick,52.0,Tuesday,2,2025
+2025-02-19,Drum Stick,80.0,Wednesday,2,2025
+2025-02-20,Drum Stick,24.0,Thursday,2,2025
+2025-02-21,Drum Stick,24.0,Friday,2,2025
+2025-02-22,Drum Stick,10.0,Saturday,2,2025
+2025-02-23,Drum Stick,74.0,Sunday,2,2025
+2025-02-24,Drum Stick,61.0,Monday,2,2025
+2025-02-25,Drum Stick,52.0,Tuesday,2,2025
+2025-02-26,Drum Stick,80.0,Wednesday,2,2025
+2025-02-27,Drum Stick,24.0,Thursday,2,2025
+2025-02-28,Drum Stick,24.0,Friday,2,2025
+2025-03-01,Drum Stick,10.0,Saturday,3,2025
+2025-03-02,Drum Stick,74.0,Sunday,3,2025
+2025-03-03,Drum Stick,61.0,Monday,3,2025
+2025-03-04,Drum Stick,52.0,Tuesday,3,2025
+2025-03-05,Drum Stick,80.0,Wednesday,3,2025
+2025-03-06,Drum Stick,24.0,Thursday,3,2025
+2025-03-07,Drum Stick,24.0,Friday,3,2025
+2025-03-08,Drum Stick,10.0,Saturday,3,2025
+2025-03-09,Drum Stick,74.0,Sunday,3,2025
+2025-03-10,Drum Stick,61.0,Monday,3,2025
+2025-03-11,Drum Stick,52.0,Tuesday,3,2025
+2025-03-12,Drum Stick,80.0,Wednesday,3,2025
+2025-03-13,Drum Stick,24.0,Thursday,3,2025
+2025-03-14,Drum Stick,24.0,Friday,3,2025
+2025-03-15,Drum Stick,10.0,Saturday,3,2025
+2025-03-16,Drum Stick,74.0,Sunday,3,2025
+2025-03-17,Drum Stick,61.0,Monday,3,2025
+2025-03-18,Drum Stick,52.0,Tuesday,3,2025
+2025-03-19,Drum Stick,80.0,Wednesday,3,2025
+2025-03-20,Drum Stick,24.0,Thursday,3,2025
+2025-03-21,Drum Stick,24.0,Friday,3,2025
+2025-03-22,Drum Stick,10.0,Saturday,3,2025
+2025-03-23,Drum Stick,74.0,Sunday,3,2025
+2025-03-24,Drum Stick,61.0,Monday,3,2025
+2025-03-25,Drum Stick,52.0,Tuesday,3,2025
+2025-03-26,Drum Stick,80.0,Wednesday,3,2025
+2025-03-27,Drum Stick,24.0,Thursday,3,2025
+2025-03-28,Drum Stick,24.0,Friday,3,2025
+2025-03-29,Drum Stick,10.0,Saturday,3,2025
+2025-03-30,Drum Stick,74.0,Sunday,3,2025
+2025-03-31,Drum Stick,61.0,Monday,3,2025
+2025-04-01,Drum Stick,52.0,Tuesday,4,2025
+2025-04-02,Drum Stick,80.0,Wednesday,4,2025
+2025-04-03,Drum Stick,24.0,Thursday,4,2025
+2025-04-04,Drum Stick,24.0,Friday,4,2025
+2025-04-05,Drum Stick,10.0,Saturday,4,2025
+2025-04-06,Drum Stick,74.0,Sunday,4,2025
+2025-04-07,Drum Stick,61.0,Monday,4,2025
+2025-04-08,Drum Stick,52.0,Tuesday,4,2025
+2025-04-09,Drum Stick,80.0,Wednesday,4,2025
+2025-04-10,Drum Stick,24.0,Thursday,4,2025
+2025-04-11,Drum Stick,24.0,Friday,4,2025
+2025-04-12,Drum Stick,10.0,Saturday,4,2025
+2025-04-13,Drum Stick,74.0,Sunday,4,2025
+2025-04-14,Drum Stick,39.0,Monday,4,2025
+2025-04-15,Drum Stick,0.0,Tuesday,4,2025
+2025-04-16,Drum Stick,10.0,Wednesday,4,2025
+2025-04-17,Drum Stick,4.0,Thursday,4,2025
+2025-04-18,Drum Stick,7.0,Friday,4,2025
+2025-04-19,Drum Stick,39.0,Saturday,4,2025
+2025-04-20,Drum Stick,42.0,Sunday,4,2025
+2025-04-21,Drum Stick,10.0,Monday,4,2025
+2025-04-22,Drum Stick,117.0,Tuesday,4,2025
+2025-04-23,Drum Stick,41.0,Wednesday,4,2025
+2025-04-24,Drum Stick,63.0,Thursday,4,2025
+2025-04-25,Drum Stick,43.0,Friday,4,2025
+2025-04-26,Drum Stick,78.0,Saturday,4,2025
+2025-04-27,Drum Stick,60.0,Sunday,4,2025
+2025-04-28,Drum Stick,0.0,Monday,4,2025
+2025-04-29,Drum Stick,65.0,Tuesday,4,2025
+2025-04-30,Drum Stick,195.0,Wednesday,4,2025
+2025-05-01,Drum Stick,26.0,Thursday,5,2025
+2025-05-02,Drum Stick,0.0,Friday,5,2025
+2025-05-03,Drum Stick,52.0,Saturday,5,2025
+2025-05-04,Drum Stick,28.0,Sunday,5,2025
+2025-05-05,Drum Stick,11.0,Monday,5,2025
+2025-05-06,Drum Stick,169.0,Tuesday,5,2025
+2025-05-07,Drum Stick,0.0,Wednesday,5,2025
+2025-05-08,Drum Stick,51.0,Thursday,5,2025
+2025-05-09,Drum Stick,51.0,Friday,5,2025
+2025-05-10,Drum Stick,21.0,Saturday,5,2025
+2025-05-11,Drum Stick,32.0,Sunday,5,2025
+2025-05-12,Drum Stick,39.0,Monday,5,2025
+2025-05-13,Drum Stick,65.0,Tuesday,5,2025
+2025-05-14,Drum Stick,20.0,Wednesday,5,2025
+2025-05-15,Drum Stick,65.0,Thursday,5,2025
+2025-05-16,Drum Stick,6.0,Friday,5,2025
+2025-05-17,Drum Stick,14.0,Saturday,5,2025
+2025-05-18,Drum Stick,65.0,Sunday,5,2025
+2025-05-19,Drum Stick,61.0,Monday,5,2025
+2025-05-20,Drum Stick,69.0,Tuesday,5,2025
+2025-05-21,Drum Stick,58.0,Wednesday,5,2025
+2025-05-22,Drum Stick,16.0,Thursday,5,2025
+2025-05-23,Drum Stick,54.0,Friday,5,2025
+2025-05-24,Drum Stick,99.0,Saturday,5,2025
+2025-05-25,Drum Stick,29.0,Sunday,5,2025
+2025-05-26,Drum Stick,62.0,Monday,5,2025
+2025-05-27,Drum Stick,65.0,Tuesday,5,2025
+2025-05-28,Drum Stick,0.0,Wednesday,5,2025
+2025-05-29,Drum Stick,156.0,Thursday,5,2025
+2025-05-30,Drum Stick,39.0,Friday,5,2025
+2025-05-31,Drum Stick,26.0,Saturday,5,2025
+2025-06-01,Drum Stick,42.0,Sunday,6,2025
+2025-06-02,Drum Stick,55.0,Monday,6,2025
+2025-06-03,Drum Stick,52.0,Tuesday,6,2025
+2025-06-04,Drum Stick,78.0,Wednesday,6,2025
+2025-06-05,Drum Stick,0.0,Thursday,6,2025
+2025-06-06,Drum Stick,0.0,Friday,6,2025
+2025-06-07,Drum Stick,39.0,Saturday,6,2025
+2025-06-08,Drum Stick,32.0,Sunday,6,2025
+2025-06-09,Drum Stick,20.0,Monday,6,2025
+2025-06-10,Drum Stick,39.0,Tuesday,6,2025
+2025-06-11,Drum Stick,26.0,Wednesday,6,2025
+2025-06-12,Drum Stick,13.0,Thursday,6,2025
+2025-06-13,Drum Stick,13.0,Friday,6,2025
+2025-06-14,Drum Stick,65.0,Saturday,6,2025
+2025-06-15,Drum Stick,65.0,Sunday,6,2025
+2025-06-16,Drum Stick,39.0,Monday,6,2025
+2025-06-17,Drum Stick,52.0,Tuesday,6,2025
+2025-06-18,Drum Stick,52.0,Wednesday,6,2025
+2025-06-19,Drum Stick,130.0,Thursday,6,2025
+2025-06-20,Drum Stick,39.0,Friday,6,2025
+2025-06-21,Drum Stick,38.0,Saturday,6,2025
+2025-06-22,Drum Stick,1.0,Sunday,6,2025
+2025-06-23,Drum Stick,13.0,Monday,6,2025
+2025-06-24,Drum Stick,78.0,Tuesday,6,2025
+2025-06-25,Drum Stick,78.0,Wednesday,6,2025
+2025-06-26,Drum Stick,52.0,Thursday,6,2025
+2025-06-27,Drum Stick,39.0,Friday,6,2025
+2025-06-28,Drum Stick,78.0,Saturday,6,2025
+2025-06-29,Drum Stick,65.0,Sunday,6,2025
+2025-06-30,Drum Stick,26.0,Monday,6,2025
+2025-07-01,Drum Stick,35.0,Tuesday,7,2025
+2025-07-02,Drum Stick,79.0,Wednesday,7,2025
+2025-07-03,Drum Stick,94.0,Thursday,7,2025
+2025-07-04,Drum Stick,0.0,Friday,7,2025
+2025-07-05,Drum Stick,13.0,Saturday,7,2025
+2025-07-06,Drum Stick,22.0,Sunday,7,2025
+2025-07-07,Drum Stick,57.0,Monday,7,2025
+2025-07-08,Drum Stick,36.0,Tuesday,7,2025
+2025-07-09,Drum Stick,67.0,Wednesday,7,2025
+2025-07-10,Drum Stick,78.0,Thursday,7,2025
+2025-07-11,Drum Stick,42.0,Friday,7,2025
+2025-07-12,Drum Stick,24.0,Saturday,7,2025
+2025-07-13,Drum Stick,59.0,Sunday,7,2025
+2025-07-14,Drum Stick,107.0,Monday,7,2025
+2025-07-15,Drum Stick,56.0,Tuesday,7,2025
+2025-07-16,Drum Stick,16.0,Wednesday,7,2025
+2025-07-17,Drum Stick,12.0,Thursday,7,2025
+2025-07-18,Drum Stick,47.0,Friday,7,2025
+2025-07-19,Drum Stick,74.0,Saturday,7,2025
+2025-07-20,Drum Stick,48.0,Sunday,7,2025
+2025-07-21,Drum Stick,41.0,Monday,7,2025
+2025-07-22,Drum Stick,33.0,Tuesday,7,2025
+2025-07-23,Drum Stick,47.0,Wednesday,7,2025
+2025-07-24,Drum Stick,33.0,Thursday,7,2025
+2025-07-25,Drum Stick,25.0,Friday,7,2025
+2025-07-26,Drum Stick,48.0,Saturday,7,2025
+2025-07-27,Drum Stick,65.0,Sunday,7,2025
+2025-07-28,Drum Stick,55.0,Monday,7,2025
+2025-07-29,Drum Stick,179.0,Tuesday,7,2025
+2025-07-30,Drum Stick,0.0,Wednesday,7,2025
+2025-07-31,Drum Stick,40.0,Thursday,7,2025
+2025-08-01,Drum Stick,30.0,Friday,8,2025
+2025-08-02,Drum Stick,38.0,Saturday,8,2025
+2025-08-03,Drum Stick,44.0,Sunday,8,2025
+2025-08-04,Drum Stick,173.0,Monday,8,2025
+2025-08-05,Drum Stick,0.0,Tuesday,8,2025
+2025-08-06,Drum Stick,104.0,Wednesday,8,2025
+2025-08-07,Drum Stick,65.0,Thursday,8,2025
+2025-08-08,Drum Stick,4.0,Friday,8,2025
+2025-08-09,Drum Stick,61.0,Saturday,8,2025
+2025-08-10,Drum Stick,91.0,Sunday,8,2025
+2025-08-11,Drum Stick,84.0,Monday,8,2025
+2025-08-12,Drum Stick,37.0,Tuesday,8,2025
+2025-08-13,Drum Stick,10.0,Wednesday,8,2025
+2025-08-14,Drum Stick,45.0,Thursday,8,2025
+2025-08-15,Drum Stick,22.0,Friday,8,2025
+2025-08-16,Drum Stick,44.0,Saturday,8,2025
+2025-08-17,Drum Stick,14.0,Sunday,8,2025
+2025-08-18,Drum Stick,116.0,Monday,8,2025
+2025-08-19,Drum Stick,17.0,Tuesday,8,2025
+2025-08-20,Drum Stick,55.0,Wednesday,8,2025
+2025-08-21,Drum Stick,134.0,Thursday,8,2025
+2025-08-22,Drum Stick,22.0,Friday,8,2025
+2025-08-23,Drum Stick,70.0,Saturday,8,2025
+2025-08-24,Drum Stick,65.0,Sunday,8,2025
+2025-08-25,Drum Stick,82.0,Monday,8,2025
+2025-08-26,Drum Stick,100.0,Tuesday,8,2025
+2025-08-27,Drum Stick,52.0,Wednesday,8,2025
+2025-08-28,Drum Stick,195.0,Thursday,8,2025
+2025-08-29,Drum Stick,22.0,Friday,8,2025
+2025-08-30,Drum Stick,30.0,Saturday,8,2025
+2025-08-31,Drum Stick,117.0,Sunday,8,2025
+2025-09-01,Drum Stick,91.0,Monday,9,2025
+2025-09-02,Drum Stick,65.0,Tuesday,9,2025
+2025-09-03,Drum Stick,13.0,Wednesday,9,2025
+2025-09-04,Drum Stick,39.0,Thursday,9,2025
+2025-09-05,Drum Stick,55.0,Friday,9,2025
+2025-09-06,Drum Stick,127.0,Saturday,9,2025
+2025-09-07,Drum Stick,74.0,Sunday,9,2025
+2025-09-08,Drum Stick,61.0,Monday,9,2025
+2025-09-09,Drum Stick,18.0,Tuesday,9,2025
+2025-09-10,Drum Stick,44.0,Wednesday,9,2025
+2025-09-11,Drum Stick,99.0,Thursday,9,2025
+2025-09-12,Drum Stick,107.0,Friday,9,2025
+2025-09-13,Drum Stick,58.0,Saturday,9,2025
+2025-09-14,Drum Stick,121.0,Sunday,9,2025
+2025-09-15,Drum Stick,78.0,Monday,9,2025
+2025-09-16,Drum Stick,35.0,Tuesday,9,2025
+2025-09-17,Drum Stick,252.0,Wednesday,9,2025
+2025-09-18,Drum Stick,115.0,Thursday,9,2025
+2025-09-19,Drum Stick,22.0,Friday,9,2025
+2025-09-20,Drum Stick,32.0,Saturday,9,2025
+2025-09-21,Drum Stick,32.0,Sunday,9,2025
+2025-09-22,Drum Stick,32.0,Monday,9,2025
+2025-09-23,Drum Stick,41.0,Tuesday,9,2025
+2025-09-24,Drum Stick,82.0,Wednesday,9,2025
+2025-09-25,Drum Stick,73.0,Thursday,9,2025
+2025-09-26,Drum Stick,11.0,Friday,9,2025
+2025-09-27,Drum Stick,12.0,Saturday,9,2025
+2025-09-28,Drum Stick,107.0,Sunday,9,2025
+2025-09-29,Drum Stick,86.0,Monday,9,2025
+2025-09-30,Drum Stick,11.0,Tuesday,9,2025
+2025-10-01,Drum Stick,27.0,Wednesday,10,2025
+2025-10-02,Drum Stick,6.0,Thursday,10,2025
+2025-10-03,Drum Stick,73.0,Friday,10,2025
+2025-10-04,Drum Stick,16.0,Saturday,10,2025
+2025-10-05,Drum Stick,64.0,Sunday,10,2025
+2025-10-06,Drum Stick,84.0,Monday,10,2025
+2025-10-07,Drum Stick,30.0,Tuesday,10,2025
+2025-10-08,Drum Stick,112.0,Wednesday,10,2025
+2025-10-09,Drum Stick,82.0,Thursday,10,2025
+2025-10-10,Drum Stick,52.0,Friday,10,2025
+2025-10-11,Drum Stick,20.0,Saturday,10,2025
+2025-10-12,Drum Stick,62.0,Sunday,10,2025
+2025-10-13,Drum Stick,88.0,Monday,10,2025
+2025-10-14,Drum Stick,83.0,Tuesday,10,2025
+2025-10-15,Drum Stick,73.0,Wednesday,10,2025
+2025-10-16,Drum Stick,51.0,Thursday,10,2025
+2025-10-17,Drum Stick,16.0,Friday,10,2025
+2025-10-18,Drum Stick,58.0,Saturday,10,2025
+2025-10-19,Drum Stick,68.0,Sunday,10,2025
+2025-10-20,Drum Stick,74.0,Monday,10,2025
+2025-10-21,Drum Stick,64.0,Tuesday,10,2025
+2025-10-22,Drum Stick,37.0,Wednesday,10,2025
+2025-10-23,Drum Stick,12.0,Thursday,10,2025
+2025-10-24,Drum Stick,12.0,Friday,10,2025
+2025-10-25,Drum Stick,37.0,Saturday,10,2025
+2025-10-26,Drum Stick,83.0,Sunday,10,2025
+2025-10-27,Drum Stick,32.0,Monday,10,2025
+2025-10-28,Drum Stick,81.0,Tuesday,10,2025
+2025-10-29,Drum Stick,52.0,Wednesday,10,2025
+2025-10-30,Drum Stick,38.0,Thursday,10,2025
+2025-10-31,Drum Stick,34.0,Friday,10,2025
+2025-11-01,Drum Stick,2.0,Saturday,11,2025
+2025-11-02,Drum Stick,35.0,Sunday,11,2025
+2025-11-03,Drum Stick,73.0,Monday,11,2025
+2025-11-04,Drum Stick,96.0,Tuesday,11,2025
+2025-11-05,Drum Stick,97.0,Wednesday,11,2025
+2025-11-06,Drum Stick,31.0,Thursday,11,2025
+2025-11-07,Drum Stick,29.0,Friday,11,2025
+2025-11-08,Drum Stick,70.0,Saturday,11,2025
+2025-11-09,Drum Stick,77.0,Sunday,11,2025
+2025-11-10,Drum Stick,64.0,Monday,11,2025
+2025-11-11,Drum Stick,43.0,Tuesday,11,2025
+2025-11-12,Drum Stick,69.0,Wednesday,11,2025
+2025-11-13,Drum Stick,20.0,Thursday,11,2025
+2025-11-14,Drum Stick,36.0,Friday,11,2025
+2025-11-15,Drum Stick,34.0,Saturday,11,2025
+2025-11-16,Drum Stick,51.0,Sunday,11,2025
+2025-11-17,Drum Stick,91.0,Monday,11,2025
+2025-11-18,Drum Stick,77.0,Tuesday,11,2025
+2025-11-19,Drum Stick,46.0,Wednesday,11,2025
+2025-11-20,Drum Stick,72.0,Thursday,11,2025
+2025-11-21,Drum Stick,24.0,Friday,11,2025
+2025-11-22,Drum Stick,56.0,Saturday,11,2025
+2025-11-23,Drum Stick,59.0,Sunday,11,2025
+2025-11-24,Drum Stick,39.0,Monday,11,2025
+2025-11-25,Drum Stick,93.0,Tuesday,11,2025
+2025-11-26,Drum Stick,80.0,Wednesday,11,2025
+2025-11-27,Drum Stick,24.0,Thursday,11,2025
+2025-11-28,Drum Stick,24.0,Friday,11,2025
+2025-11-29,Drum Stick,10.0,Saturday,11,2025
+2025-11-30,Drum Stick,38.0,Sunday,11,2025
+2025-12-01,Drum Stick,97.0,Monday,12,2025
+2025-12-02,Drum Stick,52.0,Tuesday,12,2025
+2025-12-03,Drum Stick,34.0,Wednesday,12,2025
+2025-12-04,Drum Stick,49.0,Thursday,12,2025
+2025-12-05,Drum Stick,60.0,Friday,12,2025
+2025-12-06,Drum Stick,20.0,Saturday,12,2025
+2025-12-07,Drum Stick,55.0,Sunday,12,2025
+2025-12-08,Drum Stick,127.0,Monday,12,2025
+2025-12-09,Drum Stick,23.0,Tuesday,12,2025
+2025-12-10,Drum Stick,53.0,Wednesday,12,2025
+2025-12-11,Drum Stick,31.0,Thursday,12,2025
+2025-12-12,Drum Stick,42.0,Friday,12,2025
+2025-12-13,Drum Stick,16.0,Saturday,12,2025
+2025-12-14,Drum Stick,61.0,Sunday,12,2025
+2025-12-15,Drum Stick,56.0,Monday,12,2025
+2025-12-16,Drum Stick,12.0,Tuesday,12,2025
+2025-12-17,Drum Stick,80.0,Wednesday,12,2025
+2025-12-18,Drum Stick,24.0,Thursday,12,2025
+2025-12-19,Drum Stick,24.0,Friday,12,2025
+2025-12-20,Drum Stick,10.0,Saturday,12,2025
+2025-12-21,Drum Stick,74.0,Sunday,12,2025
+2025-12-22,Drum Stick,139.0,Monday,12,2025
+2025-12-23,Drum Stick,30.0,Tuesday,12,2025
+2025-12-24,Drum Stick,74.0,Wednesday,12,2025
+2025-12-25,Drum Stick,6.0,Thursday,12,2025
+2025-12-26,Drum Stick,67.0,Friday,12,2025
+2025-12-27,Drum Stick,9.0,Saturday,12,2025
+2025-12-28,Drum Stick,77.0,Sunday,12,2025
+2025-12-29,Drum Stick,62.0,Monday,12,2025
+2025-12-30,Drum Stick,65.0,Tuesday,12,2025
+2025-12-31,Drum Stick,67.0,Wednesday,12,2025
+2026-01-01,Drum Stick,72.0,Thursday,1,2026
+2026-01-02,Drum Stick,0.0,Friday,1,2026
+2026-01-03,Drum Stick,19.0,Saturday,1,2026
+2026-01-04,Drum Stick,30.0,Sunday,1,2026
+2026-01-05,Drum Stick,57.0,Monday,1,2026
+2026-01-06,Drum Stick,18.0,Tuesday,1,2026
+2026-01-07,Drum Stick,82.0,Wednesday,1,2026
+2026-01-08,Drum Stick,14.0,Thursday,1,2026
+2026-01-09,Drum Stick,72.0,Friday,1,2026
+2026-01-10,Drum Stick,77.0,Saturday,1,2026
+2026-01-11,Drum Stick,157.0,Sunday,1,2026
+2026-01-12,Drum Stick,58.0,Monday,1,2026
+2026-01-13,Drum Stick,78.0,Tuesday,1,2026
+2026-01-14,Drum Stick,65.0,Wednesday,1,2026
+2026-01-15,Drum Stick,53.0,Thursday,1,2026
+2026-01-16,Drum Stick,26.0,Friday,1,2026
+2026-01-17,Drum Stick,18.0,Saturday,1,2026
+2026-01-18,Drum Stick,164.0,Sunday,1,2026
+2026-01-19,Drum Stick,12.0,Monday,1,2026
+2026-01-20,Drum Stick,48.0,Tuesday,1,2026
+2026-01-21,Drum Stick,56.0,Wednesday,1,2026
+2026-01-22,Drum Stick,85.0,Thursday,1,2026
+2026-01-23,Drum Stick,13.0,Friday,1,2026
+2026-01-24,Drum Stick,0.0,Saturday,1,2026
+2026-01-25,Drum Stick,34.0,Sunday,1,2026
+2026-01-26,Drum Stick,25.0,Monday,1,2026
+2026-01-27,Drum Stick,26.0,Tuesday,1,2026
+2026-01-28,Drum Stick,26.0,Wednesday,1,2026
+2026-01-29,Drum Stick,13.0,Thursday,1,2026
+2026-01-30,Drum Stick,13.0,Friday,1,2026
+2026-01-31,Drum Stick,0.0,Saturday,1,2026
+2026-02-01,Drum Stick,13.0,Sunday,2,2026
+2026-02-02,Drum Stick,91.0,Monday,2,2026
+2026-02-03,Drum Stick,39.0,Tuesday,2,2026
+2026-02-04,Drum Stick,39.0,Wednesday,2,2026
+2026-02-05,Drum Stick,0.0,Thursday,2,2026
+2026-02-06,Drum Stick,39.0,Friday,2,2026
+2026-02-07,Drum Stick,26.0,Saturday,2,2026
+2026-02-08,Drum Stick,0.0,Sunday,2,2026
+2026-02-09,Drum Stick,91.0,Monday,2,2026
+2026-02-10,Drum Stick,0.0,Tuesday,2,2026
+2026-02-11,Drum Stick,8.0,Wednesday,2,2026
+2026-02-12,Drum Stick,11.0,Thursday,2,2026
+2026-02-13,Drum Stick,20.0,Friday,2,2026
+2026-02-14,Drum Stick,65.0,Saturday,2,2026
+2026-02-15,Drum Stick,58.0,Sunday,2,2026
+2026-02-16,Drum Stick,59.0,Monday,2,2026
+2026-02-17,Drum Stick,52.0,Tuesday,2,2026
+2026-02-18,Drum Stick,39.0,Wednesday,2,2026
+2026-02-19,Drum Stick,26.0,Thursday,2,2026
+2026-02-20,Drum Stick,39.0,Friday,2,2026
+2026-02-21,Drum Stick,4.0,Saturday,2,2026
+2026-02-22,Drum Stick,0.0,Sunday,2,2026
+2026-02-23,Drum Stick,26.0,Monday,2,2026
+2026-02-24,Drum Stick,26.0,Tuesday,2,2026
+2026-02-25,Drum Stick,13.0,Wednesday,2,2026
+2026-02-26,Drum Stick,52.0,Thursday,2,2026
+2026-02-27,Drum Stick,0.0,Friday,2,2026
+2026-02-28,Drum Stick,0.0,Saturday,2,2026
+2026-03-01,Drum Stick,25.0,Sunday,3,2026
+2026-03-02,Drum Stick,14.0,Monday,3,2026
+2026-03-03,Drum Stick,156.0,Tuesday,3,2026
+2026-03-04,Drum Stick,0.0,Wednesday,3,2026
+2026-03-05,Drum Stick,0.0,Thursday,3,2026
+2026-03-06,Drum Stick,0.0,Friday,3,2026
+2026-03-07,Drum Stick,0.0,Saturday,3,2026
+2026-03-08,Drum Stick,7.0,Sunday,3,2026
+2026-03-09,Drum Stick,42.0,Monday,3,2026
+2026-03-10,Drum Stick,68.0,Tuesday,3,2026
+2026-03-11,Drum Stick,39.0,Wednesday,3,2026
+2026-03-12,Drum Stick,3.0,Thursday,3,2026
+2026-03-13,Drum Stick,9.0,Friday,3,2026
+2026-03-14,Drum Stick,1.0,Saturday,3,2026
+2026-03-15,Drum Stick,60.0,Sunday,3,2026
+2026-03-16,Drum Stick,31.0,Monday,3,2026
+2026-03-17,Drum Stick,91.0,Tuesday,3,2026
+2026-03-18,Drum Stick,0.0,Wednesday,3,2026
+2026-03-19,Drum Stick,0.0,Thursday,3,2026
+2026-03-20,Drum Stick,26.0,Friday,3,2026
+2026-03-21,Drum Stick,13.0,Saturday,3,2026
+2026-03-22,Drum Stick,39.0,Sunday,3,2026
+2026-03-23,Drum Stick,110.0,Monday,3,2026
+2026-03-24,Drum Stick,179.0,Tuesday,3,2026
+2026-03-25,Drum Stick,25.0,Wednesday,3,2026
+2026-03-26,Drum Stick,2.0,Thursday,3,2026
+2026-03-27,Drum Stick,91.0,Friday,3,2026
+2026-03-28,Drum Stick,21.0,Saturday,3,2026
+2026-03-29,Drum Stick,44.0,Sunday,3,2026
+2026-03-30,Drum Stick,52.0,Monday,3,2026
+2026-03-31,Drum Stick,15.0,Tuesday,3,2026
+2026-04-01,Drum Stick,115.0,Wednesday,4,2026
+2026-04-02,Drum Stick,25.0,Thursday,4,2026
+2026-04-03,Drum Stick,0.0,Friday,4,2026
+2026-04-04,Drum Stick,2.0,Saturday,4,2026
+2026-04-05,Drum Stick,17.0,Sunday,4,2026
+2026-04-06,Drum Stick,26.0,Monday,4,2026
+2026-04-07,Drum Stick,18.0,Tuesday,4,2026
+2026-04-08,Drum Stick,63.0,Wednesday,4,2026
+2026-04-09,Drum Stick,18.0,Thursday,4,2026
+2026-04-10,Drum Stick,143.0,Friday,4,2026
+2026-04-11,Drum Stick,20.0,Saturday,4,2026
+2026-04-12,Drum Stick,42.0,Sunday,4,2026
+2026-04-13,Drum Stick,65.0,Monday,4,2026
+2026-04-14,Drum Stick,35.0,Tuesday,4,2026
+2026-04-15,Drum Stick,33.0,Wednesday,4,2026
+2026-04-16,Drum Stick,0.0,Thursday,4,2026
+2026-04-17,Drum Stick,0.0,Friday,4,2026
+2026-04-18,Drum Stick,9.0,Saturday,4,2026
+2026-04-19,Drum Stick,45.0,Sunday,4,2026
+2026-04-20,Drum Stick,46.0,Monday,4,2026
+2026-04-21,Drum Stick,39.0,Tuesday,4,2026
+2026-04-22,Drum Stick,56.0,Wednesday,4,2026
+2026-04-23,Drum Stick,4.0,Thursday,4,2026
+2026-04-24,Drum Stick,22.0,Friday,4,2026
+2026-04-25,Drum Stick,20.0,Saturday,4,2026
+2026-04-26,Drum Stick,70.0,Sunday,4,2026
+2026-04-27,Drum Stick,99.0,Monday,4,2026
+2026-04-28,Drum Stick,26.0,Tuesday,4,2026
+2026-04-29,Drum Stick,20.0,Wednesday,4,2026
+2026-04-30,Drum Stick,38.0,Thursday,4,2026
+2026-05-01,Drum Stick,27.0,Friday,5,2026
+2026-05-02,Drum Stick,12.0,Saturday,5,2026
+2026-05-03,Drum Stick,131.0,Sunday,5,2026
+2026-05-04,Drum Stick,48.0,Monday,5,2026
+2026-05-05,Drum Stick,45.0,Tuesday,5,2026
+2026-05-06,Drum Stick,60.0,Wednesday,5,2026
+2026-05-07,Drum Stick,94.0,Thursday,5,2026
+2026-05-08,Drum Stick,47.0,Friday,5,2026
+2026-05-09,Drum Stick,9.0,Saturday,5,2026
+2026-05-10,Drum Stick,54.0,Sunday,5,2026
+2026-05-11,Drum Stick,34.0,Monday,5,2026
+2026-05-12,Drum Stick,35.0,Tuesday,5,2026
+2026-05-13,Drum Stick,37.0,Wednesday,5,2026
+2025-01-01,Fiery Thigh & Drums,0.0,Wednesday,1,2025
+2025-01-02,Fiery Thigh & Drums,0.0,Thursday,1,2025
+2025-01-03,Fiery Thigh & Drums,0.0,Friday,1,2025
+2025-01-04,Fiery Thigh & Drums,0.0,Saturday,1,2025
+2025-01-05,Fiery Thigh & Drums,0.0,Sunday,1,2025
+2025-01-06,Fiery Thigh & Drums,0.0,Monday,1,2025
+2025-01-07,Fiery Thigh & Drums,0.0,Tuesday,1,2025
+2025-01-08,Fiery Thigh & Drums,0.0,Wednesday,1,2025
+2025-01-09,Fiery Thigh & Drums,0.0,Thursday,1,2025
+2025-01-10,Fiery Thigh & Drums,0.0,Friday,1,2025
+2025-01-11,Fiery Thigh & Drums,0.0,Saturday,1,2025
+2025-01-12,Fiery Thigh & Drums,0.0,Sunday,1,2025
+2025-01-13,Fiery Thigh & Drums,0.0,Monday,1,2025
+2025-01-14,Fiery Thigh & Drums,0.0,Tuesday,1,2025
+2025-01-15,Fiery Thigh & Drums,0.0,Wednesday,1,2025
+2025-01-16,Fiery Thigh & Drums,0.0,Thursday,1,2025
+2025-01-17,Fiery Thigh & Drums,0.0,Friday,1,2025
+2025-01-18,Fiery Thigh & Drums,0.0,Saturday,1,2025
+2025-01-19,Fiery Thigh & Drums,0.0,Sunday,1,2025
+2025-01-20,Fiery Thigh & Drums,0.0,Monday,1,2025
+2025-01-21,Fiery Thigh & Drums,0.0,Tuesday,1,2025
+2025-01-22,Fiery Thigh & Drums,0.0,Wednesday,1,2025
+2025-01-23,Fiery Thigh & Drums,0.0,Thursday,1,2025
+2025-01-24,Fiery Thigh & Drums,0.0,Friday,1,2025
+2025-01-25,Fiery Thigh & Drums,0.0,Saturday,1,2025
+2025-01-26,Fiery Thigh & Drums,0.0,Sunday,1,2025
+2025-01-27,Fiery Thigh & Drums,0.0,Monday,1,2025
+2025-01-28,Fiery Thigh & Drums,0.0,Tuesday,1,2025
+2025-01-29,Fiery Thigh & Drums,0.0,Wednesday,1,2025
+2025-01-30,Fiery Thigh & Drums,0.0,Thursday,1,2025
+2025-01-31,Fiery Thigh & Drums,0.0,Friday,1,2025
+2025-02-01,Fiery Thigh & Drums,0.0,Saturday,2,2025
+2025-02-02,Fiery Thigh & Drums,0.0,Sunday,2,2025
+2025-02-03,Fiery Thigh & Drums,0.0,Monday,2,2025
+2025-02-04,Fiery Thigh & Drums,0.0,Tuesday,2,2025
+2025-02-05,Fiery Thigh & Drums,0.0,Wednesday,2,2025
+2025-02-06,Fiery Thigh & Drums,0.0,Thursday,2,2025
+2025-02-07,Fiery Thigh & Drums,0.0,Friday,2,2025
+2025-02-08,Fiery Thigh & Drums,0.0,Saturday,2,2025
+2025-02-09,Fiery Thigh & Drums,0.0,Sunday,2,2025
+2025-02-10,Fiery Thigh & Drums,0.0,Monday,2,2025
+2025-02-11,Fiery Thigh & Drums,0.0,Tuesday,2,2025
+2025-02-12,Fiery Thigh & Drums,0.0,Wednesday,2,2025
+2025-02-13,Fiery Thigh & Drums,0.0,Thursday,2,2025
+2025-02-14,Fiery Thigh & Drums,0.0,Friday,2,2025
+2025-02-15,Fiery Thigh & Drums,0.0,Saturday,2,2025
+2025-02-16,Fiery Thigh & Drums,0.0,Sunday,2,2025
+2025-02-17,Fiery Thigh & Drums,0.0,Monday,2,2025
+2025-02-18,Fiery Thigh & Drums,0.0,Tuesday,2,2025
+2025-02-19,Fiery Thigh & Drums,0.0,Wednesday,2,2025
+2025-02-20,Fiery Thigh & Drums,0.0,Thursday,2,2025
+2025-02-21,Fiery Thigh & Drums,0.0,Friday,2,2025
+2025-02-22,Fiery Thigh & Drums,0.0,Saturday,2,2025
+2025-02-23,Fiery Thigh & Drums,0.0,Sunday,2,2025
+2025-02-24,Fiery Thigh & Drums,0.0,Monday,2,2025
+2025-02-25,Fiery Thigh & Drums,0.0,Tuesday,2,2025
+2025-02-26,Fiery Thigh & Drums,0.0,Wednesday,2,2025
+2025-02-27,Fiery Thigh & Drums,0.0,Thursday,2,2025
+2025-02-28,Fiery Thigh & Drums,0.0,Friday,2,2025
+2025-03-01,Fiery Thigh & Drums,0.0,Saturday,3,2025
+2025-03-02,Fiery Thigh & Drums,0.0,Sunday,3,2025
+2025-03-03,Fiery Thigh & Drums,0.0,Monday,3,2025
+2025-03-04,Fiery Thigh & Drums,0.0,Tuesday,3,2025
+2025-03-05,Fiery Thigh & Drums,0.0,Wednesday,3,2025
+2025-03-06,Fiery Thigh & Drums,0.0,Thursday,3,2025
+2025-03-07,Fiery Thigh & Drums,0.0,Friday,3,2025
+2025-03-08,Fiery Thigh & Drums,0.0,Saturday,3,2025
+2025-03-09,Fiery Thigh & Drums,0.0,Sunday,3,2025
+2025-03-10,Fiery Thigh & Drums,0.0,Monday,3,2025
+2025-03-11,Fiery Thigh & Drums,0.0,Tuesday,3,2025
+2025-03-12,Fiery Thigh & Drums,0.0,Wednesday,3,2025
+2025-03-13,Fiery Thigh & Drums,0.0,Thursday,3,2025
+2025-03-14,Fiery Thigh & Drums,0.0,Friday,3,2025
+2025-03-15,Fiery Thigh & Drums,0.0,Saturday,3,2025
+2025-03-16,Fiery Thigh & Drums,0.0,Sunday,3,2025
+2025-03-17,Fiery Thigh & Drums,0.0,Monday,3,2025
+2025-03-18,Fiery Thigh & Drums,0.0,Tuesday,3,2025
+2025-03-19,Fiery Thigh & Drums,0.0,Wednesday,3,2025
+2025-03-20,Fiery Thigh & Drums,0.0,Thursday,3,2025
+2025-03-21,Fiery Thigh & Drums,0.0,Friday,3,2025
+2025-03-22,Fiery Thigh & Drums,0.0,Saturday,3,2025
+2025-03-23,Fiery Thigh & Drums,0.0,Sunday,3,2025
+2025-03-24,Fiery Thigh & Drums,0.0,Monday,3,2025
+2025-03-25,Fiery Thigh & Drums,0.0,Tuesday,3,2025
+2025-03-26,Fiery Thigh & Drums,0.0,Wednesday,3,2025
+2025-03-27,Fiery Thigh & Drums,0.0,Thursday,3,2025
+2025-03-28,Fiery Thigh & Drums,0.0,Friday,3,2025
+2025-03-29,Fiery Thigh & Drums,0.0,Saturday,3,2025
+2025-03-30,Fiery Thigh & Drums,0.0,Sunday,3,2025
+2025-03-31,Fiery Thigh & Drums,0.0,Monday,3,2025
+2025-04-01,Fiery Thigh & Drums,0.0,Tuesday,4,2025
+2025-04-02,Fiery Thigh & Drums,0.0,Wednesday,4,2025
+2025-04-03,Fiery Thigh & Drums,0.0,Thursday,4,2025
+2025-04-04,Fiery Thigh & Drums,0.0,Friday,4,2025
+2025-04-05,Fiery Thigh & Drums,0.0,Saturday,4,2025
+2025-04-06,Fiery Thigh & Drums,0.0,Sunday,4,2025
+2025-04-07,Fiery Thigh & Drums,0.0,Monday,4,2025
+2025-04-08,Fiery Thigh & Drums,0.0,Tuesday,4,2025
+2025-04-09,Fiery Thigh & Drums,0.0,Wednesday,4,2025
+2025-04-10,Fiery Thigh & Drums,0.0,Thursday,4,2025
+2025-04-11,Fiery Thigh & Drums,0.0,Friday,4,2025
+2025-04-12,Fiery Thigh & Drums,0.0,Saturday,4,2025
+2025-04-13,Fiery Thigh & Drums,0.0,Sunday,4,2025
+2025-04-14,Fiery Thigh & Drums,0.0,Monday,4,2025
+2025-04-15,Fiery Thigh & Drums,0.0,Tuesday,4,2025
+2025-04-16,Fiery Thigh & Drums,0.0,Wednesday,4,2025
+2025-04-17,Fiery Thigh & Drums,0.0,Thursday,4,2025
+2025-04-18,Fiery Thigh & Drums,0.0,Friday,4,2025
+2025-04-19,Fiery Thigh & Drums,0.0,Saturday,4,2025
+2025-04-20,Fiery Thigh & Drums,0.0,Sunday,4,2025
+2025-04-21,Fiery Thigh & Drums,0.0,Monday,4,2025
+2025-04-22,Fiery Thigh & Drums,0.0,Tuesday,4,2025
+2025-04-23,Fiery Thigh & Drums,0.0,Wednesday,4,2025
+2025-04-24,Fiery Thigh & Drums,0.0,Thursday,4,2025
+2025-04-25,Fiery Thigh & Drums,0.0,Friday,4,2025
+2025-04-26,Fiery Thigh & Drums,0.0,Saturday,4,2025
+2025-04-27,Fiery Thigh & Drums,0.0,Sunday,4,2025
+2025-04-28,Fiery Thigh & Drums,0.0,Monday,4,2025
+2025-04-29,Fiery Thigh & Drums,0.0,Tuesday,4,2025
+2025-04-30,Fiery Thigh & Drums,0.0,Wednesday,4,2025
+2025-05-01,Fiery Thigh & Drums,0.0,Thursday,5,2025
+2025-05-02,Fiery Thigh & Drums,0.0,Friday,5,2025
+2025-05-03,Fiery Thigh & Drums,0.0,Saturday,5,2025
+2025-05-04,Fiery Thigh & Drums,0.0,Sunday,5,2025
+2025-05-05,Fiery Thigh & Drums,0.0,Monday,5,2025
+2025-05-06,Fiery Thigh & Drums,0.0,Tuesday,5,2025
+2025-05-07,Fiery Thigh & Drums,0.0,Wednesday,5,2025
+2025-05-08,Fiery Thigh & Drums,0.0,Thursday,5,2025
+2025-05-09,Fiery Thigh & Drums,0.0,Friday,5,2025
+2025-05-10,Fiery Thigh & Drums,0.0,Saturday,5,2025
+2025-05-11,Fiery Thigh & Drums,0.0,Sunday,5,2025
+2025-05-12,Fiery Thigh & Drums,0.0,Monday,5,2025
+2025-05-13,Fiery Thigh & Drums,0.0,Tuesday,5,2025
+2025-05-14,Fiery Thigh & Drums,0.0,Wednesday,5,2025
+2025-05-15,Fiery Thigh & Drums,0.0,Thursday,5,2025
+2025-05-16,Fiery Thigh & Drums,0.0,Friday,5,2025
+2025-05-17,Fiery Thigh & Drums,0.0,Saturday,5,2025
+2025-05-18,Fiery Thigh & Drums,0.0,Sunday,5,2025
+2025-05-19,Fiery Thigh & Drums,0.0,Monday,5,2025
+2025-05-20,Fiery Thigh & Drums,0.0,Tuesday,5,2025
+2025-05-21,Fiery Thigh & Drums,0.0,Wednesday,5,2025
+2025-05-22,Fiery Thigh & Drums,0.0,Thursday,5,2025
+2025-05-23,Fiery Thigh & Drums,0.0,Friday,5,2025
+2025-05-24,Fiery Thigh & Drums,0.0,Saturday,5,2025
+2025-05-25,Fiery Thigh & Drums,0.0,Sunday,5,2025
+2025-05-26,Fiery Thigh & Drums,0.0,Monday,5,2025
+2025-05-27,Fiery Thigh & Drums,0.0,Tuesday,5,2025
+2025-05-28,Fiery Thigh & Drums,0.0,Wednesday,5,2025
+2025-05-29,Fiery Thigh & Drums,0.0,Thursday,5,2025
+2025-05-30,Fiery Thigh & Drums,0.0,Friday,5,2025
+2025-05-31,Fiery Thigh & Drums,0.0,Saturday,5,2025
+2025-06-01,Fiery Thigh & Drums,0.0,Sunday,6,2025
+2025-06-02,Fiery Thigh & Drums,0.0,Monday,6,2025
+2025-06-03,Fiery Thigh & Drums,0.0,Tuesday,6,2025
+2025-06-04,Fiery Thigh & Drums,0.0,Wednesday,6,2025
+2025-06-05,Fiery Thigh & Drums,0.0,Thursday,6,2025
+2025-06-06,Fiery Thigh & Drums,0.0,Friday,6,2025
+2025-06-07,Fiery Thigh & Drums,0.0,Saturday,6,2025
+2025-06-08,Fiery Thigh & Drums,0.0,Sunday,6,2025
+2025-06-09,Fiery Thigh & Drums,0.0,Monday,6,2025
+2025-06-10,Fiery Thigh & Drums,0.0,Tuesday,6,2025
+2025-06-11,Fiery Thigh & Drums,0.0,Wednesday,6,2025
+2025-06-12,Fiery Thigh & Drums,0.0,Thursday,6,2025
+2025-06-13,Fiery Thigh & Drums,0.0,Friday,6,2025
+2025-06-14,Fiery Thigh & Drums,0.0,Saturday,6,2025
+2025-06-15,Fiery Thigh & Drums,0.0,Sunday,6,2025
+2025-06-16,Fiery Thigh & Drums,0.0,Monday,6,2025
+2025-06-17,Fiery Thigh & Drums,0.0,Tuesday,6,2025
+2025-06-18,Fiery Thigh & Drums,0.0,Wednesday,6,2025
+2025-06-19,Fiery Thigh & Drums,0.0,Thursday,6,2025
+2025-06-20,Fiery Thigh & Drums,0.0,Friday,6,2025
+2025-06-21,Fiery Thigh & Drums,0.0,Saturday,6,2025
+2025-06-22,Fiery Thigh & Drums,0.0,Sunday,6,2025
+2025-06-23,Fiery Thigh & Drums,0.0,Monday,6,2025
+2025-06-24,Fiery Thigh & Drums,0.0,Tuesday,6,2025
+2025-06-25,Fiery Thigh & Drums,0.0,Wednesday,6,2025
+2025-06-26,Fiery Thigh & Drums,0.0,Thursday,6,2025
+2025-06-27,Fiery Thigh & Drums,0.0,Friday,6,2025
+2025-06-28,Fiery Thigh & Drums,0.0,Saturday,6,2025
+2025-06-29,Fiery Thigh & Drums,0.0,Sunday,6,2025
+2025-06-30,Fiery Thigh & Drums,0.0,Monday,6,2025
+2025-07-01,Fiery Thigh & Drums,0.0,Tuesday,7,2025
+2025-07-02,Fiery Thigh & Drums,0.0,Wednesday,7,2025
+2025-07-03,Fiery Thigh & Drums,0.0,Thursday,7,2025
+2025-07-04,Fiery Thigh & Drums,0.0,Friday,7,2025
+2025-07-05,Fiery Thigh & Drums,0.0,Saturday,7,2025
+2025-07-06,Fiery Thigh & Drums,0.0,Sunday,7,2025
+2025-07-07,Fiery Thigh & Drums,0.0,Monday,7,2025
+2025-07-08,Fiery Thigh & Drums,0.0,Tuesday,7,2025
+2025-07-09,Fiery Thigh & Drums,0.0,Wednesday,7,2025
+2025-07-10,Fiery Thigh & Drums,0.0,Thursday,7,2025
+2025-07-11,Fiery Thigh & Drums,0.0,Friday,7,2025
+2025-07-12,Fiery Thigh & Drums,0.0,Saturday,7,2025
+2025-07-13,Fiery Thigh & Drums,0.0,Sunday,7,2025
+2025-07-14,Fiery Thigh & Drums,0.0,Monday,7,2025
+2025-07-15,Fiery Thigh & Drums,0.0,Tuesday,7,2025
+2025-07-16,Fiery Thigh & Drums,0.0,Wednesday,7,2025
+2025-07-17,Fiery Thigh & Drums,0.0,Thursday,7,2025
+2025-07-18,Fiery Thigh & Drums,0.0,Friday,7,2025
+2025-07-19,Fiery Thigh & Drums,0.0,Saturday,7,2025
+2025-07-20,Fiery Thigh & Drums,0.0,Sunday,7,2025
+2025-07-21,Fiery Thigh & Drums,0.0,Monday,7,2025
+2025-07-22,Fiery Thigh & Drums,0.0,Tuesday,7,2025
+2025-07-23,Fiery Thigh & Drums,0.0,Wednesday,7,2025
+2025-07-24,Fiery Thigh & Drums,0.0,Thursday,7,2025
+2025-07-25,Fiery Thigh & Drums,0.0,Friday,7,2025
+2025-07-26,Fiery Thigh & Drums,0.0,Saturday,7,2025
+2025-07-27,Fiery Thigh & Drums,0.0,Sunday,7,2025
+2025-07-28,Fiery Thigh & Drums,0.0,Monday,7,2025
+2025-07-29,Fiery Thigh & Drums,0.0,Tuesday,7,2025
+2025-07-30,Fiery Thigh & Drums,0.0,Wednesday,7,2025
+2025-07-31,Fiery Thigh & Drums,0.0,Thursday,7,2025
+2025-08-01,Fiery Thigh & Drums,0.0,Friday,8,2025
+2025-08-02,Fiery Thigh & Drums,0.0,Saturday,8,2025
+2025-08-03,Fiery Thigh & Drums,0.0,Sunday,8,2025
+2025-08-04,Fiery Thigh & Drums,0.0,Monday,8,2025
+2025-08-05,Fiery Thigh & Drums,0.0,Tuesday,8,2025
+2025-08-06,Fiery Thigh & Drums,4.5,Wednesday,8,2025
+2025-08-07,Fiery Thigh & Drums,0.0,Thursday,8,2025
+2025-08-08,Fiery Thigh & Drums,0.0,Friday,8,2025
+2025-08-09,Fiery Thigh & Drums,0.0,Saturday,8,2025
+2025-08-10,Fiery Thigh & Drums,0.0,Sunday,8,2025
+2025-08-11,Fiery Thigh & Drums,0.0,Monday,8,2025
+2025-08-12,Fiery Thigh & Drums,0.0,Tuesday,8,2025
+2025-08-13,Fiery Thigh & Drums,0.0,Wednesday,8,2025
+2025-08-14,Fiery Thigh & Drums,0.0,Thursday,8,2025
+2025-08-15,Fiery Thigh & Drums,0.0,Friday,8,2025
+2025-08-16,Fiery Thigh & Drums,0.0,Saturday,8,2025
+2025-08-17,Fiery Thigh & Drums,0.0,Sunday,8,2025
+2025-08-18,Fiery Thigh & Drums,0.0,Monday,8,2025
+2025-08-19,Fiery Thigh & Drums,0.0,Tuesday,8,2025
+2025-08-20,Fiery Thigh & Drums,0.0,Wednesday,8,2025
+2025-08-21,Fiery Thigh & Drums,0.0,Thursday,8,2025
+2025-08-22,Fiery Thigh & Drums,0.0,Friday,8,2025
+2025-08-23,Fiery Thigh & Drums,0.0,Saturday,8,2025
+2025-08-24,Fiery Thigh & Drums,0.0,Sunday,8,2025
+2025-08-25,Fiery Thigh & Drums,0.0,Monday,8,2025
+2025-08-26,Fiery Thigh & Drums,0.0,Tuesday,8,2025
+2025-08-27,Fiery Thigh & Drums,0.0,Wednesday,8,2025
+2025-08-28,Fiery Thigh & Drums,0.0,Thursday,8,2025
+2025-08-29,Fiery Thigh & Drums,0.0,Friday,8,2025
+2025-08-30,Fiery Thigh & Drums,0.0,Saturday,8,2025
+2025-08-31,Fiery Thigh & Drums,0.0,Sunday,8,2025
+2025-09-01,Fiery Thigh & Drums,0.0,Monday,9,2025
+2025-09-02,Fiery Thigh & Drums,0.0,Tuesday,9,2025
+2025-09-03,Fiery Thigh & Drums,0.0,Wednesday,9,2025
+2025-09-04,Fiery Thigh & Drums,0.0,Thursday,9,2025
+2025-09-05,Fiery Thigh & Drums,0.0,Friday,9,2025
+2025-09-06,Fiery Thigh & Drums,0.0,Saturday,9,2025
+2025-09-07,Fiery Thigh & Drums,0.0,Sunday,9,2025
+2025-09-08,Fiery Thigh & Drums,0.0,Monday,9,2025
+2025-09-09,Fiery Thigh & Drums,0.0,Tuesday,9,2025
+2025-09-10,Fiery Thigh & Drums,0.0,Wednesday,9,2025
+2025-09-11,Fiery Thigh & Drums,0.0,Thursday,9,2025
+2025-09-12,Fiery Thigh & Drums,0.0,Friday,9,2025
+2025-09-13,Fiery Thigh & Drums,0.0,Saturday,9,2025
+2025-09-14,Fiery Thigh & Drums,0.0,Sunday,9,2025
+2025-09-15,Fiery Thigh & Drums,0.0,Monday,9,2025
+2025-09-16,Fiery Thigh & Drums,0.0,Tuesday,9,2025
+2025-09-17,Fiery Thigh & Drums,0.0,Wednesday,9,2025
+2025-09-18,Fiery Thigh & Drums,0.0,Thursday,9,2025
+2025-09-19,Fiery Thigh & Drums,0.0,Friday,9,2025
+2025-09-20,Fiery Thigh & Drums,0.0,Saturday,9,2025
+2025-09-21,Fiery Thigh & Drums,0.0,Sunday,9,2025
+2025-09-22,Fiery Thigh & Drums,0.0,Monday,9,2025
+2025-09-23,Fiery Thigh & Drums,0.0,Tuesday,9,2025
+2025-09-24,Fiery Thigh & Drums,0.0,Wednesday,9,2025
+2025-09-25,Fiery Thigh & Drums,0.0,Thursday,9,2025
+2025-09-26,Fiery Thigh & Drums,0.0,Friday,9,2025
+2025-09-27,Fiery Thigh & Drums,0.0,Saturday,9,2025
+2025-09-28,Fiery Thigh & Drums,0.0,Sunday,9,2025
+2025-09-29,Fiery Thigh & Drums,0.0,Monday,9,2025
+2025-09-30,Fiery Thigh & Drums,0.0,Tuesday,9,2025
+2025-10-01,Fiery Thigh & Drums,0.0,Wednesday,10,2025
+2025-10-02,Fiery Thigh & Drums,0.0,Thursday,10,2025
+2025-10-03,Fiery Thigh & Drums,0.0,Friday,10,2025
+2025-10-04,Fiery Thigh & Drums,0.0,Saturday,10,2025
+2025-10-05,Fiery Thigh & Drums,0.0,Sunday,10,2025
+2025-10-06,Fiery Thigh & Drums,0.0,Monday,10,2025
+2025-10-07,Fiery Thigh & Drums,0.0,Tuesday,10,2025
+2025-10-08,Fiery Thigh & Drums,0.0,Wednesday,10,2025
+2025-10-09,Fiery Thigh & Drums,0.0,Thursday,10,2025
+2025-10-10,Fiery Thigh & Drums,0.0,Friday,10,2025
+2025-10-11,Fiery Thigh & Drums,0.0,Saturday,10,2025
+2025-10-12,Fiery Thigh & Drums,0.0,Sunday,10,2025
+2025-10-13,Fiery Thigh & Drums,0.0,Monday,10,2025
+2025-10-14,Fiery Thigh & Drums,0.0,Tuesday,10,2025
+2025-10-15,Fiery Thigh & Drums,0.0,Wednesday,10,2025
+2025-10-16,Fiery Thigh & Drums,0.0,Thursday,10,2025
+2025-10-17,Fiery Thigh & Drums,0.0,Friday,10,2025
+2025-10-18,Fiery Thigh & Drums,0.0,Saturday,10,2025
+2025-10-19,Fiery Thigh & Drums,0.0,Sunday,10,2025
+2025-10-20,Fiery Thigh & Drums,0.0,Monday,10,2025
+2025-10-21,Fiery Thigh & Drums,0.0,Tuesday,10,2025
+2025-10-22,Fiery Thigh & Drums,0.0,Wednesday,10,2025
+2025-10-23,Fiery Thigh & Drums,0.0,Thursday,10,2025
+2025-10-24,Fiery Thigh & Drums,0.0,Friday,10,2025
+2025-10-25,Fiery Thigh & Drums,0.0,Saturday,10,2025
+2025-10-26,Fiery Thigh & Drums,0.0,Sunday,10,2025
+2025-10-27,Fiery Thigh & Drums,0.0,Monday,10,2025
+2025-10-28,Fiery Thigh & Drums,0.0,Tuesday,10,2025
+2025-10-29,Fiery Thigh & Drums,0.0,Wednesday,10,2025
+2025-10-30,Fiery Thigh & Drums,0.0,Thursday,10,2025
+2025-10-31,Fiery Thigh & Drums,0.0,Friday,10,2025
+2025-11-01,Fiery Thigh & Drums,0.0,Saturday,11,2025
+2025-11-02,Fiery Thigh & Drums,0.0,Sunday,11,2025
+2025-11-03,Fiery Thigh & Drums,0.0,Monday,11,2025
+2025-11-04,Fiery Thigh & Drums,0.0,Tuesday,11,2025
+2025-11-05,Fiery Thigh & Drums,0.0,Wednesday,11,2025
+2025-11-06,Fiery Thigh & Drums,0.0,Thursday,11,2025
+2025-11-07,Fiery Thigh & Drums,0.0,Friday,11,2025
+2025-11-08,Fiery Thigh & Drums,0.0,Saturday,11,2025
+2025-11-09,Fiery Thigh & Drums,0.0,Sunday,11,2025
+2025-11-10,Fiery Thigh & Drums,0.0,Monday,11,2025
+2025-11-11,Fiery Thigh & Drums,0.0,Tuesday,11,2025
+2025-11-12,Fiery Thigh & Drums,0.0,Wednesday,11,2025
+2025-11-13,Fiery Thigh & Drums,0.0,Thursday,11,2025
+2025-11-14,Fiery Thigh & Drums,0.0,Friday,11,2025
+2025-11-15,Fiery Thigh & Drums,0.0,Saturday,11,2025
+2025-11-16,Fiery Thigh & Drums,0.0,Sunday,11,2025
+2025-11-17,Fiery Thigh & Drums,0.0,Monday,11,2025
+2025-11-18,Fiery Thigh & Drums,0.0,Tuesday,11,2025
+2025-11-19,Fiery Thigh & Drums,0.0,Wednesday,11,2025
+2025-11-20,Fiery Thigh & Drums,0.0,Thursday,11,2025
+2025-11-21,Fiery Thigh & Drums,0.0,Friday,11,2025
+2025-11-22,Fiery Thigh & Drums,0.0,Saturday,11,2025
+2025-11-23,Fiery Thigh & Drums,0.0,Sunday,11,2025
+2025-11-24,Fiery Thigh & Drums,0.0,Monday,11,2025
+2025-11-25,Fiery Thigh & Drums,0.0,Tuesday,11,2025
+2025-11-26,Fiery Thigh & Drums,0.0,Wednesday,11,2025
+2025-11-27,Fiery Thigh & Drums,0.0,Thursday,11,2025
+2025-11-28,Fiery Thigh & Drums,0.0,Friday,11,2025
+2025-11-29,Fiery Thigh & Drums,0.0,Saturday,11,2025
+2025-11-30,Fiery Thigh & Drums,0.0,Sunday,11,2025
+2025-12-01,Fiery Thigh & Drums,0.0,Monday,12,2025
+2025-12-02,Fiery Thigh & Drums,0.0,Tuesday,12,2025
+2025-12-03,Fiery Thigh & Drums,0.0,Wednesday,12,2025
+2025-12-04,Fiery Thigh & Drums,0.0,Thursday,12,2025
+2025-12-05,Fiery Thigh & Drums,0.0,Friday,12,2025
+2025-12-06,Fiery Thigh & Drums,0.0,Saturday,12,2025
+2025-12-07,Fiery Thigh & Drums,0.0,Sunday,12,2025
+2025-12-08,Fiery Thigh & Drums,0.0,Monday,12,2025
+2025-12-09,Fiery Thigh & Drums,0.0,Tuesday,12,2025
+2025-12-10,Fiery Thigh & Drums,0.0,Wednesday,12,2025
+2025-12-11,Fiery Thigh & Drums,0.0,Thursday,12,2025
+2025-12-12,Fiery Thigh & Drums,0.0,Friday,12,2025
+2025-12-13,Fiery Thigh & Drums,0.0,Saturday,12,2025
+2025-12-14,Fiery Thigh & Drums,0.0,Sunday,12,2025
+2025-12-15,Fiery Thigh & Drums,0.0,Monday,12,2025
+2025-12-16,Fiery Thigh & Drums,0.0,Tuesday,12,2025
+2025-12-17,Fiery Thigh & Drums,0.0,Wednesday,12,2025
+2025-12-18,Fiery Thigh & Drums,0.0,Thursday,12,2025
+2025-12-19,Fiery Thigh & Drums,0.0,Friday,12,2025
+2025-12-20,Fiery Thigh & Drums,0.0,Saturday,12,2025
+2025-12-21,Fiery Thigh & Drums,0.0,Sunday,12,2025
+2025-12-22,Fiery Thigh & Drums,0.0,Monday,12,2025
+2025-12-23,Fiery Thigh & Drums,0.0,Tuesday,12,2025
+2025-12-24,Fiery Thigh & Drums,0.0,Wednesday,12,2025
+2025-12-25,Fiery Thigh & Drums,0.0,Thursday,12,2025
+2025-12-26,Fiery Thigh & Drums,0.0,Friday,12,2025
+2025-12-27,Fiery Thigh & Drums,0.0,Saturday,12,2025
+2025-12-28,Fiery Thigh & Drums,0.0,Sunday,12,2025
+2025-12-29,Fiery Thigh & Drums,0.0,Monday,12,2025
+2025-12-30,Fiery Thigh & Drums,0.0,Tuesday,12,2025
+2025-12-31,Fiery Thigh & Drums,0.0,Wednesday,12,2025
+2026-01-01,Fiery Thigh & Drums,0.0,Thursday,1,2026
+2026-01-02,Fiery Thigh & Drums,0.0,Friday,1,2026
+2026-01-03,Fiery Thigh & Drums,0.0,Saturday,1,2026
+2026-01-04,Fiery Thigh & Drums,0.0,Sunday,1,2026
+2026-01-05,Fiery Thigh & Drums,0.0,Monday,1,2026
+2026-01-06,Fiery Thigh & Drums,0.0,Tuesday,1,2026
+2026-01-07,Fiery Thigh & Drums,0.0,Wednesday,1,2026
+2026-01-08,Fiery Thigh & Drums,0.0,Thursday,1,2026
+2026-01-09,Fiery Thigh & Drums,0.0,Friday,1,2026
+2026-01-10,Fiery Thigh & Drums,0.0,Saturday,1,2026
+2026-01-11,Fiery Thigh & Drums,0.0,Sunday,1,2026
+2026-01-12,Fiery Thigh & Drums,0.0,Monday,1,2026
+2026-01-13,Fiery Thigh & Drums,0.0,Tuesday,1,2026
+2026-01-14,Fiery Thigh & Drums,0.0,Wednesday,1,2026
+2026-01-15,Fiery Thigh & Drums,0.0,Thursday,1,2026
+2026-01-16,Fiery Thigh & Drums,0.0,Friday,1,2026
+2026-01-17,Fiery Thigh & Drums,0.0,Saturday,1,2026
+2026-01-18,Fiery Thigh & Drums,0.0,Sunday,1,2026
+2026-01-19,Fiery Thigh & Drums,0.0,Monday,1,2026
+2026-01-20,Fiery Thigh & Drums,0.0,Tuesday,1,2026
+2026-01-21,Fiery Thigh & Drums,0.0,Wednesday,1,2026
+2026-01-22,Fiery Thigh & Drums,0.0,Thursday,1,2026
+2026-01-23,Fiery Thigh & Drums,0.0,Friday,1,2026
+2026-01-24,Fiery Thigh & Drums,0.0,Saturday,1,2026
+2026-01-25,Fiery Thigh & Drums,0.0,Sunday,1,2026
+2026-01-26,Fiery Thigh & Drums,0.0,Monday,1,2026
+2026-01-27,Fiery Thigh & Drums,0.0,Tuesday,1,2026
+2026-01-28,Fiery Thigh & Drums,0.0,Wednesday,1,2026
+2026-01-29,Fiery Thigh & Drums,0.0,Thursday,1,2026
+2026-01-30,Fiery Thigh & Drums,0.0,Friday,1,2026
+2026-01-31,Fiery Thigh & Drums,0.0,Saturday,1,2026
+2026-02-01,Fiery Thigh & Drums,0.0,Sunday,2,2026
+2026-02-02,Fiery Thigh & Drums,0.0,Monday,2,2026
+2026-02-03,Fiery Thigh & Drums,0.0,Tuesday,2,2026
+2026-02-04,Fiery Thigh & Drums,0.0,Wednesday,2,2026
+2026-02-05,Fiery Thigh & Drums,0.0,Thursday,2,2026
+2026-02-06,Fiery Thigh & Drums,0.0,Friday,2,2026
+2026-02-07,Fiery Thigh & Drums,0.0,Saturday,2,2026
+2026-02-08,Fiery Thigh & Drums,0.0,Sunday,2,2026
+2026-02-09,Fiery Thigh & Drums,0.0,Monday,2,2026
+2026-02-10,Fiery Thigh & Drums,0.0,Tuesday,2,2026
+2026-02-11,Fiery Thigh & Drums,0.0,Wednesday,2,2026
+2026-02-12,Fiery Thigh & Drums,0.0,Thursday,2,2026
+2026-02-13,Fiery Thigh & Drums,0.0,Friday,2,2026
+2026-02-14,Fiery Thigh & Drums,0.0,Saturday,2,2026
+2026-02-15,Fiery Thigh & Drums,0.0,Sunday,2,2026
+2026-02-16,Fiery Thigh & Drums,0.0,Monday,2,2026
+2026-02-17,Fiery Thigh & Drums,0.0,Tuesday,2,2026
+2026-02-18,Fiery Thigh & Drums,0.0,Wednesday,2,2026
+2026-02-19,Fiery Thigh & Drums,0.0,Thursday,2,2026
+2026-02-20,Fiery Thigh & Drums,0.0,Friday,2,2026
+2026-02-21,Fiery Thigh & Drums,0.0,Saturday,2,2026
+2026-02-22,Fiery Thigh & Drums,0.0,Sunday,2,2026
+2026-02-23,Fiery Thigh & Drums,0.0,Monday,2,2026
+2026-02-24,Fiery Thigh & Drums,0.0,Tuesday,2,2026
+2026-02-25,Fiery Thigh & Drums,0.0,Wednesday,2,2026
+2026-02-26,Fiery Thigh & Drums,0.0,Thursday,2,2026
+2026-02-27,Fiery Thigh & Drums,0.0,Friday,2,2026
+2026-02-28,Fiery Thigh & Drums,0.0,Saturday,2,2026
+2026-03-01,Fiery Thigh & Drums,0.0,Sunday,3,2026
+2026-03-02,Fiery Thigh & Drums,0.0,Monday,3,2026
+2026-03-03,Fiery Thigh & Drums,0.0,Tuesday,3,2026
+2026-03-04,Fiery Thigh & Drums,0.0,Wednesday,3,2026
+2026-03-05,Fiery Thigh & Drums,0.0,Thursday,3,2026
+2026-03-06,Fiery Thigh & Drums,0.0,Friday,3,2026
+2026-03-07,Fiery Thigh & Drums,0.0,Saturday,3,2026
+2026-03-08,Fiery Thigh & Drums,0.0,Sunday,3,2026
+2026-03-09,Fiery Thigh & Drums,0.0,Monday,3,2026
+2026-03-10,Fiery Thigh & Drums,0.0,Tuesday,3,2026
+2026-03-11,Fiery Thigh & Drums,0.0,Wednesday,3,2026
+2026-03-12,Fiery Thigh & Drums,0.0,Thursday,3,2026
+2026-03-13,Fiery Thigh & Drums,0.0,Friday,3,2026
+2026-03-14,Fiery Thigh & Drums,0.0,Saturday,3,2026
+2026-03-15,Fiery Thigh & Drums,0.0,Sunday,3,2026
+2026-03-16,Fiery Thigh & Drums,0.0,Monday,3,2026
+2026-03-17,Fiery Thigh & Drums,0.0,Tuesday,3,2026
+2026-03-18,Fiery Thigh & Drums,0.0,Wednesday,3,2026
+2026-03-19,Fiery Thigh & Drums,0.0,Thursday,3,2026
+2026-03-20,Fiery Thigh & Drums,0.0,Friday,3,2026
+2026-03-21,Fiery Thigh & Drums,0.0,Saturday,3,2026
+2026-03-22,Fiery Thigh & Drums,0.0,Sunday,3,2026
+2026-03-23,Fiery Thigh & Drums,0.0,Monday,3,2026
+2026-03-24,Fiery Thigh & Drums,0.0,Tuesday,3,2026
+2026-03-25,Fiery Thigh & Drums,0.0,Wednesday,3,2026
+2026-03-26,Fiery Thigh & Drums,0.0,Thursday,3,2026
+2026-03-27,Fiery Thigh & Drums,0.0,Friday,3,2026
+2026-03-28,Fiery Thigh & Drums,0.0,Saturday,3,2026
+2026-03-29,Fiery Thigh & Drums,0.0,Sunday,3,2026
+2026-03-30,Fiery Thigh & Drums,0.0,Monday,3,2026
+2026-03-31,Fiery Thigh & Drums,0.0,Tuesday,3,2026
+2026-04-01,Fiery Thigh & Drums,0.0,Wednesday,4,2026
+2026-04-02,Fiery Thigh & Drums,0.0,Thursday,4,2026
+2026-04-03,Fiery Thigh & Drums,0.0,Friday,4,2026
+2026-04-04,Fiery Thigh & Drums,0.0,Saturday,4,2026
+2026-04-05,Fiery Thigh & Drums,0.0,Sunday,4,2026
+2026-04-06,Fiery Thigh & Drums,0.0,Monday,4,2026
+2026-04-07,Fiery Thigh & Drums,0.0,Tuesday,4,2026
+2026-04-08,Fiery Thigh & Drums,0.0,Wednesday,4,2026
+2026-04-09,Fiery Thigh & Drums,0.0,Thursday,4,2026
+2026-04-10,Fiery Thigh & Drums,0.0,Friday,4,2026
+2026-04-11,Fiery Thigh & Drums,0.0,Saturday,4,2026
+2026-04-12,Fiery Thigh & Drums,0.0,Sunday,4,2026
+2026-04-13,Fiery Thigh & Drums,0.0,Monday,4,2026
+2026-04-14,Fiery Thigh & Drums,0.0,Tuesday,4,2026
+2026-04-15,Fiery Thigh & Drums,0.0,Wednesday,4,2026
+2026-04-16,Fiery Thigh & Drums,0.0,Thursday,4,2026
+2026-04-17,Fiery Thigh & Drums,0.0,Friday,4,2026
+2026-04-18,Fiery Thigh & Drums,0.0,Saturday,4,2026
+2026-04-19,Fiery Thigh & Drums,0.0,Sunday,4,2026
+2026-04-20,Fiery Thigh & Drums,0.0,Monday,4,2026
+2026-04-21,Fiery Thigh & Drums,0.0,Tuesday,4,2026
+2026-04-22,Fiery Thigh & Drums,0.0,Wednesday,4,2026
+2026-04-23,Fiery Thigh & Drums,0.0,Thursday,4,2026
+2026-04-24,Fiery Thigh & Drums,0.0,Friday,4,2026
+2026-04-25,Fiery Thigh & Drums,0.0,Saturday,4,2026
+2026-04-26,Fiery Thigh & Drums,0.0,Sunday,4,2026
+2026-04-27,Fiery Thigh & Drums,0.0,Monday,4,2026
+2026-04-28,Fiery Thigh & Drums,0.0,Tuesday,4,2026
+2026-04-29,Fiery Thigh & Drums,0.0,Wednesday,4,2026
+2026-04-30,Fiery Thigh & Drums,0.0,Thursday,4,2026
+2026-05-01,Fiery Thigh & Drums,0.0,Friday,5,2026
+2026-05-02,Fiery Thigh & Drums,0.0,Saturday,5,2026
+2026-05-03,Fiery Thigh & Drums,0.0,Sunday,5,2026
+2026-05-04,Fiery Thigh & Drums,0.0,Monday,5,2026
+2026-05-05,Fiery Thigh & Drums,0.0,Tuesday,5,2026
+2026-05-06,Fiery Thigh & Drums,0.0,Wednesday,5,2026
+2026-05-07,Fiery Thigh & Drums,0.0,Thursday,5,2026
+2026-05-08,Fiery Thigh & Drums,0.0,Friday,5,2026
+2026-05-09,Fiery Thigh & Drums,0.0,Saturday,5,2026
+2026-05-10,Fiery Thigh & Drums,0.0,Sunday,5,2026
+2026-05-11,Fiery Thigh & Drums,0.0,Monday,5,2026
+2026-05-12,Fiery Thigh & Drums,0.0,Tuesday,5,2026
+2026-05-13,Fiery Thigh & Drums,0.0,Wednesday,5,2026
+2025-01-01,Popcorn Chicken,2.61,Wednesday,1,2025
+2025-01-02,Popcorn Chicken,4.9,Thursday,1,2025
+2025-01-03,Popcorn Chicken,1.5,Friday,1,2025
+2025-01-04,Popcorn Chicken,4.23,Saturday,1,2025
+2025-01-05,Popcorn Chicken,2.77,Sunday,1,2025
+2025-01-06,Popcorn Chicken,1.5,Monday,1,2025
+2025-01-07,Popcorn Chicken,3.1,Tuesday,1,2025
+2025-01-08,Popcorn Chicken,2.61,Wednesday,1,2025
+2025-01-09,Popcorn Chicken,4.9,Thursday,1,2025
+2025-01-10,Popcorn Chicken,1.5,Friday,1,2025
+2025-01-11,Popcorn Chicken,4.23,Saturday,1,2025
+2025-01-12,Popcorn Chicken,2.77,Sunday,1,2025
+2025-01-13,Popcorn Chicken,1.5,Monday,1,2025
+2025-01-14,Popcorn Chicken,3.1,Tuesday,1,2025
+2025-01-15,Popcorn Chicken,2.61,Wednesday,1,2025
+2025-01-16,Popcorn Chicken,4.9,Thursday,1,2025
+2025-01-17,Popcorn Chicken,1.5,Friday,1,2025
+2025-01-18,Popcorn Chicken,4.23,Saturday,1,2025
+2025-01-19,Popcorn Chicken,2.77,Sunday,1,2025
+2025-01-20,Popcorn Chicken,1.5,Monday,1,2025
+2025-01-21,Popcorn Chicken,3.1,Tuesday,1,2025
+2025-01-22,Popcorn Chicken,2.61,Wednesday,1,2025
+2025-01-23,Popcorn Chicken,4.9,Thursday,1,2025
+2025-01-24,Popcorn Chicken,1.5,Friday,1,2025
+2025-01-25,Popcorn Chicken,4.23,Saturday,1,2025
+2025-01-26,Popcorn Chicken,2.77,Sunday,1,2025
+2025-01-27,Popcorn Chicken,1.5,Monday,1,2025
+2025-01-28,Popcorn Chicken,3.1,Tuesday,1,2025
+2025-01-29,Popcorn Chicken,2.61,Wednesday,1,2025
+2025-01-30,Popcorn Chicken,4.9,Thursday,1,2025
+2025-01-31,Popcorn Chicken,1.5,Friday,1,2025
+2025-02-01,Popcorn Chicken,4.23,Saturday,2,2025
+2025-02-02,Popcorn Chicken,2.77,Sunday,2,2025
+2025-02-03,Popcorn Chicken,1.5,Monday,2,2025
+2025-02-04,Popcorn Chicken,3.1,Tuesday,2,2025
+2025-02-05,Popcorn Chicken,2.61,Wednesday,2,2025
+2025-02-06,Popcorn Chicken,4.9,Thursday,2,2025
+2025-02-07,Popcorn Chicken,1.5,Friday,2,2025
+2025-02-08,Popcorn Chicken,4.23,Saturday,2,2025
+2025-02-09,Popcorn Chicken,2.77,Sunday,2,2025
+2025-02-10,Popcorn Chicken,1.5,Monday,2,2025
+2025-02-11,Popcorn Chicken,3.1,Tuesday,2,2025
+2025-02-12,Popcorn Chicken,2.61,Wednesday,2,2025
+2025-02-13,Popcorn Chicken,4.9,Thursday,2,2025
+2025-02-14,Popcorn Chicken,1.5,Friday,2,2025
+2025-02-15,Popcorn Chicken,4.23,Saturday,2,2025
+2025-02-16,Popcorn Chicken,2.77,Sunday,2,2025
+2025-02-17,Popcorn Chicken,1.5,Monday,2,2025
+2025-02-18,Popcorn Chicken,3.1,Tuesday,2,2025
+2025-02-19,Popcorn Chicken,2.61,Wednesday,2,2025
+2025-02-20,Popcorn Chicken,4.9,Thursday,2,2025
+2025-02-21,Popcorn Chicken,1.5,Friday,2,2025
+2025-02-22,Popcorn Chicken,4.23,Saturday,2,2025
+2025-02-23,Popcorn Chicken,2.77,Sunday,2,2025
+2025-02-24,Popcorn Chicken,1.5,Monday,2,2025
+2025-02-25,Popcorn Chicken,3.1,Tuesday,2,2025
+2025-02-26,Popcorn Chicken,2.61,Wednesday,2,2025
+2025-02-27,Popcorn Chicken,4.9,Thursday,2,2025
+2025-02-28,Popcorn Chicken,1.5,Friday,2,2025
+2025-03-01,Popcorn Chicken,4.23,Saturday,3,2025
+2025-03-02,Popcorn Chicken,2.77,Sunday,3,2025
+2025-03-03,Popcorn Chicken,1.5,Monday,3,2025
+2025-03-04,Popcorn Chicken,3.1,Tuesday,3,2025
+2025-03-05,Popcorn Chicken,2.61,Wednesday,3,2025
+2025-03-06,Popcorn Chicken,4.9,Thursday,3,2025
+2025-03-07,Popcorn Chicken,1.5,Friday,3,2025
+2025-03-08,Popcorn Chicken,4.23,Saturday,3,2025
+2025-03-09,Popcorn Chicken,2.77,Sunday,3,2025
+2025-03-10,Popcorn Chicken,1.5,Monday,3,2025
+2025-03-11,Popcorn Chicken,3.1,Tuesday,3,2025
+2025-03-12,Popcorn Chicken,2.61,Wednesday,3,2025
+2025-03-13,Popcorn Chicken,4.9,Thursday,3,2025
+2025-03-14,Popcorn Chicken,1.5,Friday,3,2025
+2025-03-15,Popcorn Chicken,4.23,Saturday,3,2025
+2025-03-16,Popcorn Chicken,2.77,Sunday,3,2025
+2025-03-17,Popcorn Chicken,1.5,Monday,3,2025
+2025-03-18,Popcorn Chicken,3.1,Tuesday,3,2025
+2025-03-19,Popcorn Chicken,2.61,Wednesday,3,2025
+2025-03-20,Popcorn Chicken,4.9,Thursday,3,2025
+2025-03-21,Popcorn Chicken,1.5,Friday,3,2025
+2025-03-22,Popcorn Chicken,4.23,Saturday,3,2025
+2025-03-23,Popcorn Chicken,2.77,Sunday,3,2025
+2025-03-24,Popcorn Chicken,1.5,Monday,3,2025
+2025-03-25,Popcorn Chicken,3.1,Tuesday,3,2025
+2025-03-26,Popcorn Chicken,2.61,Wednesday,3,2025
+2025-03-27,Popcorn Chicken,4.9,Thursday,3,2025
+2025-03-28,Popcorn Chicken,1.5,Friday,3,2025
+2025-03-29,Popcorn Chicken,4.23,Saturday,3,2025
+2025-03-30,Popcorn Chicken,2.77,Sunday,3,2025
+2025-03-31,Popcorn Chicken,1.5,Monday,3,2025
+2025-04-01,Popcorn Chicken,3.1,Tuesday,4,2025
+2025-04-02,Popcorn Chicken,2.61,Wednesday,4,2025
+2025-04-03,Popcorn Chicken,4.9,Thursday,4,2025
+2025-04-04,Popcorn Chicken,1.5,Friday,4,2025
+2025-04-05,Popcorn Chicken,4.23,Saturday,4,2025
+2025-04-06,Popcorn Chicken,2.77,Sunday,4,2025
+2025-04-07,Popcorn Chicken,1.5,Monday,4,2025
+2025-04-08,Popcorn Chicken,3.1,Tuesday,4,2025
+2025-04-09,Popcorn Chicken,2.61,Wednesday,4,2025
+2025-04-10,Popcorn Chicken,4.9,Thursday,4,2025
+2025-04-11,Popcorn Chicken,1.5,Friday,4,2025
+2025-04-12,Popcorn Chicken,4.23,Saturday,4,2025
+2025-04-13,Popcorn Chicken,2.77,Sunday,4,2025
+2025-04-14,Popcorn Chicken,0.4,Monday,4,2025
+2025-04-15,Popcorn Chicken,3.5,Tuesday,4,2025
+2025-04-16,Popcorn Chicken,2.0,Wednesday,4,2025
+2025-04-17,Popcorn Chicken,2.2,Thursday,4,2025
+2025-04-18,Popcorn Chicken,2.3,Friday,4,2025
+2025-04-19,Popcorn Chicken,1.1,Saturday,4,2025
+2025-04-20,Popcorn Chicken,2.4,Sunday,4,2025
+2025-04-21,Popcorn Chicken,1.4,Monday,4,2025
+2025-04-22,Popcorn Chicken,6.1,Tuesday,4,2025
+2025-04-23,Popcorn Chicken,2.5,Wednesday,4,2025
+2025-04-24,Popcorn Chicken,3.05,Thursday,4,2025
+2025-04-25,Popcorn Chicken,1.85,Friday,4,2025
+2025-04-26,Popcorn Chicken,1.35,Saturday,4,2025
+2025-04-27,Popcorn Chicken,2.1,Sunday,4,2025
+2025-04-28,Popcorn Chicken,2.5,Monday,4,2025
+2025-04-29,Popcorn Chicken,2.0,Tuesday,4,2025
+2025-04-30,Popcorn Chicken,0.9,Wednesday,4,2025
+2025-05-01,Popcorn Chicken,3.6,Thursday,5,2025
+2025-05-02,Popcorn Chicken,2.8,Friday,5,2025
+2025-05-03,Popcorn Chicken,2.0,Saturday,5,2025
+2025-05-04,Popcorn Chicken,1.7,Sunday,5,2025
+2025-05-05,Popcorn Chicken,2.3,Monday,5,2025
+2025-05-06,Popcorn Chicken,3.0,Tuesday,5,2025
+2025-05-07,Popcorn Chicken,2.2,Wednesday,5,2025
+2025-05-08,Popcorn Chicken,4.0,Thursday,5,2025
+2025-05-09,Popcorn Chicken,4.0,Friday,5,2025
+2025-05-10,Popcorn Chicken,1.3,Saturday,5,2025
+2025-05-11,Popcorn Chicken,2.3,Sunday,5,2025
+2025-05-12,Popcorn Chicken,2.8,Monday,5,2025
+2025-05-13,Popcorn Chicken,2.5,Tuesday,5,2025
+2025-05-14,Popcorn Chicken,2.5,Wednesday,5,2025
+2025-05-15,Popcorn Chicken,4.5,Thursday,5,2025
+2025-05-16,Popcorn Chicken,2.7,Friday,5,2025
+2025-05-17,Popcorn Chicken,2.58,Saturday,5,2025
+2025-05-18,Popcorn Chicken,1.7,Sunday,5,2025
+2025-05-19,Popcorn Chicken,1.7,Monday,5,2025
+2025-05-20,Popcorn Chicken,1.8,Tuesday,5,2025
+2025-05-21,Popcorn Chicken,2.5,Wednesday,5,2025
+2025-05-22,Popcorn Chicken,6.0,Thursday,5,2025
+2025-05-23,Popcorn Chicken,2.5,Friday,5,2025
+2025-05-24,Popcorn Chicken,2.0,Saturday,5,2025
+2025-05-25,Popcorn Chicken,6.0,Sunday,5,2025
+2025-05-26,Popcorn Chicken,2.1,Monday,5,2025
+2025-05-27,Popcorn Chicken,3.4,Tuesday,5,2025
+2025-05-28,Popcorn Chicken,2.6,Wednesday,5,2025
+2025-05-29,Popcorn Chicken,9.8,Thursday,5,2025
+2025-05-30,Popcorn Chicken,3.7,Friday,5,2025
+2025-05-31,Popcorn Chicken,1.8,Saturday,5,2025
+2025-06-01,Popcorn Chicken,2.7,Sunday,6,2025
+2025-06-02,Popcorn Chicken,3.44,Monday,6,2025
+2025-06-03,Popcorn Chicken,3.0,Tuesday,6,2025
+2025-06-04,Popcorn Chicken,2.0,Wednesday,6,2025
+2025-06-05,Popcorn Chicken,2.9,Thursday,6,2025
+2025-06-06,Popcorn Chicken,2.6,Friday,6,2025
+2025-06-07,Popcorn Chicken,0.9,Saturday,6,2025
+2025-06-08,Popcorn Chicken,2.9,Sunday,6,2025
+2025-06-09,Popcorn Chicken,1.3,Monday,6,2025
+2025-06-10,Popcorn Chicken,1.7,Tuesday,6,2025
+2025-06-11,Popcorn Chicken,2.4,Wednesday,6,2025
+2025-06-12,Popcorn Chicken,3.37,Thursday,6,2025
+2025-06-13,Popcorn Chicken,2.5,Friday,6,2025
+2025-06-14,Popcorn Chicken,1.3,Saturday,6,2025
+2025-06-15,Popcorn Chicken,2.23,Sunday,6,2025
+2025-06-16,Popcorn Chicken,1.2,Monday,6,2025
+2025-06-17,Popcorn Chicken,3.3,Tuesday,6,2025
+2025-06-18,Popcorn Chicken,3.3,Wednesday,6,2025
+2025-06-19,Popcorn Chicken,4.2,Thursday,6,2025
+2025-06-20,Popcorn Chicken,3.7,Friday,6,2025
+2025-06-21,Popcorn Chicken,1.3,Saturday,6,2025
+2025-06-22,Popcorn Chicken,3.4,Sunday,6,2025
+2025-06-23,Popcorn Chicken,3.22,Monday,6,2025
+2025-06-24,Popcorn Chicken,2.2,Tuesday,6,2025
+2025-06-25,Popcorn Chicken,2.4,Wednesday,6,2025
+2025-06-26,Popcorn Chicken,3.9,Thursday,6,2025
+2025-06-27,Popcorn Chicken,3.2,Friday,6,2025
+2025-06-28,Popcorn Chicken,1.7,Saturday,6,2025
+2025-06-29,Popcorn Chicken,4.5,Sunday,6,2025
+2025-06-30,Popcorn Chicken,2.6,Monday,6,2025
+2025-07-01,Popcorn Chicken,3.0,Tuesday,7,2025
+2025-07-02,Popcorn Chicken,3.8,Wednesday,7,2025
+2025-07-03,Popcorn Chicken,4.4,Thursday,7,2025
+2025-07-04,Popcorn Chicken,3.59,Friday,7,2025
+2025-07-05,Popcorn Chicken,2.4,Saturday,7,2025
+2025-07-06,Popcorn Chicken,2.2,Sunday,7,2025
+2025-07-07,Popcorn Chicken,2.4,Monday,7,2025
+2025-07-08,Popcorn Chicken,2.2,Tuesday,7,2025
+2025-07-09,Popcorn Chicken,2.7,Wednesday,7,2025
+2025-07-10,Popcorn Chicken,4.14,Thursday,7,2025
+2025-07-11,Popcorn Chicken,3.6,Friday,7,2025
+2025-07-12,Popcorn Chicken,2.9,Saturday,7,2025
+2025-07-13,Popcorn Chicken,2.6,Sunday,7,2025
+2025-07-14,Popcorn Chicken,3.1,Monday,7,2025
+2025-07-15,Popcorn Chicken,6.9,Tuesday,7,2025
+2025-07-16,Popcorn Chicken,2.5,Wednesday,7,2025
+2025-07-17,Popcorn Chicken,5.16,Thursday,7,2025
+2025-07-18,Popcorn Chicken,3.7,Friday,7,2025
+2025-07-19,Popcorn Chicken,2.8,Saturday,7,2025
+2025-07-20,Popcorn Chicken,1.7,Sunday,7,2025
+2025-07-21,Popcorn Chicken,4.2,Monday,7,2025
+2025-07-22,Popcorn Chicken,5.2,Tuesday,7,2025
+2025-07-23,Popcorn Chicken,1.5,Wednesday,7,2025
+2025-07-24,Popcorn Chicken,6.7,Thursday,7,2025
+2025-07-25,Popcorn Chicken,3.1,Friday,7,2025
+2025-07-26,Popcorn Chicken,1.7,Saturday,7,2025
+2025-07-27,Popcorn Chicken,2.6,Sunday,7,2025
+2025-07-28,Popcorn Chicken,1.7,Monday,7,2025
+2025-07-29,Popcorn Chicken,2.7,Tuesday,7,2025
+2025-07-30,Popcorn Chicken,2.5,Wednesday,7,2025
+2025-07-31,Popcorn Chicken,5.2,Thursday,7,2025
+2025-08-01,Popcorn Chicken,4.7,Friday,8,2025
+2025-08-02,Popcorn Chicken,3.1,Saturday,8,2025
+2025-08-03,Popcorn Chicken,5.0,Sunday,8,2025
+2025-08-04,Popcorn Chicken,3.1,Monday,8,2025
+2025-08-05,Popcorn Chicken,3.0,Tuesday,8,2025
+2025-08-06,Popcorn Chicken,4.5,Wednesday,8,2025
+2025-08-07,Popcorn Chicken,7.0,Thursday,8,2025
+2025-08-08,Popcorn Chicken,4.2,Friday,8,2025
+2025-08-09,Popcorn Chicken,2.2,Saturday,8,2025
+2025-08-10,Popcorn Chicken,3.2,Sunday,8,2025
+2025-08-11,Popcorn Chicken,2.7,Monday,8,2025
+2025-08-12,Popcorn Chicken,2.8,Tuesday,8,2025
+2025-08-13,Popcorn Chicken,3.0,Wednesday,8,2025
+2025-08-14,Popcorn Chicken,5.79,Thursday,8,2025
+2025-08-15,Popcorn Chicken,4.7,Friday,8,2025
+2025-08-16,Popcorn Chicken,2.0,Saturday,8,2025
+2025-08-17,Popcorn Chicken,4.6,Sunday,8,2025
+2025-08-18,Popcorn Chicken,3.52,Monday,8,2025
+2025-08-19,Popcorn Chicken,3.89,Tuesday,8,2025
+2025-08-20,Popcorn Chicken,4.5,Wednesday,8,2025
+2025-08-21,Popcorn Chicken,5.3,Thursday,8,2025
+2025-08-22,Popcorn Chicken,3.8,Friday,8,2025
+2025-08-23,Popcorn Chicken,1.4,Saturday,8,2025
+2025-08-24,Popcorn Chicken,4.4,Sunday,8,2025
+2025-08-25,Popcorn Chicken,3.2,Monday,8,2025
+2025-08-26,Popcorn Chicken,2.6,Tuesday,8,2025
+2025-08-27,Popcorn Chicken,3.1,Wednesday,8,2025
+2025-08-28,Popcorn Chicken,5.0,Thursday,8,2025
+2025-08-29,Popcorn Chicken,4.0,Friday,8,2025
+2025-08-30,Popcorn Chicken,1.8,Saturday,8,2025
+2025-08-31,Popcorn Chicken,4.4,Sunday,8,2025
+2025-09-01,Popcorn Chicken,2.3,Monday,9,2025
+2025-09-02,Popcorn Chicken,4.4,Tuesday,9,2025
+2025-09-03,Popcorn Chicken,4.9,Wednesday,9,2025
+2025-09-04,Popcorn Chicken,4.0,Thursday,9,2025
+2025-09-05,Popcorn Chicken,3.12,Friday,9,2025
+2025-09-06,Popcorn Chicken,0.74,Saturday,9,2025
+2025-09-07,Popcorn Chicken,2.77,Sunday,9,2025
+2025-09-08,Popcorn Chicken,1.5,Monday,9,2025
+2025-09-09,Popcorn Chicken,4.5,Tuesday,9,2025
+2025-09-10,Popcorn Chicken,4.0,Wednesday,9,2025
+2025-09-11,Popcorn Chicken,4.0,Thursday,9,2025
+2025-09-12,Popcorn Chicken,6.7,Friday,9,2025
+2025-09-13,Popcorn Chicken,1.9,Saturday,9,2025
+2025-09-14,Popcorn Chicken,3.8,Sunday,9,2025
+2025-09-15,Popcorn Chicken,3.6,Monday,9,2025
+2025-09-16,Popcorn Chicken,1.7,Tuesday,9,2025
+2025-09-17,Popcorn Chicken,3.8,Wednesday,9,2025
+2025-09-18,Popcorn Chicken,11.8,Thursday,9,2025
+2025-09-19,Popcorn Chicken,3.1,Friday,9,2025
+2025-09-20,Popcorn Chicken,1.8,Saturday,9,2025
+2025-09-21,Popcorn Chicken,2.1,Sunday,9,2025
+2025-09-22,Popcorn Chicken,3.0,Monday,9,2025
+2025-09-23,Popcorn Chicken,4.3,Tuesday,9,2025
+2025-09-24,Popcorn Chicken,4.2,Wednesday,9,2025
+2025-09-25,Popcorn Chicken,5.8,Thursday,9,2025
+2025-09-26,Popcorn Chicken,4.6,Friday,9,2025
+2025-09-27,Popcorn Chicken,2.2,Saturday,9,2025
+2025-09-28,Popcorn Chicken,2.94,Sunday,9,2025
+2025-09-29,Popcorn Chicken,5.4,Monday,9,2025
+2025-09-30,Popcorn Chicken,3.0,Tuesday,9,2025
+2025-10-01,Popcorn Chicken,1.4,Wednesday,10,2025
+2025-10-02,Popcorn Chicken,3.4,Thursday,10,2025
+2025-10-03,Popcorn Chicken,2.6,Friday,10,2025
+2025-10-04,Popcorn Chicken,1.5,Saturday,10,2025
+2025-10-05,Popcorn Chicken,2.8,Sunday,10,2025
+2025-10-06,Popcorn Chicken,2.2,Monday,10,2025
+2025-10-07,Popcorn Chicken,2.5,Tuesday,10,2025
+2025-10-08,Popcorn Chicken,2.5,Wednesday,10,2025
+2025-10-09,Popcorn Chicken,5.71,Thursday,10,2025
+2025-10-10,Popcorn Chicken,3.79,Friday,10,2025
+2025-10-11,Popcorn Chicken,2.1,Saturday,10,2025
+2025-10-12,Popcorn Chicken,2.3,Sunday,10,2025
+2025-10-13,Popcorn Chicken,3.05,Monday,10,2025
+2025-10-14,Popcorn Chicken,3.45,Tuesday,10,2025
+2025-10-15,Popcorn Chicken,3.3,Wednesday,10,2025
+2025-10-16,Popcorn Chicken,7.6,Thursday,10,2025
+2025-10-17,Popcorn Chicken,3.6,Friday,10,2025
+2025-10-18,Popcorn Chicken,1.9,Saturday,10,2025
+2025-10-19,Popcorn Chicken,3.0,Sunday,10,2025
+2025-10-20,Popcorn Chicken,2.05,Monday,10,2025
+2025-10-21,Popcorn Chicken,1.85,Tuesday,10,2025
+2025-10-22,Popcorn Chicken,2.8,Wednesday,10,2025
+2025-10-23,Popcorn Chicken,5.7,Thursday,10,2025
+2025-10-24,Popcorn Chicken,3.5,Friday,10,2025
+2025-10-25,Popcorn Chicken,2.0,Saturday,10,2025
+2025-10-26,Popcorn Chicken,2.0,Sunday,10,2025
+2025-10-27,Popcorn Chicken,4.7,Monday,10,2025
+2025-10-28,Popcorn Chicken,3.9,Tuesday,10,2025
+2025-10-29,Popcorn Chicken,3.8,Wednesday,10,2025
+2025-10-30,Popcorn Chicken,6.3,Thursday,10,2025
+2025-10-31,Popcorn Chicken,3.55,Friday,10,2025
+2025-11-01,Popcorn Chicken,1.0,Saturday,11,2025
+2025-11-02,Popcorn Chicken,1.6,Sunday,11,2025
+2025-11-03,Popcorn Chicken,5.6,Monday,11,2025
+2025-11-04,Popcorn Chicken,2.2,Tuesday,11,2025
+2025-11-05,Popcorn Chicken,2.1,Wednesday,11,2025
+2025-11-06,Popcorn Chicken,4.6,Thursday,11,2025
+2025-11-07,Popcorn Chicken,3.72,Friday,11,2025
+2025-11-08,Popcorn Chicken,3.0,Saturday,11,2025
+2025-11-09,Popcorn Chicken,3.9,Sunday,11,2025
+2025-11-10,Popcorn Chicken,4.88,Monday,11,2025
+2025-11-11,Popcorn Chicken,2.4,Tuesday,11,2025
+2025-11-12,Popcorn Chicken,4.8,Wednesday,11,2025
+2025-11-13,Popcorn Chicken,3.8,Thursday,11,2025
+2025-11-14,Popcorn Chicken,3.39,Friday,11,2025
+2025-11-15,Popcorn Chicken,1.59,Saturday,11,2025
+2025-11-16,Popcorn Chicken,3.87,Sunday,11,2025
+2025-11-17,Popcorn Chicken,3.61,Monday,11,2025
+2025-11-18,Popcorn Chicken,2.67,Tuesday,11,2025
+2025-11-19,Popcorn Chicken,2.36,Wednesday,11,2025
+2025-11-20,Popcorn Chicken,6.46,Thursday,11,2025
+2025-11-21,Popcorn Chicken,2.68,Friday,11,2025
+2025-11-22,Popcorn Chicken,2.83,Saturday,11,2025
+2025-11-23,Popcorn Chicken,8.3,Sunday,11,2025
+2025-11-24,Popcorn Chicken,1.7,Monday,11,2025
+2025-11-25,Popcorn Chicken,2.35,Tuesday,11,2025
+2025-11-26,Popcorn Chicken,2.61,Wednesday,11,2025
+2025-11-27,Popcorn Chicken,4.9,Thursday,11,2025
+2025-11-28,Popcorn Chicken,1.5,Friday,11,2025
+2025-11-29,Popcorn Chicken,4.23,Saturday,11,2025
+2025-11-30,Popcorn Chicken,2.4,Sunday,11,2025
+2025-12-01,Popcorn Chicken,3.3,Monday,12,2025
+2025-12-02,Popcorn Chicken,3.2,Tuesday,12,2025
+2025-12-03,Popcorn Chicken,2.5,Wednesday,12,2025
+2025-12-04,Popcorn Chicken,5.7,Thursday,12,2025
+2025-12-05,Popcorn Chicken,3.2,Friday,12,2025
+2025-12-06,Popcorn Chicken,2.0,Saturday,12,2025
+2025-12-07,Popcorn Chicken,1.9,Sunday,12,2025
+2025-12-08,Popcorn Chicken,11.8,Monday,12,2025
+2025-12-09,Popcorn Chicken,3.8,Tuesday,12,2025
+2025-12-10,Popcorn Chicken,2.0,Wednesday,12,2025
+2025-12-11,Popcorn Chicken,3.45,Thursday,12,2025
+2025-12-12,Popcorn Chicken,4.4,Friday,12,2025
+2025-12-13,Popcorn Chicken,0.8,Saturday,12,2025
+2025-12-14,Popcorn Chicken,1.8,Sunday,12,2025
+2025-12-15,Popcorn Chicken,3.0,Monday,12,2025
+2025-12-16,Popcorn Chicken,3.68,Tuesday,12,2025
+2025-12-17,Popcorn Chicken,2.61,Wednesday,12,2025
+2025-12-18,Popcorn Chicken,4.9,Thursday,12,2025
+2025-12-19,Popcorn Chicken,1.5,Friday,12,2025
+2025-12-20,Popcorn Chicken,4.23,Saturday,12,2025
+2025-12-21,Popcorn Chicken,2.77,Sunday,12,2025
+2025-12-22,Popcorn Chicken,3.0,Monday,12,2025
+2025-12-23,Popcorn Chicken,3.1,Tuesday,12,2025
+2025-12-24,Popcorn Chicken,3.64,Wednesday,12,2025
+2025-12-25,Popcorn Chicken,3.6,Thursday,12,2025
+2025-12-26,Popcorn Chicken,3.2,Friday,12,2025
+2025-12-27,Popcorn Chicken,0.7,Saturday,12,2025
+2025-12-28,Popcorn Chicken,4.4,Sunday,12,2025
+2025-12-29,Popcorn Chicken,3.9,Monday,12,2025
+2025-12-30,Popcorn Chicken,6.5,Tuesday,12,2025
+2025-12-31,Popcorn Chicken,4.7,Wednesday,12,2025
+2026-01-01,Popcorn Chicken,4.8,Thursday,1,2026
+2026-01-02,Popcorn Chicken,2.2,Friday,1,2026
+2026-01-03,Popcorn Chicken,1.97,Saturday,1,2026
+2026-01-04,Popcorn Chicken,0.87,Sunday,1,2026
+2026-01-05,Popcorn Chicken,4.5,Monday,1,2026
+2026-01-06,Popcorn Chicken,2.8,Tuesday,1,2026
+2026-01-07,Popcorn Chicken,4.95,Wednesday,1,2026
+2026-01-08,Popcorn Chicken,3.7,Thursday,1,2026
+2026-01-09,Popcorn Chicken,3.4,Friday,1,2026
+2026-01-10,Popcorn Chicken,2.9,Saturday,1,2026
+2026-01-11,Popcorn Chicken,3.2,Sunday,1,2026
+2026-01-12,Popcorn Chicken,2.98,Monday,1,2026
+2026-01-13,Popcorn Chicken,4.1,Tuesday,1,2026
+2026-01-14,Popcorn Chicken,4.6,Wednesday,1,2026
+2026-01-15,Popcorn Chicken,3.93,Thursday,1,2026
+2026-01-16,Popcorn Chicken,3.4,Friday,1,2026
+2026-01-17,Popcorn Chicken,1.3,Saturday,1,2026
+2026-01-18,Popcorn Chicken,5.2,Sunday,1,2026
+2026-01-19,Popcorn Chicken,1.8,Monday,1,2026
+2026-01-20,Popcorn Chicken,1.8,Tuesday,1,2026
+2026-01-21,Popcorn Chicken,3.0,Wednesday,1,2026
+2026-01-22,Popcorn Chicken,3.3,Thursday,1,2026
+2026-01-23,Popcorn Chicken,3.7,Friday,1,2026
+2026-01-24,Popcorn Chicken,1.2,Saturday,1,2026
+2026-01-25,Popcorn Chicken,2.4,Sunday,1,2026
+2026-01-26,Popcorn Chicken,4.54,Monday,1,2026
+2026-01-27,Popcorn Chicken,3.74,Tuesday,1,2026
+2026-01-28,Popcorn Chicken,2.5,Wednesday,1,2026
+2026-01-29,Popcorn Chicken,3.1,Thursday,1,2026
+2026-01-30,Popcorn Chicken,4.2,Friday,1,2026
+2026-01-31,Popcorn Chicken,2.6,Saturday,1,2026
+2026-02-01,Popcorn Chicken,0.7,Sunday,2,2026
+2026-02-02,Popcorn Chicken,2.3,Monday,2,2026
+2026-02-03,Popcorn Chicken,3.4,Tuesday,2,2026
+2026-02-04,Popcorn Chicken,3.6,Wednesday,2,2026
+2026-02-05,Popcorn Chicken,3.48,Thursday,2,2026
+2026-02-06,Popcorn Chicken,2.6,Friday,2,2026
+2026-02-07,Popcorn Chicken,3.92,Saturday,2,2026
+2026-02-08,Popcorn Chicken,4.5,Sunday,2,2026
+2026-02-09,Popcorn Chicken,0.9,Monday,2,2026
+2026-02-10,Popcorn Chicken,2.6,Tuesday,2,2026
+2026-02-11,Popcorn Chicken,1.06,Wednesday,2,2026
+2026-02-12,Popcorn Chicken,1.82,Thursday,2,2026
+2026-02-13,Popcorn Chicken,3.6,Friday,2,2026
+2026-02-14,Popcorn Chicken,3.92,Saturday,2,2026
+2026-02-15,Popcorn Chicken,2.2,Sunday,2,2026
+2026-02-16,Popcorn Chicken,4.8,Monday,2,2026
+2026-02-17,Popcorn Chicken,3.96,Tuesday,2,2026
+2026-02-18,Popcorn Chicken,3.74,Wednesday,2,2026
+2026-02-19,Popcorn Chicken,1.5,Thursday,2,2026
+2026-02-20,Popcorn Chicken,1.14,Friday,2,2026
+2026-02-21,Popcorn Chicken,1.28,Saturday,2,2026
+2026-02-22,Popcorn Chicken,0.86,Sunday,2,2026
+2026-02-23,Popcorn Chicken,1.5,Monday,2,2026
+2026-02-24,Popcorn Chicken,2.88,Tuesday,2,2026
+2026-02-25,Popcorn Chicken,0.82,Wednesday,2,2026
+2026-02-26,Popcorn Chicken,2.26,Thursday,2,2026
+2026-02-27,Popcorn Chicken,2.24,Friday,2,2026
+2026-02-28,Popcorn Chicken,1.4,Saturday,2,2026
+2026-03-01,Popcorn Chicken,1.15,Sunday,3,2026
+2026-03-02,Popcorn Chicken,1.97,Monday,3,2026
+2026-03-03,Popcorn Chicken,1.88,Tuesday,3,2026
+2026-03-04,Popcorn Chicken,1.43,Wednesday,3,2026
+2026-03-05,Popcorn Chicken,2.95,Thursday,3,2026
+2026-03-06,Popcorn Chicken,2.62,Friday,3,2026
+2026-03-07,Popcorn Chicken,1.2,Saturday,3,2026
+2026-03-08,Popcorn Chicken,1.88,Sunday,3,2026
+2026-03-09,Popcorn Chicken,2.62,Monday,3,2026
+2026-03-10,Popcorn Chicken,2.0,Tuesday,3,2026
+2026-03-11,Popcorn Chicken,1.5,Wednesday,3,2026
+2026-03-12,Popcorn Chicken,3.0,Thursday,3,2026
+2026-03-13,Popcorn Chicken,2.44,Friday,3,2026
+2026-03-14,Popcorn Chicken,1.66,Saturday,3,2026
+2026-03-15,Popcorn Chicken,3.1,Sunday,3,2026
+2026-03-16,Popcorn Chicken,1.9,Monday,3,2026
+2026-03-17,Popcorn Chicken,1.7,Tuesday,3,2026
+2026-03-18,Popcorn Chicken,1.9,Wednesday,3,2026
+2026-03-19,Popcorn Chicken,1.96,Thursday,3,2026
+2026-03-20,Popcorn Chicken,3.04,Friday,3,2026
+2026-03-21,Popcorn Chicken,1.59,Saturday,3,2026
+2026-03-22,Popcorn Chicken,3.21,Sunday,3,2026
+2026-03-23,Popcorn Chicken,5.06,Monday,3,2026
+2026-03-24,Popcorn Chicken,4.07,Tuesday,3,2026
+2026-03-25,Popcorn Chicken,4.37,Wednesday,3,2026
+2026-03-26,Popcorn Chicken,3.24,Thursday,3,2026
+2026-03-27,Popcorn Chicken,3.06,Friday,3,2026
+2026-03-28,Popcorn Chicken,1.9,Saturday,3,2026
+2026-03-29,Popcorn Chicken,1.6,Sunday,3,2026
+2026-03-30,Popcorn Chicken,3.2,Monday,3,2026
+2026-03-31,Popcorn Chicken,3.6,Tuesday,3,2026
+2026-04-01,Popcorn Chicken,1.72,Wednesday,4,2026
+2026-04-02,Popcorn Chicken,7.56,Thursday,4,2026
+2026-04-03,Popcorn Chicken,2.32,Friday,4,2026
+2026-04-04,Popcorn Chicken,1.03,Saturday,4,2026
+2026-04-05,Popcorn Chicken,2.13,Sunday,4,2026
+2026-04-06,Popcorn Chicken,2.94,Monday,4,2026
+2026-04-07,Popcorn Chicken,2.26,Tuesday,4,2026
+2026-04-08,Popcorn Chicken,2.94,Wednesday,4,2026
+2026-04-09,Popcorn Chicken,5.3,Thursday,4,2026
+2026-04-10,Popcorn Chicken,5.8,Friday,4,2026
+2026-04-11,Popcorn Chicken,1.7,Saturday,4,2026
+2026-04-12,Popcorn Chicken,4.1,Sunday,4,2026
+2026-04-13,Popcorn Chicken,3.65,Monday,4,2026
+2026-04-14,Popcorn Chicken,3.75,Tuesday,4,2026
+2026-04-15,Popcorn Chicken,3.0,Wednesday,4,2026
+2026-04-16,Popcorn Chicken,3.8,Thursday,4,2026
+2026-04-17,Popcorn Chicken,4.0,Friday,4,2026
+2026-04-18,Popcorn Chicken,0.8,Saturday,4,2026
+2026-04-19,Popcorn Chicken,4.6,Sunday,4,2026
+2026-04-20,Popcorn Chicken,1.6,Monday,4,2026
+2026-04-21,Popcorn Chicken,5.6,Tuesday,4,2026
+2026-04-22,Popcorn Chicken,3.6,Wednesday,4,2026
+2026-04-23,Popcorn Chicken,6.0,Thursday,4,2026
+2026-04-24,Popcorn Chicken,3.8,Friday,4,2026
+2026-04-25,Popcorn Chicken,3.04,Saturday,4,2026
+2026-04-26,Popcorn Chicken,4.96,Sunday,4,2026
+2026-04-27,Popcorn Chicken,6.7,Monday,4,2026
+2026-04-28,Popcorn Chicken,3.42,Tuesday,4,2026
+2026-04-29,Popcorn Chicken,3.88,Wednesday,4,2026
+2026-04-30,Popcorn Chicken,5.2,Thursday,4,2026
+2026-05-01,Popcorn Chicken,5.17,Friday,5,2026
+2026-05-02,Popcorn Chicken,2.07,Saturday,5,2026
+2026-05-03,Popcorn Chicken,2.59,Sunday,5,2026
+2026-05-04,Popcorn Chicken,3.91,Monday,5,2026
+2026-05-05,Popcorn Chicken,6.71,Tuesday,5,2026
+2026-05-06,Popcorn Chicken,3.27,Wednesday,5,2026
+2026-05-07,Popcorn Chicken,5.06,Thursday,5,2026
+2026-05-08,Popcorn Chicken,4.17,Friday,5,2026
+2026-05-09,Popcorn Chicken,2.45,Saturday,5,2026
+2026-05-10,Popcorn Chicken,3.18,Sunday,5,2026
+2026-05-11,Popcorn Chicken,6.36,Monday,5,2026
+2026-05-12,Popcorn Chicken,2.88,Tuesday,5,2026
+2026-05-13,Popcorn Chicken,2.67,Wednesday,5,2026
+2025-01-01,Wings,597.0,Wednesday,1,2025
+2025-01-02,Wings,728.0,Thursday,1,2025
+2025-01-03,Wings,460.0,Friday,1,2025
+2025-01-04,Wings,298.0,Saturday,1,2025
+2025-01-05,Wings,612.0,Sunday,1,2025
+2025-01-06,Wings,425.0,Monday,1,2025
+2025-01-07,Wings,3255.0,Tuesday,1,2025
+2025-01-08,Wings,597.0,Wednesday,1,2025
+2025-01-09,Wings,728.0,Thursday,1,2025
+2025-01-10,Wings,460.0,Friday,1,2025
+2025-01-11,Wings,298.0,Saturday,1,2025
+2025-01-12,Wings,612.0,Sunday,1,2025
+2025-01-13,Wings,425.0,Monday,1,2025
+2025-01-14,Wings,3255.0,Tuesday,1,2025
+2025-01-15,Wings,597.0,Wednesday,1,2025
+2025-01-16,Wings,728.0,Thursday,1,2025
+2025-01-17,Wings,460.0,Friday,1,2025
+2025-01-18,Wings,298.0,Saturday,1,2025
+2025-01-19,Wings,612.0,Sunday,1,2025
+2025-01-20,Wings,425.0,Monday,1,2025
+2025-01-21,Wings,3255.0,Tuesday,1,2025
+2025-01-22,Wings,597.0,Wednesday,1,2025
+2025-01-23,Wings,728.0,Thursday,1,2025
+2025-01-24,Wings,460.0,Friday,1,2025
+2025-01-25,Wings,298.0,Saturday,1,2025
+2025-01-26,Wings,612.0,Sunday,1,2025
+2025-01-27,Wings,425.0,Monday,1,2025
+2025-01-28,Wings,3255.0,Tuesday,1,2025
+2025-01-29,Wings,597.0,Wednesday,1,2025
+2025-01-30,Wings,728.0,Thursday,1,2025
+2025-01-31,Wings,460.0,Friday,1,2025
+2025-02-01,Wings,298.0,Saturday,2,2025
+2025-02-02,Wings,612.0,Sunday,2,2025
+2025-02-03,Wings,425.0,Monday,2,2025
+2025-02-04,Wings,3255.0,Tuesday,2,2025
+2025-02-05,Wings,597.0,Wednesday,2,2025
+2025-02-06,Wings,728.0,Thursday,2,2025
+2025-02-07,Wings,460.0,Friday,2,2025
+2025-02-08,Wings,298.0,Saturday,2,2025
+2025-02-09,Wings,612.0,Sunday,2,2025
+2025-02-10,Wings,425.0,Monday,2,2025
+2025-02-11,Wings,3255.0,Tuesday,2,2025
+2025-02-12,Wings,597.0,Wednesday,2,2025
+2025-02-13,Wings,728.0,Thursday,2,2025
+2025-02-14,Wings,460.0,Friday,2,2025
+2025-02-15,Wings,298.0,Saturday,2,2025
+2025-02-16,Wings,612.0,Sunday,2,2025
+2025-02-17,Wings,425.0,Monday,2,2025
+2025-02-18,Wings,3255.0,Tuesday,2,2025
+2025-02-19,Wings,597.0,Wednesday,2,2025
+2025-02-20,Wings,728.0,Thursday,2,2025
+2025-02-21,Wings,460.0,Friday,2,2025
+2025-02-22,Wings,298.0,Saturday,2,2025
+2025-02-23,Wings,612.0,Sunday,2,2025
+2025-02-24,Wings,425.0,Monday,2,2025
+2025-02-25,Wings,3255.0,Tuesday,2,2025
+2025-02-26,Wings,597.0,Wednesday,2,2025
+2025-02-27,Wings,728.0,Thursday,2,2025
+2025-02-28,Wings,460.0,Friday,2,2025
+2025-03-01,Wings,298.0,Saturday,3,2025
+2025-03-02,Wings,612.0,Sunday,3,2025
+2025-03-03,Wings,425.0,Monday,3,2025
+2025-03-04,Wings,3255.0,Tuesday,3,2025
+2025-03-05,Wings,597.0,Wednesday,3,2025
+2025-03-06,Wings,728.0,Thursday,3,2025
+2025-03-07,Wings,460.0,Friday,3,2025
+2025-03-08,Wings,298.0,Saturday,3,2025
+2025-03-09,Wings,612.0,Sunday,3,2025
+2025-03-10,Wings,425.0,Monday,3,2025
+2025-03-11,Wings,3255.0,Tuesday,3,2025
+2025-03-12,Wings,597.0,Wednesday,3,2025
+2025-03-13,Wings,728.0,Thursday,3,2025
+2025-03-14,Wings,460.0,Friday,3,2025
+2025-03-15,Wings,298.0,Saturday,3,2025
+2025-03-16,Wings,612.0,Sunday,3,2025
+2025-03-17,Wings,425.0,Monday,3,2025
+2025-03-18,Wings,3255.0,Tuesday,3,2025
+2025-03-19,Wings,597.0,Wednesday,3,2025
+2025-03-20,Wings,728.0,Thursday,3,2025
+2025-03-21,Wings,460.0,Friday,3,2025
+2025-03-22,Wings,298.0,Saturday,3,2025
+2025-03-23,Wings,612.0,Sunday,3,2025
+2025-03-24,Wings,425.0,Monday,3,2025
+2025-03-25,Wings,3255.0,Tuesday,3,2025
+2025-03-26,Wings,597.0,Wednesday,3,2025
+2025-03-27,Wings,728.0,Thursday,3,2025
+2025-03-28,Wings,460.0,Friday,3,2025
+2025-03-29,Wings,298.0,Saturday,3,2025
+2025-03-30,Wings,612.0,Sunday,3,2025
+2025-03-31,Wings,425.0,Monday,3,2025
+2025-04-01,Wings,3255.0,Tuesday,4,2025
+2025-04-02,Wings,597.0,Wednesday,4,2025
+2025-04-03,Wings,728.0,Thursday,4,2025
+2025-04-04,Wings,460.0,Friday,4,2025
+2025-04-05,Wings,298.0,Saturday,4,2025
+2025-04-06,Wings,612.0,Sunday,4,2025
+2025-04-07,Wings,425.0,Monday,4,2025
+2025-04-08,Wings,3255.0,Tuesday,4,2025
+2025-04-09,Wings,597.0,Wednesday,4,2025
+2025-04-10,Wings,728.0,Thursday,4,2025
+2025-04-11,Wings,460.0,Friday,4,2025
+2025-04-12,Wings,298.0,Saturday,4,2025
+2025-04-13,Wings,612.0,Sunday,4,2025
+2025-04-14,Wings,322.0,Monday,4,2025
+2025-04-15,Wings,1601.0,Tuesday,4,2025
+2025-04-16,Wings,389.0,Wednesday,4,2025
+2025-04-17,Wings,635.0,Thursday,4,2025
+2025-04-18,Wings,305.0,Friday,4,2025
+2025-04-19,Wings,172.0,Saturday,4,2025
+2025-04-20,Wings,858.0,Sunday,4,2025
+2025-04-21,Wings,433.0,Monday,4,2025
+2025-04-22,Wings,2234.0,Tuesday,4,2025
+2025-04-23,Wings,524.0,Wednesday,4,2025
+2025-04-24,Wings,620.0,Thursday,4,2025
+2025-04-25,Wings,420.0,Friday,4,2025
+2025-04-26,Wings,213.0,Saturday,4,2025
+2025-04-27,Wings,277.0,Sunday,4,2025
+2025-04-28,Wings,400.0,Monday,4,2025
+2025-04-29,Wings,2646.0,Tuesday,4,2025
+2025-04-30,Wings,534.0,Wednesday,4,2025
+2025-05-01,Wings,594.0,Thursday,5,2025
+2025-05-02,Wings,326.0,Friday,5,2025
+2025-05-03,Wings,213.0,Saturday,5,2025
+2025-05-04,Wings,321.0,Sunday,5,2025
+2025-05-05,Wings,427.0,Monday,5,2025
+2025-05-06,Wings,2253.0,Tuesday,5,2025
+2025-05-07,Wings,656.0,Wednesday,5,2025
+2025-05-08,Wings,840.0,Thursday,5,2025
+2025-05-09,Wings,840.0,Friday,5,2025
+2025-05-10,Wings,326.0,Saturday,5,2025
+2025-05-11,Wings,314.0,Sunday,5,2025
+2025-05-12,Wings,403.0,Monday,5,2025
+2025-05-13,Wings,2330.0,Tuesday,5,2025
+2025-05-14,Wings,969.0,Wednesday,5,2025
+2025-05-15,Wings,708.0,Thursday,5,2025
+2025-05-16,Wings,394.0,Friday,5,2025
+2025-05-17,Wings,329.0,Saturday,5,2025
+2025-05-18,Wings,398.0,Sunday,5,2025
+2025-05-19,Wings,674.0,Monday,5,2025
+2025-05-20,Wings,2461.0,Tuesday,5,2025
+2025-05-21,Wings,492.0,Wednesday,5,2025
+2025-05-22,Wings,960.0,Thursday,5,2025
+2025-05-23,Wings,374.0,Friday,5,2025
+2025-05-24,Wings,525.0,Saturday,5,2025
+2025-05-25,Wings,855.0,Sunday,5,2025
+2025-05-26,Wings,623.0,Monday,5,2025
+2025-05-27,Wings,2781.0,Tuesday,5,2025
+2025-05-28,Wings,679.0,Wednesday,5,2025
+2025-05-29,Wings,953.0,Thursday,5,2025
+2025-05-30,Wings,642.0,Friday,5,2025
+2025-05-31,Wings,252.0,Saturday,5,2025
+2025-06-01,Wings,473.0,Sunday,6,2025
+2025-06-02,Wings,920.0,Monday,6,2025
+2025-06-03,Wings,2544.0,Tuesday,6,2025
+2025-06-04,Wings,923.0,Wednesday,6,2025
+2025-06-05,Wings,311.0,Thursday,6,2025
+2025-06-06,Wings,311.0,Friday,6,2025
+2025-06-07,Wings,109.0,Saturday,6,2025
+2025-06-08,Wings,220.0,Sunday,6,2025
+2025-06-09,Wings,237.0,Monday,6,2025
+2025-06-10,Wings,1125.0,Tuesday,6,2025
+2025-06-11,Wings,259.0,Wednesday,6,2025
+2025-06-12,Wings,497.0,Thursday,6,2025
+2025-06-13,Wings,292.0,Friday,6,2025
+2025-06-14,Wings,254.0,Saturday,6,2025
+2025-06-15,Wings,540.0,Sunday,6,2025
+2025-06-16,Wings,666.0,Monday,6,2025
+2025-06-17,Wings,2254.0,Tuesday,6,2025
+2025-06-18,Wings,892.0,Wednesday,6,2025
+2025-06-19,Wings,1188.0,Thursday,6,2025
+2025-06-20,Wings,507.0,Friday,6,2025
+2025-06-21,Wings,279.0,Saturday,6,2025
+2025-06-22,Wings,585.0,Sunday,6,2025
+2025-06-23,Wings,912.0,Monday,6,2025
+2025-06-24,Wings,2495.0,Tuesday,6,2025
+2025-06-25,Wings,654.0,Wednesday,6,2025
+2025-06-26,Wings,847.0,Thursday,6,2025
+2025-06-27,Wings,420.0,Friday,6,2025
+2025-06-28,Wings,280.0,Saturday,6,2025
+2025-06-29,Wings,657.0,Sunday,6,2025
+2025-06-30,Wings,854.0,Monday,6,2025
+2025-07-01,Wings,2656.0,Tuesday,7,2025
+2025-07-02,Wings,564.0,Wednesday,7,2025
+2025-07-03,Wings,1366.0,Thursday,7,2025
+2025-07-04,Wings,625.0,Friday,7,2025
+2025-07-05,Wings,255.0,Saturday,7,2025
+2025-07-06,Wings,345.0,Sunday,7,2025
+2025-07-07,Wings,681.0,Monday,7,2025
+2025-07-08,Wings,2649.0,Tuesday,7,2025
+2025-07-09,Wings,722.0,Wednesday,7,2025
+2025-07-10,Wings,1041.0,Thursday,7,2025
+2025-07-11,Wings,529.0,Friday,7,2025
+2025-07-12,Wings,369.0,Saturday,7,2025
+2025-07-13,Wings,578.0,Sunday,7,2025
+2025-07-14,Wings,503.0,Monday,7,2025
+2025-07-15,Wings,2648.0,Tuesday,7,2025
+2025-07-16,Wings,747.0,Wednesday,7,2025
+2025-07-17,Wings,1123.0,Thursday,7,2025
+2025-07-18,Wings,551.0,Friday,7,2025
+2025-07-19,Wings,937.0,Saturday,7,2025
+2025-07-20,Wings,527.0,Sunday,7,2025
+2025-07-21,Wings,540.0,Monday,7,2025
+2025-07-22,Wings,2680.0,Tuesday,7,2025
+2025-07-23,Wings,1131.0,Wednesday,7,2025
+2025-07-24,Wings,409.0,Thursday,7,2025
+2025-07-25,Wings,550.0,Friday,7,2025
+2025-07-26,Wings,527.0,Saturday,7,2025
+2025-07-27,Wings,610.0,Sunday,7,2025
+2025-07-28,Wings,715.0,Monday,7,2025
+2025-07-29,Wings,2536.0,Tuesday,7,2025
+2025-07-30,Wings,783.0,Wednesday,7,2025
+2025-07-31,Wings,826.0,Thursday,7,2025
+2025-08-01,Wings,561.0,Friday,8,2025
+2025-08-02,Wings,294.0,Saturday,8,2025
+2025-08-03,Wings,514.0,Sunday,8,2025
+2025-08-04,Wings,559.0,Monday,8,2025
+2025-08-05,Wings,1688.0,Tuesday,8,2025
+2025-08-06,Wings,705.0,Wednesday,8,2025
+2025-08-07,Wings,1194.0,Thursday,8,2025
+2025-08-08,Wings,519.0,Friday,8,2025
+2025-08-09,Wings,322.0,Saturday,8,2025
+2025-08-10,Wings,940.0,Sunday,8,2025
+2025-08-11,Wings,687.0,Monday,8,2025
+2025-08-12,Wings,3189.0,Tuesday,8,2025
+2025-08-13,Wings,1017.0,Wednesday,8,2025
+2025-08-14,Wings,926.0,Thursday,8,2025
+2025-08-15,Wings,559.0,Friday,8,2025
+2025-08-16,Wings,251.0,Saturday,8,2025
+2025-08-17,Wings,546.0,Sunday,8,2025
+2025-08-18,Wings,834.0,Monday,8,2025
+2025-08-19,Wings,3420.0,Tuesday,8,2025
+2025-08-20,Wings,727.0,Wednesday,8,2025
+2025-08-21,Wings,945.0,Thursday,8,2025
+2025-08-22,Wings,530.0,Friday,8,2025
+2025-08-23,Wings,283.0,Saturday,8,2025
+2025-08-24,Wings,496.0,Sunday,8,2025
+2025-08-25,Wings,480.0,Monday,8,2025
+2025-08-26,Wings,3502.0,Tuesday,8,2025
+2025-08-27,Wings,529.0,Wednesday,8,2025
+2025-08-28,Wings,932.0,Thursday,8,2025
+2025-08-29,Wings,522.0,Friday,8,2025
+2025-08-30,Wings,230.0,Saturday,8,2025
+2025-08-31,Wings,890.0,Sunday,8,2025
+2025-09-01,Wings,576.0,Monday,9,2025
+2025-09-02,Wings,3285.0,Tuesday,9,2025
+2025-09-03,Wings,594.0,Wednesday,9,2025
+2025-09-04,Wings,822.0,Thursday,9,2025
+2025-09-05,Wings,676.0,Friday,9,2025
+2025-09-06,Wings,227.0,Saturday,9,2025
+2025-09-07,Wings,612.0,Sunday,9,2025
+2025-09-08,Wings,425.0,Monday,9,2025
+2025-09-09,Wings,3266.0,Tuesday,9,2025
+2025-09-10,Wings,597.0,Wednesday,9,2025
+2025-09-11,Wings,887.0,Thursday,9,2025
+2025-09-12,Wings,570.0,Friday,9,2025
+2025-09-13,Wings,306.0,Saturday,9,2025
+2025-09-14,Wings,558.0,Sunday,9,2025
+2025-09-15,Wings,830.0,Monday,9,2025
+2025-09-16,Wings,3574.0,Tuesday,9,2025
+2025-09-17,Wings,913.0,Wednesday,9,2025
+2025-09-18,Wings,980.0,Thursday,9,2025
+2025-09-19,Wings,604.0,Friday,9,2025
+2025-09-20,Wings,240.0,Saturday,9,2025
+2025-09-21,Wings,455.0,Sunday,9,2025
+2025-09-22,Wings,678.0,Monday,9,2025
+2025-09-23,Wings,3425.0,Tuesday,9,2025
+2025-09-24,Wings,825.0,Wednesday,9,2025
+2025-09-25,Wings,1007.0,Thursday,9,2025
+2025-09-26,Wings,605.0,Friday,9,2025
+2025-09-27,Wings,248.0,Saturday,9,2025
+2025-09-28,Wings,803.0,Sunday,9,2025
+2025-09-29,Wings,731.0,Monday,9,2025
+2025-09-30,Wings,3239.0,Tuesday,9,2025
+2025-10-01,Wings,221.0,Wednesday,10,2025
+2025-10-02,Wings,439.0,Thursday,10,2025
+2025-10-03,Wings,446.0,Friday,10,2025
+2025-10-04,Wings,230.0,Saturday,10,2025
+2025-10-05,Wings,761.0,Sunday,10,2025
+2025-10-06,Wings,574.0,Monday,10,2025
+2025-10-07,Wings,3375.0,Tuesday,10,2025
+2025-10-08,Wings,662.0,Wednesday,10,2025
+2025-10-09,Wings,1026.0,Thursday,10,2025
+2025-10-10,Wings,424.0,Friday,10,2025
+2025-10-11,Wings,232.0,Saturday,10,2025
+2025-10-12,Wings,729.0,Sunday,10,2025
+2025-10-13,Wings,805.0,Monday,10,2025
+2025-10-14,Wings,3410.0,Tuesday,10,2025
+2025-10-15,Wings,952.0,Wednesday,10,2025
+2025-10-16,Wings,668.0,Thursday,10,2025
+2025-10-17,Wings,474.0,Friday,10,2025
+2025-10-18,Wings,200.0,Saturday,10,2025
+2025-10-19,Wings,656.0,Sunday,10,2025
+2025-10-20,Wings,1027.0,Monday,10,2025
+2025-10-21,Wings,2991.0,Tuesday,10,2025
+2025-10-22,Wings,566.0,Wednesday,10,2025
+2025-10-23,Wings,886.0,Thursday,10,2025
+2025-10-24,Wings,463.0,Friday,10,2025
+2025-10-25,Wings,237.0,Saturday,10,2025
+2025-10-26,Wings,708.0,Sunday,10,2025
+2025-10-27,Wings,698.0,Monday,10,2025
+2025-10-28,Wings,3381.0,Tuesday,10,2025
+2025-10-29,Wings,628.0,Wednesday,10,2025
+2025-10-30,Wings,853.0,Thursday,10,2025
+2025-10-31,Wings,425.0,Friday,10,2025
+2025-11-01,Wings,391.0,Saturday,11,2025
+2025-11-02,Wings,533.0,Sunday,11,2025
+2025-11-03,Wings,741.0,Monday,11,2025
+2025-11-04,Wings,3260.0,Tuesday,11,2025
+2025-11-05,Wings,903.0,Wednesday,11,2025
+2025-11-06,Wings,1387.0,Thursday,11,2025
+2025-11-07,Wings,612.0,Friday,11,2025
+2025-11-08,Wings,356.0,Saturday,11,2025
+2025-11-09,Wings,491.0,Sunday,11,2025
+2025-11-10,Wings,590.0,Monday,11,2025
+2025-11-11,Wings,2717.0,Tuesday,11,2025
+2025-11-12,Wings,705.0,Wednesday,11,2025
+2025-11-13,Wings,797.0,Thursday,11,2025
+2025-11-14,Wings,552.0,Friday,11,2025
+2025-11-15,Wings,263.0,Saturday,11,2025
+2025-11-16,Wings,480.0,Sunday,11,2025
+2025-11-17,Wings,663.0,Monday,11,2025
+2025-11-18,Wings,3171.0,Tuesday,11,2025
+2025-11-19,Wings,531.0,Wednesday,11,2025
+2025-11-20,Wings,865.0,Thursday,11,2025
+2025-11-21,Wings,442.0,Friday,11,2025
+2025-11-22,Wings,261.0,Saturday,11,2025
+2025-11-23,Wings,687.0,Sunday,11,2025
+2025-11-24,Wings,738.0,Monday,11,2025
+2025-11-25,Wings,3225.0,Tuesday,11,2025
+2025-11-26,Wings,597.0,Wednesday,11,2025
+2025-11-27,Wings,728.0,Thursday,11,2025
+2025-11-28,Wings,460.0,Friday,11,2025
+2025-11-29,Wings,298.0,Saturday,11,2025
+2025-11-30,Wings,435.0,Sunday,11,2025
+2025-12-01,Wings,705.0,Monday,12,2025
+2025-12-02,Wings,3338.0,Tuesday,12,2025
+2025-12-03,Wings,692.0,Wednesday,12,2025
+2025-12-04,Wings,1120.0,Thursday,12,2025
+2025-12-05,Wings,528.0,Friday,12,2025
+2025-12-06,Wings,376.0,Saturday,12,2025
+2025-12-07,Wings,696.0,Sunday,12,2025
+2025-12-08,Wings,625.0,Monday,12,2025
+2025-12-09,Wings,2675.0,Tuesday,12,2025
+2025-12-10,Wings,1218.0,Wednesday,12,2025
+2025-12-11,Wings,778.0,Thursday,12,2025
+2025-12-12,Wings,528.0,Friday,12,2025
+2025-12-13,Wings,262.0,Saturday,12,2025
+2025-12-14,Wings,542.0,Sunday,12,2025
+2025-12-15,Wings,527.0,Monday,12,2025
+2025-12-16,Wings,1459.0,Tuesday,12,2025
+2025-12-17,Wings,597.0,Wednesday,12,2025
+2025-12-18,Wings,728.0,Thursday,12,2025
+2025-12-19,Wings,460.0,Friday,12,2025
+2025-12-20,Wings,298.0,Saturday,12,2025
+2025-12-21,Wings,612.0,Sunday,12,2025
+2025-12-22,Wings,748.0,Monday,12,2025
+2025-12-23,Wings,3011.0,Tuesday,12,2025
+2025-12-24,Wings,779.0,Wednesday,12,2025
+2025-12-25,Wings,431.0,Thursday,12,2025
+2025-12-26,Wings,397.0,Friday,12,2025
+2025-12-27,Wings,245.0,Saturday,12,2025
+2025-12-28,Wings,916.0,Sunday,12,2025
+2025-12-29,Wings,687.0,Monday,12,2025
+2025-12-30,Wings,3264.0,Tuesday,12,2025
+2025-12-31,Wings,403.0,Wednesday,12,2025
+2026-01-01,Wings,810.0,Thursday,1,2026
+2026-01-02,Wings,424.0,Friday,1,2026
+2026-01-03,Wings,285.0,Saturday,1,2026
+2026-01-04,Wings,667.0,Sunday,1,2026
+2026-01-05,Wings,540.0,Monday,1,2026
+2026-01-06,Wings,2760.0,Tuesday,1,2026
+2026-01-07,Wings,816.0,Wednesday,1,2026
+2026-01-08,Wings,651.0,Thursday,1,2026
+2026-01-09,Wings,447.0,Friday,1,2026
+2026-01-10,Wings,568.0,Saturday,1,2026
+2026-01-11,Wings,588.0,Sunday,1,2026
+2026-01-12,Wings,520.0,Monday,1,2026
+2026-01-13,Wings,2860.0,Tuesday,1,2026
+2026-01-14,Wings,558.0,Wednesday,1,2026
+2026-01-15,Wings,734.0,Thursday,1,2026
+2026-01-16,Wings,392.0,Friday,1,2026
+2026-01-17,Wings,441.0,Saturday,1,2026
+2026-01-18,Wings,680.0,Sunday,1,2026
+2026-01-19,Wings,523.0,Monday,1,2026
+2026-01-20,Wings,2702.0,Tuesday,1,2026
+2026-01-21,Wings,488.0,Wednesday,1,2026
+2026-01-22,Wings,719.0,Thursday,1,2026
+2026-01-23,Wings,477.0,Friday,1,2026
+2026-01-24,Wings,444.0,Saturday,1,2026
+2026-01-25,Wings,812.0,Sunday,1,2026
+2026-01-26,Wings,706.0,Monday,1,2026
+2026-01-27,Wings,2796.0,Tuesday,1,2026
+2026-01-28,Wings,436.0,Wednesday,1,2026
+2026-01-29,Wings,927.0,Thursday,1,2026
+2026-01-30,Wings,423.0,Friday,1,2026
+2026-01-31,Wings,500.0,Saturday,1,2026
+2026-02-01,Wings,392.0,Sunday,2,2026
+2026-02-02,Wings,405.0,Monday,2,2026
+2026-02-03,Wings,2155.0,Tuesday,2,2026
+2026-02-04,Wings,430.0,Wednesday,2,2026
+2026-02-05,Wings,970.0,Thursday,2,2026
+2026-02-06,Wings,458.0,Friday,2,2026
+2026-02-07,Wings,352.0,Saturday,2,2026
+2026-02-08,Wings,630.0,Sunday,2,2026
+2026-02-09,Wings,528.0,Monday,2,2026
+2026-02-10,Wings,2532.0,Tuesday,2,2026
+2026-02-11,Wings,173.0,Wednesday,2,2026
+2026-02-12,Wings,165.0,Thursday,2,2026
+2026-02-13,Wings,307.0,Friday,2,2026
+2026-02-14,Wings,413.0,Saturday,2,2026
+2026-02-15,Wings,462.0,Sunday,2,2026
+2026-02-16,Wings,443.0,Monday,2,2026
+2026-02-17,Wings,2647.0,Tuesday,2,2026
+2026-02-18,Wings,473.0,Wednesday,2,2026
+2026-02-19,Wings,241.0,Thursday,2,2026
+2026-02-20,Wings,136.0,Friday,2,2026
+2026-02-21,Wings,111.0,Saturday,2,2026
+2026-02-22,Wings,172.0,Sunday,2,2026
+2026-02-23,Wings,226.0,Monday,2,2026
+2026-02-24,Wings,1304.0,Tuesday,2,2026
+2026-02-25,Wings,518.0,Wednesday,2,2026
+2026-02-26,Wings,552.0,Thursday,2,2026
+2026-02-27,Wings,285.0,Friday,2,2026
+2026-02-28,Wings,225.0,Saturday,2,2026
+2026-03-01,Wings,300.0,Sunday,3,2026
+2026-03-02,Wings,296.0,Monday,3,2026
+2026-03-03,Wings,1986.0,Tuesday,3,2026
+2026-03-04,Wings,251.0,Wednesday,3,2026
+2026-03-05,Wings,875.0,Thursday,3,2026
+2026-03-06,Wings,220.0,Friday,3,2026
+2026-03-07,Wings,259.0,Saturday,3,2026
+2026-03-08,Wings,469.0,Sunday,3,2026
+2026-03-09,Wings,308.0,Monday,3,2026
+2026-03-10,Wings,1976.0,Tuesday,3,2026
+2026-03-11,Wings,305.0,Wednesday,3,2026
+2026-03-12,Wings,450.0,Thursday,3,2026
+2026-03-13,Wings,350.0,Friday,3,2026
+2026-03-14,Wings,368.0,Saturday,3,2026
+2026-03-15,Wings,482.0,Sunday,3,2026
+2026-03-16,Wings,733.0,Monday,3,2026
+2026-03-17,Wings,1516.0,Tuesday,3,2026
+2026-03-18,Wings,320.0,Wednesday,3,2026
+2026-03-19,Wings,313.0,Thursday,3,2026
+2026-03-20,Wings,343.0,Friday,3,2026
+2026-03-21,Wings,225.0,Saturday,3,2026
+2026-03-22,Wings,281.0,Sunday,3,2026
+2026-03-23,Wings,208.0,Monday,3,2026
+2026-03-24,Wings,2232.0,Tuesday,3,2026
+2026-03-25,Wings,387.0,Wednesday,3,2026
+2026-03-26,Wings,377.0,Thursday,3,2026
+2026-03-27,Wings,412.0,Friday,3,2026
+2026-03-28,Wings,373.0,Saturday,3,2026
+2026-03-29,Wings,946.0,Sunday,3,2026
+2026-03-30,Wings,549.0,Monday,3,2026
+2026-03-31,Wings,3401.0,Tuesday,3,2026
+2026-04-01,Wings,756.0,Wednesday,4,2026
+2026-04-02,Wings,861.0,Thursday,4,2026
+2026-04-03,Wings,426.0,Friday,4,2026
+2026-04-04,Wings,406.0,Saturday,4,2026
+2026-04-05,Wings,510.0,Sunday,4,2026
+2026-04-06,Wings,645.0,Monday,4,2026
+2026-04-07,Wings,2565.0,Tuesday,4,2026
+2026-04-08,Wings,717.0,Wednesday,4,2026
+2026-04-09,Wings,885.0,Thursday,4,2026
+2026-04-10,Wings,678.0,Friday,4,2026
+2026-04-11,Wings,531.0,Saturday,4,2026
+2026-04-12,Wings,789.0,Sunday,4,2026
+2026-04-13,Wings,576.0,Monday,4,2026
+2026-04-14,Wings,1894.0,Tuesday,4,2026
+2026-04-15,Wings,652.0,Wednesday,4,2026
+2026-04-16,Wings,791.0,Thursday,4,2026
+2026-04-17,Wings,496.0,Friday,4,2026
+2026-04-18,Wings,722.0,Saturday,4,2026
+2026-04-19,Wings,597.0,Sunday,4,2026
+2026-04-20,Wings,579.0,Monday,4,2026
+2026-04-21,Wings,2717.0,Tuesday,4,2026
+2026-04-22,Wings,786.0,Wednesday,4,2026
+2026-04-23,Wings,744.0,Thursday,4,2026
+2026-04-24,Wings,569.0,Friday,4,2026
+2026-04-25,Wings,407.0,Saturday,4,2026
+2026-04-26,Wings,489.0,Sunday,4,2026
+2026-04-27,Wings,786.0,Monday,4,2026
+2026-04-28,Wings,2779.0,Tuesday,4,2026
+2026-04-29,Wings,443.0,Wednesday,4,2026
+2026-04-30,Wings,748.0,Thursday,4,2026
+2026-05-01,Wings,666.0,Friday,5,2026
+2026-05-02,Wings,685.0,Saturday,5,2026
+2026-05-03,Wings,681.0,Sunday,5,2026
+2026-05-04,Wings,681.0,Monday,5,2026
+2026-05-05,Wings,3031.0,Tuesday,5,2026
+2026-05-06,Wings,638.0,Wednesday,5,2026
+2026-05-07,Wings,1090.0,Thursday,5,2026
+2026-05-08,Wings,511.0,Friday,5,2026
+2026-05-09,Wings,602.0,Saturday,5,2026
+2026-05-10,Wings,745.0,Sunday,5,2026
+2026-05-11,Wings,979.0,Monday,5,2026
+2026-05-12,Wings,2890.0,Tuesday,5,2026
+2026-05-13,Wings,535.0,Wednesday,5,2026
+2025-01-01,Zinger Fillet,95.0,Wednesday,1,2025
+2025-01-02,Zinger Fillet,73.0,Thursday,1,2025
+2025-01-03,Zinger Fillet,32.0,Friday,1,2025
+2025-01-04,Zinger Fillet,58.0,Saturday,1,2025
+2025-01-05,Zinger Fillet,81.0,Sunday,1,2025
+2025-01-06,Zinger Fillet,351.0,Monday,1,2025
+2025-01-07,Zinger Fillet,58.0,Tuesday,1,2025
+2025-01-08,Zinger Fillet,95.0,Wednesday,1,2025
+2025-01-09,Zinger Fillet,73.0,Thursday,1,2025
+2025-01-10,Zinger Fillet,32.0,Friday,1,2025
+2025-01-11,Zinger Fillet,58.0,Saturday,1,2025
+2025-01-12,Zinger Fillet,81.0,Sunday,1,2025
+2025-01-13,Zinger Fillet,351.0,Monday,1,2025
+2025-01-14,Zinger Fillet,58.0,Tuesday,1,2025
+2025-01-15,Zinger Fillet,95.0,Wednesday,1,2025
+2025-01-16,Zinger Fillet,73.0,Thursday,1,2025
+2025-01-17,Zinger Fillet,32.0,Friday,1,2025
+2025-01-18,Zinger Fillet,58.0,Saturday,1,2025
+2025-01-19,Zinger Fillet,81.0,Sunday,1,2025
+2025-01-20,Zinger Fillet,351.0,Monday,1,2025
+2025-01-21,Zinger Fillet,58.0,Tuesday,1,2025
+2025-01-22,Zinger Fillet,95.0,Wednesday,1,2025
+2025-01-23,Zinger Fillet,73.0,Thursday,1,2025
+2025-01-24,Zinger Fillet,32.0,Friday,1,2025
+2025-01-25,Zinger Fillet,58.0,Saturday,1,2025
+2025-01-26,Zinger Fillet,81.0,Sunday,1,2025
+2025-01-27,Zinger Fillet,351.0,Monday,1,2025
+2025-01-28,Zinger Fillet,58.0,Tuesday,1,2025
+2025-01-29,Zinger Fillet,95.0,Wednesday,1,2025
+2025-01-30,Zinger Fillet,73.0,Thursday,1,2025
+2025-01-31,Zinger Fillet,32.0,Friday,1,2025
+2025-02-01,Zinger Fillet,58.0,Saturday,2,2025
+2025-02-02,Zinger Fillet,81.0,Sunday,2,2025
+2025-02-03,Zinger Fillet,351.0,Monday,2,2025
+2025-02-04,Zinger Fillet,58.0,Tuesday,2,2025
+2025-02-05,Zinger Fillet,95.0,Wednesday,2,2025
+2025-02-06,Zinger Fillet,73.0,Thursday,2,2025
+2025-02-07,Zinger Fillet,32.0,Friday,2,2025
+2025-02-08,Zinger Fillet,58.0,Saturday,2,2025
+2025-02-09,Zinger Fillet,81.0,Sunday,2,2025
+2025-02-10,Zinger Fillet,351.0,Monday,2,2025
+2025-02-11,Zinger Fillet,58.0,Tuesday,2,2025
+2025-02-12,Zinger Fillet,95.0,Wednesday,2,2025
+2025-02-13,Zinger Fillet,73.0,Thursday,2,2025
+2025-02-14,Zinger Fillet,32.0,Friday,2,2025
+2025-02-15,Zinger Fillet,58.0,Saturday,2,2025
+2025-02-16,Zinger Fillet,81.0,Sunday,2,2025
+2025-02-17,Zinger Fillet,351.0,Monday,2,2025
+2025-02-18,Zinger Fillet,58.0,Tuesday,2,2025
+2025-02-19,Zinger Fillet,95.0,Wednesday,2,2025
+2025-02-20,Zinger Fillet,73.0,Thursday,2,2025
+2025-02-21,Zinger Fillet,32.0,Friday,2,2025
+2025-02-22,Zinger Fillet,58.0,Saturday,2,2025
+2025-02-23,Zinger Fillet,81.0,Sunday,2,2025
+2025-02-24,Zinger Fillet,351.0,Monday,2,2025
+2025-02-25,Zinger Fillet,58.0,Tuesday,2,2025
+2025-02-26,Zinger Fillet,95.0,Wednesday,2,2025
+2025-02-27,Zinger Fillet,73.0,Thursday,2,2025
+2025-02-28,Zinger Fillet,32.0,Friday,2,2025
+2025-03-01,Zinger Fillet,58.0,Saturday,3,2025
+2025-03-02,Zinger Fillet,81.0,Sunday,3,2025
+2025-03-03,Zinger Fillet,351.0,Monday,3,2025
+2025-03-04,Zinger Fillet,58.0,Tuesday,3,2025
+2025-03-05,Zinger Fillet,95.0,Wednesday,3,2025
+2025-03-06,Zinger Fillet,73.0,Thursday,3,2025
+2025-03-07,Zinger Fillet,32.0,Friday,3,2025
+2025-03-08,Zinger Fillet,58.0,Saturday,3,2025
+2025-03-09,Zinger Fillet,81.0,Sunday,3,2025
+2025-03-10,Zinger Fillet,351.0,Monday,3,2025
+2025-03-11,Zinger Fillet,58.0,Tuesday,3,2025
+2025-03-12,Zinger Fillet,95.0,Wednesday,3,2025
+2025-03-13,Zinger Fillet,73.0,Thursday,3,2025
+2025-03-14,Zinger Fillet,32.0,Friday,3,2025
+2025-03-15,Zinger Fillet,58.0,Saturday,3,2025
+2025-03-16,Zinger Fillet,81.0,Sunday,3,2025
+2025-03-17,Zinger Fillet,351.0,Monday,3,2025
+2025-03-18,Zinger Fillet,58.0,Tuesday,3,2025
+2025-03-19,Zinger Fillet,95.0,Wednesday,3,2025
+2025-03-20,Zinger Fillet,73.0,Thursday,3,2025
+2025-03-21,Zinger Fillet,32.0,Friday,3,2025
+2025-03-22,Zinger Fillet,58.0,Saturday,3,2025
+2025-03-23,Zinger Fillet,81.0,Sunday,3,2025
+2025-03-24,Zinger Fillet,351.0,Monday,3,2025
+2025-03-25,Zinger Fillet,58.0,Tuesday,3,2025
+2025-03-26,Zinger Fillet,95.0,Wednesday,3,2025
+2025-03-27,Zinger Fillet,73.0,Thursday,3,2025
+2025-03-28,Zinger Fillet,32.0,Friday,3,2025
+2025-03-29,Zinger Fillet,58.0,Saturday,3,2025
+2025-03-30,Zinger Fillet,81.0,Sunday,3,2025
+2025-03-31,Zinger Fillet,351.0,Monday,3,2025
+2025-04-01,Zinger Fillet,58.0,Tuesday,4,2025
+2025-04-02,Zinger Fillet,95.0,Wednesday,4,2025
+2025-04-03,Zinger Fillet,73.0,Thursday,4,2025
+2025-04-04,Zinger Fillet,32.0,Friday,4,2025
+2025-04-05,Zinger Fillet,58.0,Saturday,4,2025
+2025-04-06,Zinger Fillet,81.0,Sunday,4,2025
+2025-04-07,Zinger Fillet,351.0,Monday,4,2025
+2025-04-08,Zinger Fillet,58.0,Tuesday,4,2025
+2025-04-09,Zinger Fillet,95.0,Wednesday,4,2025
+2025-04-10,Zinger Fillet,73.0,Thursday,4,2025
+2025-04-11,Zinger Fillet,32.0,Friday,4,2025
+2025-04-12,Zinger Fillet,58.0,Saturday,4,2025
+2025-04-13,Zinger Fillet,81.0,Sunday,4,2025
+2025-04-14,Zinger Fillet,190.0,Monday,4,2025
+2025-04-15,Zinger Fillet,73.0,Tuesday,4,2025
+2025-04-16,Zinger Fillet,65.0,Wednesday,4,2025
+2025-04-17,Zinger Fillet,79.0,Thursday,4,2025
+2025-04-18,Zinger Fillet,37.0,Friday,4,2025
+2025-04-19,Zinger Fillet,32.0,Saturday,4,2025
+2025-04-20,Zinger Fillet,84.0,Sunday,4,2025
+2025-04-21,Zinger Fillet,213.0,Monday,4,2025
+2025-04-22,Zinger Fillet,69.0,Tuesday,4,2025
+2025-04-23,Zinger Fillet,73.0,Wednesday,4,2025
+2025-04-24,Zinger Fillet,119.0,Thursday,4,2025
+2025-04-25,Zinger Fillet,43.0,Friday,4,2025
+2025-04-26,Zinger Fillet,78.0,Saturday,4,2025
+2025-04-27,Zinger Fillet,60.0,Sunday,4,2025
+2025-04-28,Zinger Fillet,223.0,Monday,4,2025
+2025-04-29,Zinger Fillet,98.0,Tuesday,4,2025
+2025-04-30,Zinger Fillet,88.0,Wednesday,4,2025
+2025-05-01,Zinger Fillet,64.0,Thursday,5,2025
+2025-05-02,Zinger Fillet,55.0,Friday,5,2025
+2025-05-03,Zinger Fillet,55.0,Saturday,5,2025
+2025-05-04,Zinger Fillet,45.0,Sunday,5,2025
+2025-05-05,Zinger Fillet,342.0,Monday,5,2025
+2025-05-06,Zinger Fillet,55.0,Tuesday,5,2025
+2025-05-07,Zinger Fillet,82.0,Wednesday,5,2025
+2025-05-08,Zinger Fillet,129.0,Thursday,5,2025
+2025-05-09,Zinger Fillet,129.0,Friday,5,2025
+2025-05-10,Zinger Fillet,32.0,Saturday,5,2025
+2025-05-11,Zinger Fillet,29.0,Sunday,5,2025
+2025-05-12,Zinger Fillet,47.0,Monday,5,2025
+2025-05-13,Zinger Fillet,78.0,Tuesday,5,2025
+2025-05-14,Zinger Fillet,86.0,Wednesday,5,2025
+2025-05-15,Zinger Fillet,77.0,Thursday,5,2025
+2025-05-16,Zinger Fillet,51.0,Friday,5,2025
+2025-05-17,Zinger Fillet,89.0,Saturday,5,2025
+2025-05-18,Zinger Fillet,75.0,Sunday,5,2025
+2025-05-19,Zinger Fillet,337.0,Monday,5,2025
+2025-05-20,Zinger Fillet,38.0,Tuesday,5,2025
+2025-05-21,Zinger Fillet,95.0,Wednesday,5,2025
+2025-05-22,Zinger Fillet,67.0,Thursday,5,2025
+2025-05-23,Zinger Fillet,58.0,Friday,5,2025
+2025-05-24,Zinger Fillet,54.0,Saturday,5,2025
+2025-05-25,Zinger Fillet,107.0,Sunday,5,2025
+2025-05-26,Zinger Fillet,335.0,Monday,5,2025
+2025-05-27,Zinger Fillet,72.0,Tuesday,5,2025
+2025-05-28,Zinger Fillet,66.0,Wednesday,5,2025
+2025-05-29,Zinger Fillet,199.0,Thursday,5,2025
+2025-05-30,Zinger Fillet,63.0,Friday,5,2025
+2025-05-31,Zinger Fillet,54.0,Saturday,5,2025
+2025-06-01,Zinger Fillet,77.0,Sunday,6,2025
+2025-06-02,Zinger Fillet,394.0,Monday,6,2025
+2025-06-03,Zinger Fillet,61.0,Tuesday,6,2025
+2025-06-04,Zinger Fillet,119.0,Wednesday,6,2025
+2025-06-05,Zinger Fillet,46.0,Thursday,6,2025
+2025-06-06,Zinger Fillet,41.0,Friday,6,2025
+2025-06-07,Zinger Fillet,20.0,Saturday,6,2025
+2025-06-08,Zinger Fillet,45.0,Sunday,6,2025
+2025-06-09,Zinger Fillet,151.0,Monday,6,2025
+2025-06-10,Zinger Fillet,75.0,Tuesday,6,2025
+2025-06-11,Zinger Fillet,51.0,Wednesday,6,2025
+2025-06-12,Zinger Fillet,82.0,Thursday,6,2025
+2025-06-13,Zinger Fillet,59.0,Friday,6,2025
+2025-06-14,Zinger Fillet,39.0,Saturday,6,2025
+2025-06-15,Zinger Fillet,88.0,Sunday,6,2025
+2025-06-16,Zinger Fillet,259.0,Monday,6,2025
+2025-06-17,Zinger Fillet,71.0,Tuesday,6,2025
+2025-06-18,Zinger Fillet,63.0,Wednesday,6,2025
+2025-06-19,Zinger Fillet,251.0,Thursday,6,2025
+2025-06-20,Zinger Fillet,138.0,Friday,6,2025
+2025-06-21,Zinger Fillet,58.0,Saturday,6,2025
+2025-06-22,Zinger Fillet,78.0,Sunday,6,2025
+2025-06-23,Zinger Fillet,372.0,Monday,6,2025
+2025-06-24,Zinger Fillet,115.0,Tuesday,6,2025
+2025-06-25,Zinger Fillet,115.0,Wednesday,6,2025
+2025-06-26,Zinger Fillet,95.0,Thursday,6,2025
+2025-06-27,Zinger Fillet,62.0,Friday,6,2025
+2025-06-28,Zinger Fillet,78.0,Saturday,6,2025
+2025-06-29,Zinger Fillet,78.0,Sunday,6,2025
+2025-06-30,Zinger Fillet,474.0,Monday,6,2025
+2025-07-01,Zinger Fillet,3.0,Tuesday,7,2025
+2025-07-02,Zinger Fillet,116.0,Wednesday,7,2025
+2025-07-03,Zinger Fillet,164.0,Thursday,7,2025
+2025-07-04,Zinger Fillet,68.0,Friday,7,2025
+2025-07-05,Zinger Fillet,42.0,Saturday,7,2025
+2025-07-06,Zinger Fillet,50.0,Sunday,7,2025
+2025-07-07,Zinger Fillet,354.0,Monday,7,2025
+2025-07-08,Zinger Fillet,58.0,Tuesday,7,2025
+2025-07-09,Zinger Fillet,84.0,Wednesday,7,2025
+2025-07-10,Zinger Fillet,105.0,Thursday,7,2025
+2025-07-11,Zinger Fillet,65.0,Friday,7,2025
+2025-07-12,Zinger Fillet,30.0,Saturday,7,2025
+2025-07-13,Zinger Fillet,100.0,Sunday,7,2025
+2025-07-14,Zinger Fillet,351.0,Monday,7,2025
+2025-07-15,Zinger Fillet,56.0,Tuesday,7,2025
+2025-07-16,Zinger Fillet,128.0,Wednesday,7,2025
+2025-07-17,Zinger Fillet,76.0,Thursday,7,2025
+2025-07-18,Zinger Fillet,73.0,Friday,7,2025
+2025-07-19,Zinger Fillet,82.0,Saturday,7,2025
+2025-07-20,Zinger Fillet,48.0,Sunday,7,2025
+2025-07-21,Zinger Fillet,380.0,Monday,7,2025
+2025-07-22,Zinger Fillet,63.0,Tuesday,7,2025
+2025-07-23,Zinger Fillet,150.0,Wednesday,7,2025
+2025-07-24,Zinger Fillet,51.0,Thursday,7,2025
+2025-07-25,Zinger Fillet,30.0,Friday,7,2025
+2025-07-26,Zinger Fillet,48.0,Saturday,7,2025
+2025-07-27,Zinger Fillet,61.0,Sunday,7,2025
+2025-07-28,Zinger Fillet,477.0,Monday,7,2025
+2025-07-29,Zinger Fillet,39.0,Tuesday,7,2025
+2025-07-30,Zinger Fillet,113.0,Wednesday,7,2025
+2025-07-31,Zinger Fillet,98.0,Thursday,7,2025
+2025-08-01,Zinger Fillet,80.0,Friday,8,2025
+2025-08-02,Zinger Fillet,45.0,Saturday,8,2025
+2025-08-03,Zinger Fillet,44.0,Sunday,8,2025
+2025-08-04,Zinger Fillet,431.0,Monday,8,2025
+2025-08-05,Zinger Fillet,36.0,Tuesday,8,2025
+2025-08-06,Zinger Fillet,78.0,Wednesday,8,2025
+2025-08-07,Zinger Fillet,180.0,Thursday,8,2025
+2025-08-08,Zinger Fillet,65.0,Friday,8,2025
+2025-08-09,Zinger Fillet,45.0,Saturday,8,2025
+2025-08-10,Zinger Fillet,155.0,Sunday,8,2025
+2025-08-11,Zinger Fillet,351.0,Monday,8,2025
+2025-08-12,Zinger Fillet,67.0,Tuesday,8,2025
+2025-08-13,Zinger Fillet,60.0,Wednesday,8,2025
+2025-08-14,Zinger Fillet,77.0,Thursday,8,2025
+2025-08-15,Zinger Fillet,71.0,Friday,8,2025
+2025-08-16,Zinger Fillet,51.0,Saturday,8,2025
+2025-08-17,Zinger Fillet,70.0,Sunday,8,2025
+2025-08-18,Zinger Fillet,384.0,Monday,8,2025
+2025-08-19,Zinger Fillet,96.0,Tuesday,8,2025
+2025-08-20,Zinger Fillet,77.0,Wednesday,8,2025
+2025-08-21,Zinger Fillet,145.0,Thursday,8,2025
+2025-08-22,Zinger Fillet,57.0,Friday,8,2025
+2025-08-23,Zinger Fillet,51.0,Saturday,8,2025
+2025-08-24,Zinger Fillet,85.0,Sunday,8,2025
+2025-08-25,Zinger Fillet,342.0,Monday,8,2025
+2025-08-26,Zinger Fillet,76.0,Tuesday,8,2025
+2025-08-27,Zinger Fillet,91.0,Wednesday,8,2025
+2025-08-28,Zinger Fillet,190.0,Thursday,8,2025
+2025-08-29,Zinger Fillet,58.0,Friday,8,2025
+2025-08-30,Zinger Fillet,53.0,Saturday,8,2025
+2025-08-31,Zinger Fillet,75.0,Sunday,8,2025
+2025-09-01,Zinger Fillet,478.0,Monday,9,2025
+2025-09-02,Zinger Fillet,57.0,Tuesday,9,2025
+2025-09-03,Zinger Fillet,83.0,Wednesday,9,2025
+2025-09-04,Zinger Fillet,97.0,Thursday,9,2025
+2025-09-05,Zinger Fillet,78.0,Friday,9,2025
+2025-09-06,Zinger Fillet,77.0,Saturday,9,2025
+2025-09-07,Zinger Fillet,81.0,Sunday,9,2025
+2025-09-08,Zinger Fillet,351.0,Monday,9,2025
+2025-09-09,Zinger Fillet,81.0,Tuesday,9,2025
+2025-09-10,Zinger Fillet,77.0,Wednesday,9,2025
+2025-09-11,Zinger Fillet,101.0,Thursday,9,2025
+2025-09-12,Zinger Fillet,84.0,Friday,9,2025
+2025-09-13,Zinger Fillet,68.0,Saturday,9,2025
+2025-09-14,Zinger Fillet,57.0,Sunday,9,2025
+2025-09-15,Zinger Fillet,337.0,Monday,9,2025
+2025-09-16,Zinger Fillet,29.0,Tuesday,9,2025
+2025-09-17,Zinger Fillet,146.0,Wednesday,9,2025
+2025-09-18,Zinger Fillet,106.0,Thursday,9,2025
+2025-09-19,Zinger Fillet,84.0,Friday,9,2025
+2025-09-20,Zinger Fillet,43.0,Saturday,9,2025
+2025-09-21,Zinger Fillet,53.0,Sunday,9,2025
+2025-09-22,Zinger Fillet,347.0,Monday,9,2025
+2025-09-23,Zinger Fillet,101.0,Tuesday,9,2025
+2025-09-24,Zinger Fillet,93.0,Wednesday,9,2025
+2025-09-25,Zinger Fillet,75.0,Thursday,9,2025
+2025-09-26,Zinger Fillet,90.0,Friday,9,2025
+2025-09-27,Zinger Fillet,75.0,Saturday,9,2025
+2025-09-28,Zinger Fillet,96.0,Sunday,9,2025
+2025-09-29,Zinger Fillet,353.0,Monday,9,2025
+2025-09-30,Zinger Fillet,92.0,Tuesday,9,2025
+2025-10-01,Zinger Fillet,55.0,Wednesday,10,2025
+2025-10-02,Zinger Fillet,56.0,Thursday,10,2025
+2025-10-03,Zinger Fillet,70.0,Friday,10,2025
+2025-10-04,Zinger Fillet,41.0,Saturday,10,2025
+2025-10-05,Zinger Fillet,57.0,Sunday,10,2025
+2025-10-06,Zinger Fillet,294.0,Monday,10,2025
+2025-10-07,Zinger Fillet,64.0,Tuesday,10,2025
+2025-10-08,Zinger Fillet,97.0,Wednesday,10,2025
+2025-10-09,Zinger Fillet,108.0,Thursday,10,2025
+2025-10-10,Zinger Fillet,56.0,Friday,10,2025
+2025-10-11,Zinger Fillet,77.0,Saturday,10,2025
+2025-10-12,Zinger Fillet,82.0,Sunday,10,2025
+2025-10-13,Zinger Fillet,431.0,Monday,10,2025
+2025-10-14,Zinger Fillet,67.0,Tuesday,10,2025
+2025-10-15,Zinger Fillet,106.0,Wednesday,10,2025
+2025-10-16,Zinger Fillet,107.0,Thursday,10,2025
+2025-10-17,Zinger Fillet,61.0,Friday,10,2025
+2025-10-18,Zinger Fillet,72.0,Saturday,10,2025
+2025-10-19,Zinger Fillet,99.0,Sunday,10,2025
+2025-10-20,Zinger Fillet,357.0,Monday,10,2025
+2025-10-21,Zinger Fillet,41.0,Tuesday,10,2025
+2025-10-22,Zinger Fillet,109.0,Wednesday,10,2025
+2025-10-23,Zinger Fillet,99.0,Thursday,10,2025
+2025-10-24,Zinger Fillet,67.0,Friday,10,2025
+2025-10-25,Zinger Fillet,49.0,Saturday,10,2025
+2025-10-26,Zinger Fillet,215.0,Sunday,10,2025
+2025-10-27,Zinger Fillet,387.0,Monday,10,2025
+2025-10-28,Zinger Fillet,197.0,Tuesday,10,2025
+2025-10-29,Zinger Fillet,83.0,Wednesday,10,2025
+2025-10-30,Zinger Fillet,81.0,Thursday,10,2025
+2025-10-31,Zinger Fillet,60.0,Friday,10,2025
+2025-11-01,Zinger Fillet,59.0,Saturday,11,2025
+2025-11-02,Zinger Fillet,82.0,Sunday,11,2025
+2025-11-03,Zinger Fillet,375.0,Monday,11,2025
+2025-11-04,Zinger Fillet,78.0,Tuesday,11,2025
+2025-11-05,Zinger Fillet,90.0,Wednesday,11,2025
+2025-11-06,Zinger Fillet,79.0,Thursday,11,2025
+2025-11-07,Zinger Fillet,86.0,Friday,11,2025
+2025-11-08,Zinger Fillet,99.0,Saturday,11,2025
+2025-11-09,Zinger Fillet,66.0,Sunday,11,2025
+2025-11-10,Zinger Fillet,342.0,Monday,11,2025
+2025-11-11,Zinger Fillet,75.0,Tuesday,11,2025
+2025-11-12,Zinger Fillet,85.0,Wednesday,11,2025
+2025-11-13,Zinger Fillet,111.0,Thursday,11,2025
+2025-11-14,Zinger Fillet,58.0,Friday,11,2025
+2025-11-15,Zinger Fillet,58.0,Saturday,11,2025
+2025-11-16,Zinger Fillet,91.0,Sunday,11,2025
+2025-11-17,Zinger Fillet,344.0,Monday,11,2025
+2025-11-18,Zinger Fillet,81.0,Tuesday,11,2025
+2025-11-19,Zinger Fillet,99.0,Wednesday,11,2025
+2025-11-20,Zinger Fillet,73.0,Thursday,11,2025
+2025-11-21,Zinger Fillet,69.0,Friday,11,2025
+2025-11-22,Zinger Fillet,93.0,Saturday,11,2025
+2025-11-23,Zinger Fillet,104.0,Sunday,11,2025
+2025-11-24,Zinger Fillet,367.0,Monday,11,2025
+2025-11-25,Zinger Fillet,136.0,Tuesday,11,2025
+2025-11-26,Zinger Fillet,95.0,Wednesday,11,2025
+2025-11-27,Zinger Fillet,73.0,Thursday,11,2025
+2025-11-28,Zinger Fillet,32.0,Friday,11,2025
+2025-11-29,Zinger Fillet,58.0,Saturday,11,2025
+2025-11-30,Zinger Fillet,61.0,Sunday,11,2025
+2025-12-01,Zinger Fillet,422.0,Monday,12,2025
+2025-12-02,Zinger Fillet,67.0,Tuesday,12,2025
+2025-12-03,Zinger Fillet,74.0,Wednesday,12,2025
+2025-12-04,Zinger Fillet,94.0,Thursday,12,2025
+2025-12-05,Zinger Fillet,58.0,Friday,12,2025
+2025-12-06,Zinger Fillet,84.0,Saturday,12,2025
+2025-12-07,Zinger Fillet,72.0,Sunday,12,2025
+2025-12-08,Zinger Fillet,321.0,Monday,12,2025
+2025-12-09,Zinger Fillet,81.0,Tuesday,12,2025
+2025-12-10,Zinger Fillet,157.0,Wednesday,12,2025
+2025-12-11,Zinger Fillet,77.0,Thursday,12,2025
+2025-12-12,Zinger Fillet,63.0,Friday,12,2025
+2025-12-13,Zinger Fillet,69.0,Saturday,12,2025
+2025-12-14,Zinger Fillet,123.0,Sunday,12,2025
+2025-12-15,Zinger Fillet,331.0,Monday,12,2025
+2025-12-16,Zinger Fillet,68.0,Tuesday,12,2025
+2025-12-17,Zinger Fillet,95.0,Wednesday,12,2025
+2025-12-18,Zinger Fillet,73.0,Thursday,12,2025
+2025-12-19,Zinger Fillet,32.0,Friday,12,2025
+2025-12-20,Zinger Fillet,58.0,Saturday,12,2025
+2025-12-21,Zinger Fillet,81.0,Sunday,12,2025
+2025-12-22,Zinger Fillet,363.0,Monday,12,2025
+2025-12-23,Zinger Fillet,97.0,Tuesday,12,2025
+2025-12-24,Zinger Fillet,105.0,Wednesday,12,2025
+2025-12-25,Zinger Fillet,63.0,Thursday,12,2025
+2025-12-26,Zinger Fillet,49.0,Friday,12,2025
+2025-12-27,Zinger Fillet,58.0,Saturday,12,2025
+2025-12-28,Zinger Fillet,78.0,Sunday,12,2025
+2025-12-29,Zinger Fillet,449.0,Monday,12,2025
+2025-12-30,Zinger Fillet,64.0,Tuesday,12,2025
+2025-12-31,Zinger Fillet,67.0,Wednesday,12,2025
+2026-01-01,Zinger Fillet,122.0,Thursday,1,2026
+2026-01-02,Zinger Fillet,63.0,Friday,1,2026
+2026-01-03,Zinger Fillet,62.0,Saturday,1,2026
+2026-01-04,Zinger Fillet,71.0,Sunday,1,2026
+2026-01-05,Zinger Fillet,393.0,Monday,1,2026
+2026-01-06,Zinger Fillet,78.0,Tuesday,1,2026
+2026-01-07,Zinger Fillet,105.0,Wednesday,1,2026
+2026-01-08,Zinger Fillet,124.0,Thursday,1,2026
+2026-01-09,Zinger Fillet,69.0,Friday,1,2026
+2026-01-10,Zinger Fillet,87.0,Saturday,1,2026
+2026-01-11,Zinger Fillet,76.0,Sunday,1,2026
+2026-01-12,Zinger Fillet,303.0,Monday,1,2026
+2026-01-13,Zinger Fillet,115.0,Tuesday,1,2026
+2026-01-14,Zinger Fillet,74.0,Wednesday,1,2026
+2026-01-15,Zinger Fillet,107.0,Thursday,1,2026
+2026-01-16,Zinger Fillet,62.0,Friday,1,2026
+2026-01-17,Zinger Fillet,65.0,Saturday,1,2026
+2026-01-18,Zinger Fillet,108.0,Sunday,1,2026
+2026-01-19,Zinger Fillet,393.0,Monday,1,2026
+2026-01-20,Zinger Fillet,100.0,Tuesday,1,2026
+2026-01-21,Zinger Fillet,67.0,Wednesday,1,2026
+2026-01-22,Zinger Fillet,98.0,Thursday,1,2026
+2026-01-23,Zinger Fillet,56.0,Friday,1,2026
+2026-01-24,Zinger Fillet,62.0,Saturday,1,2026
+2026-01-25,Zinger Fillet,101.0,Sunday,1,2026
+2026-01-26,Zinger Fillet,301.0,Monday,1,2026
+2026-01-27,Zinger Fillet,65.0,Tuesday,1,2026
+2026-01-28,Zinger Fillet,90.0,Wednesday,1,2026
+2026-01-29,Zinger Fillet,91.0,Thursday,1,2026
+2026-01-30,Zinger Fillet,76.0,Friday,1,2026
+2026-01-31,Zinger Fillet,57.0,Saturday,1,2026
+2026-02-01,Zinger Fillet,67.0,Sunday,2,2026
+2026-02-02,Zinger Fillet,330.0,Monday,2,2026
+2026-02-03,Zinger Fillet,80.0,Tuesday,2,2026
+2026-02-04,Zinger Fillet,48.0,Wednesday,2,2026
+2026-02-05,Zinger Fillet,83.0,Thursday,2,2026
+2026-02-06,Zinger Fillet,50.0,Friday,2,2026
+2026-02-07,Zinger Fillet,54.0,Saturday,2,2026
+2026-02-08,Zinger Fillet,96.0,Sunday,2,2026
+2026-02-09,Zinger Fillet,372.0,Monday,2,2026
+2026-02-10,Zinger Fillet,53.0,Tuesday,2,2026
+2026-02-11,Zinger Fillet,34.0,Wednesday,2,2026
+2026-02-12,Zinger Fillet,19.0,Thursday,2,2026
+2026-02-13,Zinger Fillet,65.0,Friday,2,2026
+2026-02-14,Zinger Fillet,64.0,Saturday,2,2026
+2026-02-15,Zinger Fillet,72.0,Sunday,2,2026
+2026-02-16,Zinger Fillet,354.0,Monday,2,2026
+2026-02-17,Zinger Fillet,90.0,Tuesday,2,2026
+2026-02-18,Zinger Fillet,86.0,Wednesday,2,2026
+2026-02-19,Zinger Fillet,33.0,Thursday,2,2026
+2026-02-20,Zinger Fillet,25.0,Friday,2,2026
+2026-02-21,Zinger Fillet,17.0,Saturday,2,2026
+2026-02-22,Zinger Fillet,27.0,Sunday,2,2026
+2026-02-23,Zinger Fillet,201.0,Monday,2,2026
+2026-02-24,Zinger Fillet,59.0,Tuesday,2,2026
+2026-02-25,Zinger Fillet,72.0,Wednesday,2,2026
+2026-02-26,Zinger Fillet,53.0,Thursday,2,2026
+2026-02-27,Zinger Fillet,30.0,Friday,2,2026
+2026-02-28,Zinger Fillet,23.0,Saturday,2,2026
+2026-03-01,Zinger Fillet,53.0,Sunday,3,2026
+2026-03-02,Zinger Fillet,235.0,Monday,3,2026
+2026-03-03,Zinger Fillet,75.0,Tuesday,3,2026
+2026-03-04,Zinger Fillet,36.0,Wednesday,3,2026
+2026-03-05,Zinger Fillet,60.0,Thursday,3,2026
+2026-03-06,Zinger Fillet,35.0,Friday,3,2026
+2026-03-07,Zinger Fillet,53.0,Saturday,3,2026
+2026-03-08,Zinger Fillet,78.0,Sunday,3,2026
+2026-03-09,Zinger Fillet,247.0,Monday,3,2026
+2026-03-10,Zinger Fillet,63.0,Tuesday,3,2026
+2026-03-11,Zinger Fillet,85.0,Wednesday,3,2026
+2026-03-12,Zinger Fillet,53.0,Thursday,3,2026
+2026-03-13,Zinger Fillet,51.0,Friday,3,2026
+2026-03-14,Zinger Fillet,48.0,Saturday,3,2026
+2026-03-15,Zinger Fillet,62.0,Sunday,3,2026
+2026-03-16,Zinger Fillet,279.0,Monday,3,2026
+2026-03-17,Zinger Fillet,53.0,Tuesday,3,2026
+2026-03-18,Zinger Fillet,60.0,Wednesday,3,2026
+2026-03-19,Zinger Fillet,55.0,Thursday,3,2026
+2026-03-20,Zinger Fillet,60.0,Friday,3,2026
+2026-03-21,Zinger Fillet,24.0,Saturday,3,2026
+2026-03-22,Zinger Fillet,78.0,Sunday,3,2026
+2026-03-23,Zinger Fillet,200.0,Monday,3,2026
+2026-03-24,Zinger Fillet,81.0,Tuesday,3,2026
+2026-03-25,Zinger Fillet,55.0,Wednesday,3,2026
+2026-03-26,Zinger Fillet,78.0,Thursday,3,2026
+2026-03-27,Zinger Fillet,65.0,Friday,3,2026
+2026-03-28,Zinger Fillet,70.0,Saturday,3,2026
+2026-03-29,Zinger Fillet,110.0,Sunday,3,2026
+2026-03-30,Zinger Fillet,403.0,Monday,3,2026
+2026-03-31,Zinger Fillet,87.0,Tuesday,3,2026
+2026-04-01,Zinger Fillet,88.0,Wednesday,4,2026
+2026-04-02,Zinger Fillet,120.0,Thursday,4,2026
+2026-04-03,Zinger Fillet,72.0,Friday,4,2026
+2026-04-04,Zinger Fillet,67.0,Saturday,4,2026
+2026-04-05,Zinger Fillet,77.0,Sunday,4,2026
+2026-04-06,Zinger Fillet,338.0,Monday,4,2026
+2026-04-07,Zinger Fillet,68.0,Tuesday,4,2026
+2026-04-08,Zinger Fillet,96.0,Wednesday,4,2026
+2026-04-09,Zinger Fillet,112.0,Thursday,4,2026
+2026-04-10,Zinger Fillet,82.0,Friday,4,2026
+2026-04-11,Zinger Fillet,72.0,Saturday,4,2026
+2026-04-12,Zinger Fillet,64.0,Sunday,4,2026
+2026-04-13,Zinger Fillet,280.0,Monday,4,2026
+2026-04-14,Zinger Fillet,75.0,Tuesday,4,2026
+2026-04-15,Zinger Fillet,73.0,Wednesday,4,2026
+2026-04-16,Zinger Fillet,69.0,Thursday,4,2026
+2026-04-17,Zinger Fillet,69.0,Friday,4,2026
+2026-04-18,Zinger Fillet,73.0,Saturday,4,2026
+2026-04-19,Zinger Fillet,62.0,Sunday,4,2026
+2026-04-20,Zinger Fillet,288.0,Monday,4,2026
+2026-04-21,Zinger Fillet,66.0,Tuesday,4,2026
+2026-04-22,Zinger Fillet,86.0,Wednesday,4,2026
+2026-04-23,Zinger Fillet,85.0,Thursday,4,2026
+2026-04-24,Zinger Fillet,55.0,Friday,4,2026
+2026-04-25,Zinger Fillet,65.0,Saturday,4,2026
+2026-04-26,Zinger Fillet,72.0,Sunday,4,2026
+2026-04-27,Zinger Fillet,347.0,Monday,4,2026
+2026-04-28,Zinger Fillet,63.0,Tuesday,4,2026
+2026-04-29,Zinger Fillet,64.0,Wednesday,4,2026
+2026-04-30,Zinger Fillet,117.0,Thursday,4,2026
+2026-05-01,Zinger Fillet,74.0,Friday,5,2026
+2026-05-02,Zinger Fillet,59.0,Saturday,5,2026
+2026-05-03,Zinger Fillet,66.0,Sunday,5,2026
+2026-05-04,Zinger Fillet,377.0,Monday,5,2026
+2026-05-05,Zinger Fillet,39.0,Tuesday,5,2026
+2026-05-06,Zinger Fillet,74.0,Wednesday,5,2026
+2026-05-07,Zinger Fillet,85.0,Thursday,5,2026
+2026-05-08,Zinger Fillet,50.0,Friday,5,2026
+2026-05-09,Zinger Fillet,51.0,Saturday,5,2026
+2026-05-10,Zinger Fillet,96.0,Sunday,5,2026
+2026-05-11,Zinger Fillet,328.0,Monday,5,2026
+2026-05-12,Zinger Fillet,96.0,Tuesday,5,2026
+2026-05-13,Zinger Fillet,93.0,Wednesday,5,2026

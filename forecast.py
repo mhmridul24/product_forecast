@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("clean_usage_data.csv")
 
-print("\n===== CLEAN DATASET =====")
-print(df.head())
+# print("\n===== CLEAN DATASET =====")
+# print(df.head())
 
 # =========================
 # SELECT PRODUCT

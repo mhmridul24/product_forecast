@@ -497,6 +497,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Chicken,657.0,Monday,5,2026
 2026-05-12,Chicken,3616.0,Tuesday,5,2026
 2026-05-13,Chicken,1435.0,Wednesday,5,2026
+2026-05-14,Chicken,911.0,Thursday,5,2026
 2025-01-01,Chicken Breast Strips,362.0,Wednesday,1,2025
 2025-01-02,Chicken Breast Strips,301.0,Thursday,1,2025
 2025-01-03,Chicken Breast Strips,183.0,Friday,1,2025
@@ -995,6 +996,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Chicken Breast Strips,565.0,Monday,5,2026
 2026-05-12,Chicken Breast Strips,2546.0,Tuesday,5,2026
 2026-05-13,Chicken Breast Strips,229.0,Wednesday,5,2026
+2026-05-14,Chicken Breast Strips,542.0,Thursday,5,2026
 2025-01-01,Drum Stick,80.0,Wednesday,1,2025
 2025-01-02,Drum Stick,24.0,Thursday,1,2025
 2025-01-03,Drum Stick,24.0,Friday,1,2025
@@ -1493,6 +1495,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Drum Stick,34.0,Monday,5,2026
 2026-05-12,Drum Stick,35.0,Tuesday,5,2026
 2026-05-13,Drum Stick,37.0,Wednesday,5,2026
+2026-05-14,Drum Stick,54.0,Thursday,5,2026
 2025-01-01,Fiery Thigh & Drums,0.0,Wednesday,1,2025
 2025-01-02,Fiery Thigh & Drums,0.0,Thursday,1,2025
 2025-01-03,Fiery Thigh & Drums,0.0,Friday,1,2025
@@ -1991,6 +1994,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Fiery Thigh & Drums,0.0,Monday,5,2026
 2026-05-12,Fiery Thigh & Drums,0.0,Tuesday,5,2026
 2026-05-13,Fiery Thigh & Drums,0.0,Wednesday,5,2026
+2026-05-14,Fiery Thigh & Drums,0.0,Thursday,5,2026
 2025-01-01,Popcorn Chicken,2.61,Wednesday,1,2025
 2025-01-02,Popcorn Chicken,4.9,Thursday,1,2025
 2025-01-03,Popcorn Chicken,1.5,Friday,1,2025
@@ -2489,6 +2493,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Popcorn Chicken,6.36,Monday,5,2026
 2026-05-12,Popcorn Chicken,2.88,Tuesday,5,2026
 2026-05-13,Popcorn Chicken,2.67,Wednesday,5,2026
+2026-05-14,Popcorn Chicken,5.71,Thursday,5,2026
 2025-01-01,Wings,597.0,Wednesday,1,2025
 2025-01-02,Wings,728.0,Thursday,1,2025
 2025-01-03,Wings,460.0,Friday,1,2025
@@ -2987,6 +2992,7 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Wings,979.0,Monday,5,2026
 2026-05-12,Wings,2890.0,Tuesday,5,2026
 2026-05-13,Wings,535.0,Wednesday,5,2026
+2026-05-14,Wings,1241.0,Thursday,5,2026
 2025-01-01,Zinger Fillet,95.0,Wednesday,1,2025
 2025-01-02,Zinger Fillet,73.0,Thursday,1,2025
 2025-01-03,Zinger Fillet,32.0,Friday,1,2025
@@ -3485,3 +3491,4 @@ Date,Product,Usage,DayName,Month,Year
 2026-05-11,Zinger Fillet,328.0,Monday,5,2026
 2026-05-12,Zinger Fillet,96.0,Tuesday,5,2026
 2026-05-13,Zinger Fillet,93.0,Wednesday,5,2026
+2026-05-14,Zinger Fillet,86.0,Thursday,5,2026
